@@ -1,0 +1,17 @@
+﻿# Hobgoblin — generated start era + innovations
+1065.1.1 = {
+	join_era = culture_era_early_medieval
+}
+1066.1.1 = {
+	discover_innovation = innovation_all_things
+	discover_innovation = innovation_bannus
+	discover_innovation = innovation_casus_belli
+	discover_innovation = innovation_city_planning
+	discover_innovation = innovation_currency_01
+	discover_innovation = innovation_gavelkind
+	discover_innovation = innovation_ledger
+	discover_innovation = innovation_mustering_grounds
+	discover_innovation = innovation_currency_02
+	discover_innovation = innovation_hereditary_rule
+	discover_innovation = innovation_manorialism
+}

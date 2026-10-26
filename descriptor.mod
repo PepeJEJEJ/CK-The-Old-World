@@ -1,0 +1,18 @@
+version="1.0"
+tags={
+	"Total Conversion"
+}
+name="CKOW"
+replace_path="common/landed_titles"
+replace_path="common/religion/religions"
+replace_path="common/bookmarks"
+replace_path="common/bookmark_portraits"
+replace_path="history/characters"
+replace_path="history/titles"
+replace_path="history/provinces"
+replace_path="history/province_mappings"
+replace_path="map_data"
+replace_path="gfx/map/map_object_data"
+replace_path="gfx/map/map_object_data/generated"
+supported_version="1.20.1.2"
+remote_file_id="3826126040"

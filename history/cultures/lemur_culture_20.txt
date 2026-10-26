@@ -1,0 +1,8 @@
+﻿# Lizardmen — generated start era + innovations
+1066.1.1 = {
+	discover_innovation = innovation_bamboo_bows
+	discover_innovation = innovation_catapult
+	discover_innovation = innovation_elephantry
+	discover_innovation = innovation_gavelkind
+	discover_innovation = innovation_ledger
+}

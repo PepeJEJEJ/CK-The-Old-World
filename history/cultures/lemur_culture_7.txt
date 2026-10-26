@@ -1,0 +1,7 @@
+﻿# Albion — generated start era + innovations
+1066.1.1 = {
+	discover_innovation = innovation_development_01
+	discover_innovation = innovation_gavelkind
+	discover_innovation = innovation_quilted_armor
+	discover_innovation = innovation_tiefutu
+}

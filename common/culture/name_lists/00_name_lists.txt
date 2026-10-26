@@ -1,0 +1,586 @@
+# ==============================================================================
+# WARHAMMER FANTASY NAME LISTS
+# Archivo: common/culture/name_lists/00_name_lists.txt
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# MAUI (lemur_culture_1) - Polinesia/Islas del Sur
+# ------------------------------------------------------------------------------
+name_list_wh_maui = {
+	cadet_dynasty_names = {
+		# Clanes de navegantes, dinastías de jefes tribales (Ariki) y grandes linajes isleños
+		"Kahanamoku" "Te_Whaiti" "Paki" "Kamehameha" "Kalakaua" "Liliuokalani" "Malo" "Pomare" "Te_Rangi" "Mataafa" "Malietoa" "Tuivakano" "Afeaki" "Tupou" "Finau" "Tamasese" "Mataia" "Luafutu" "Tuigamala" "Vidot" "Ah_Ching" "Te_Pou" "Heke" "Ngata" "Ratana" "Winiata" "Te_Hau" "Kekoa" "Alana" "Mahelona" "Kahele" "Palakiko" "Akana" "Kealoha" "Kamaka" "Kanoa" "Kapule" "Kalei" "Mano" "Naone" "Iona" "Mahoe" "Keliipio" "Nakamura" "Silva" "Mendes" "Santos" "Teu" "Vaea" "Latu"
+	}
+	male_names = {
+		# Jefes tribales, navegantes de los mares del sur, guerreros y tatuadores (Tatau)
+		Maui Kamehameha Kalakaua Keanu Tamati Tane Rawiri Wiremu Te_Vita Te_Hau Hemi Nikau Kaelen Manaia Kauri Rangi Marama Toa Anaru Irawaru Rongo Tu_Matauenga Tawhiri Tane_Mahuta Tangaroa Tafa_I Kae Tinirau Hiro Ru_Maku Akamu Ikaika Kai Kaimana Kapena Keone Lono Makani Noelani Pekelo Rangi_Toa Kealoha Inoke Sione Viliami Tevita Taniela Alipate Sitiveni Semi Isoa Leone Waisea Peni Nemani
+	}
+	female_names = {
+		# Sacerdotisas del mar, hijas de los jefes, tejedoras de mitos y deidades de las islas
+		Liliuokalani Kaahumanu Moana Noelani Leilani Malia Anahita Aroha Marama Kiri Pania Tui Hinemoa Te_Rina Anahera Wikitoria Mere Nyree Oriana Talia Keala Luana Mahina Nalani Oliana Palila Pua Pualani Roselani Teuila Sina Fetu Losa Mele Salote Talise Alisi Kesaia Mereani Sereana Litia Ana Una
+	}
+}
+
+
+# ------------------------------------------------------------------------------
+# ESTALIAN (lemur_culture_2) - Estalia (España)
+# ------------------------------------------------------------------------------
+name_list_wh_estalian = {
+	cadet_dynasty_names = {
+		"Valdueza" "Bolea" "Hidalgo" "Ramírez" "Señor" "Obrero" "Melero" "Carranza" "Camarero" "Valderas" "Gutiérrez" "Anglés" "Canales" "Zanhuesa" "Villegas" "Vázquez" "Gistaín" "Borobia" "Pedrero" "Valladares" "Balderas" "de_Herrera" "Carpentier" "Gállego" "Pastor" "Cuevas" "Corredor" "Gómez_Gomis" "Sevilla" "Sabaté" "Ascaso" "Pérez" "Cedillo" "Guerrero" "Marinero" "Ravelino" "Siurana" "Páez" "Halconero" "García" "Marqués" "Sahagún" "Aragonés" "Vaca" "Gálvez" "Vélez" "Piedrabuena" "Villalobos" "Labrador" "Valverde" "Orellana" "Rabadán" "Briones" "Sallent" "Vaquero" "Coronel" "Sartori" "Riba" "Fidalgo" "Cardenal" "Giménez" "Castellano" "Rivera" "Costa" "Castillero" "Molinero" "Fernando" "Criado" "Benítez" "Cuéllar" "Bolívar" "Chistau" "Hernández" "Abad" "Alcaide" "Sambuesa" "Cubero" "Saldaña" "Botero" "Pena" "David" "Ruiz" "Ibai" "Avilés" "Zapatero" "Cherro" "Santander" "Ocaña" "Carretero" "Rey" "Bescós" "Montes" "Serrano" "Castrillón" "Ariza" "Juárez" "Rabellini" "Morterero" "Malillos" "Benítez" "Charpantier" "Barceló" "Tarragona" "Montemayor" "Artigas" "Olloqui" "Diego" "Moreno" "Coll" "Ferrufino" "Ayerbe" "Ian" "Morata" "Tejero" "Ferrón" "Escribano" "Pajarero" "Alférez" "Miguélez" "Catalá" "Aragón" "Alameda" "Sastre" "Gallego" "Biel" "Cantero" "Durán" "Batanero" "Peris" "Ligüerre" "Joan" "Vergara" "Domínguez" "Menéndez" "Valenzuela" "Sacristán" "Capitán" "Ruben" "Torres" "Ávila" "Sánchez" "Herrero" "Jiménez" "Peralta" "Mayordomo" "Alcalde" "Valdés" "Valdovinos" "Ferreiro" "Joaquin" "Méndez" "Soriano" "Blázquez" "Enríquez" "Leo" "Gabriel" "González" "Catalá" "Ferrer" "Vargas" "Xabier" "Jan" "Torrente" "Padrón" "Caballero" "Nápoles" "Fonz" "Salazar" "Bailén" "del_Valle" "Bacque" "Villalba" "Lago" "Núñez" "Yáñez" "Notario" "Castejón" "Adara" "Cueva" "Martín" "España" "Sanhueza" "Escrivá" "Sáenz" "Verdugo" "Soldado" "Aisa" "Acin" "Carpintero" "Charpentier" "Santolaria" "Muñoz" "Arán" "Dávila" "Ballesteros" "Racionero" "Conde" "Ortiz" "Valle" "Virginia" "Esparraguera" "Ferrero" "Colina" "Tejedor" "Navarro" "Sandoval" "Nayara" "Castrillón" "Malak" "Álvarez" "Cerecero" "Africa" "Uxue" "Tudela" "Albacete" "Peña" "Toledano" "Fraile" "Sangüesa" "Aida" "Castañeda" "Velázquez" "Patricia" "Contador" "Anna" "Elia" "Catalán" "Lola" "Irene" "Arriaga" "Lara" "Elsa" "Arroyo" "Díez" "Eva_Maria" "Paloma"
+	}
+	male_names = {
+		Gael Jose_Maria Denis Liam Elias Ferran Samuel Jose_Carlos Oliver Oriol Victor Lucas Manuel Adrian Eloy Jairo Roger Rafael Javier Tomas Israel Ricardo Cesar Marc Mikel Aitor Yago Nicolas Marcos Eduardo Juan_Carlos Jesus Hugo Pedro Francisco Angel Sergio Aaron Alfonso Francisco_Jose Jose_Maria_Canales Abel Luis_Miguel Mario Axel Alvaro Enzo Kevin Santiago Salvador Biel Adan Fernando Cristian Emilio Antonio Borja Abraham Juan_Jose Gerard Iñigo Arnau Adria Jon Alberto Amir Ignacio David Ibai Daniel Oscar Andres Juan_Antonio Roberto Iker Yeray Julen Antonio_Jesus Gonzalo Albert Joel Diego Dylan Miguel Bruno Mauro Pablo Dario Aimar Luka Ramon Iago Luis_Alameda Rodrigo Saul Alfonso_Biel Markel Denis_Cantero Eneko Hector Joan Martin Jorge Ruben Francisco_Javier Sergi Raul Vicente Cristian_Gómez Adam Antonio_Jose Enrique Ismael Leo_Olloqui Gabriel Nil Xabier Jan Albert_Serrano Luis Carles Marti
+	}
+	female_names = {
+		Mariam Desiree Marta Uxia Zoe Jana Lydia Beatriz Gala Aroa Cayetana Barbara Rebeca Alba_Maria Paola Ana_Belen Rocio Adara Yasmin Aina Vera Esther Elisa Alejandra Iris Mireya Carla Amaia Mercedes Mara Yasmina Irati Mariona Erika Blanca Azahara Julieta Olivia Carolina Belen Ingrid Noa Antia Daniela Carlota Ainara Marina Veronica Leyre Manuela Maria_Del_Carmen Celia Ines Adriana Ainhoa Gema Ruth Judith Salma Lina Noelia Virginia Amira Nerea Amanda Alba_Colina Zoe_Navarro Helena Olga Claudia Ariadna Nayara Gabriela Malak_Costa Neus Leticia Cristina Ana_Maria Africa Uxue Almudena Gloria Carmen Pilar Victoria Vega Inmaculada Aina_Morata Naroa Mireia Aida Azahara_Méndez Lorena Valeria Gisela Estela June Rosa Rosa_Sánchez Rebeca_Leñero Naia Valeria_Catalán Lola Irene Lara Elsa June_Arroyo Eva_Maria_Mayordomo Cecilia Paloma
+	}
+}
+
+# ------------------------------------------------------------------------------
+# TILEAN (lemur_culture_3) - Tilea (Italia)
+# ------------------------------------------------------------------------------
+name_list_wh_tilean = {
+	cadet_dynasty_names = {
+		"De_Tore" "Cifarelli" "Colombini" "Lacovara" "Grassia" "Pellegrin" "Falasco" "Berardino" "Martocci" "Coco" "Ratto" "Mauro" "Mortara" "Alberta" "Tantillo" "Sarra" "Guarnieri" "Del_Negro" "Fiori" "Ballo" "Pennella" "Tito" "Epifano" "Barrella" "Fattore" "Matera" "Michele" "Paretti" "Vecellio" "Barsotti" "Panza" "Urgo" "Polsinelli" "Inzerillo" "Carullo" "Martorella" "Santin" "Scalone" "De_Leo" "Peduzzi" "Tasso" "Toni" "Colavecchio" "Delfino" "Dino" "Mistretta" "Grizzaffi" "D'Antuono" "Zara" "Tavolacci" "Gigliotti" "Cancilla" "Boccuzzi" "Di_Vittorio" "Iuliano" "Carra" "Andreotti" "Alario" "Morella" "Marchetti" "Sarubbi" "Argenta" "Carucci" "Ranieri" "Guarisco" "Tocci" "De_Rienzo" "Vazzana" "Curcuru" "Vitullo" "La_Civita" "Severini" "Ferranti" "Tutino" "Canova" "Ammirati" "Carlo" "Carolla" "Condo" "Mariotti" "Buonanno" "Lieto" "Cirrincione" "Muccino" "Artuso" "Pica" "Pensiero" "De_Laura" "Tauriello" "Jacaruso" "Spitale" "Bertolini" "Colla" "Vecchi" "Silvani" "D'Emilio" "Ancona" "Sciortino" "Mannella" "Mura" "Gagliano" "Gentilini" "Marinucci" "Raimo" "Valla" "Elia" "Sorci" "Traina" "Lucci" "Colao" "Catino" "Tortorelli" "Falotico" "Trevisan" "Salvia" "Di_Salvatore" "De_Franco" "Larese" "Cristiano" "Pintor" "Russello" "Granucci" "Palleschi" "Beltramo" "Ragusa" "Bellino" "Annunziato" "Albani" "Giannone" "Borsari" "Franchino" "Gerbino" "Blanda" "De_Sarno" "De_Giacomo" "Bonello" "Tuminello" "Trapasso" "Guidetti" "Calcagno" "Guardino" "Falso" "Compagno" "Caranci" "Ristaino" "Lorio" "Rigali" "Petrilli" "Termine" "Giancola" "Fasolino" "Di_Palo" "Conto" "Di_Caprio" "Carlisi" "Toscani" "Rogero" "Melita" "Crisco" "Padovano" "Maneri" "Oliverio" "Cordisco" "Roselli" "Di_Cerbo" "Grima" "Marando" "Saldutti" "Magliaro" "Dito" "Calistro" "Civitaresebe" "Scioscia" "Reggio" "Giarratana" "Buffa" "Del_Toro" "Gobbi" "Speroni" "Cappa" "Di_Fiore" "Pipitone" "Graceffa" "Iannotti" "Raimo" "Franciosa" "Montano" "Carbonaro" "Scaturro" "Morena" "Prizzi" "Lelli" "Vacchiano" "Merlino" "Piscitello" "Sordillo" "Lia" "Lepera" "Colosimo" "Di_Lauro" "Mondi" "Magloicco" "Condello" "Madonna" "Scialdone" "Fiorentino" "Laura" "Mirabelli" "Spicuzza" "Lanza" "Calafiore" "Cipolla" "Corsetti" "Negro" "Paglione" "Delfin" "Cristofaro" "Cerasoli" "Iaccarino" "Trotti" "Polidoro" "Adduci" "Oddi" "Carlino" "Gibilisco" "Civitarese" "Campus" "Purpura" "Pezzella" "De_Bari" "Ilardi" "Danesi" "Cassetta" "Biagioni" "Papaleo" "Saggio" "Minervini" "Mariano" "Bozzo" "Partipilo" "Triano" "Parella" "Velardo" "Forlini" "Stagnaro" "Rosamilia" "Puccia" "Tullio" "Finizio" "Berta" "Baccari" "Bencivengo" "Barra" "Manna" "Fraioli" "Valle" "Martorelli" "Lina" "Bastone" "Balducci" "Alongi" "Cason" "Niccoli" "Zaccheo" "Malara" "Sidoti" "Lovato" "Alia" "Rutigliano" "Pirolli" "Cappello" "Petrucelli" "Di_Berardino" "Camuso" "Sciara" "Milano" "Postiglione" "Zadra" "La_Padula" "Emanuele" "Agnello" "Allegro" "Robello" "Zaffino" "Arcimboldo" "Bondimier" "Albaregno" "Albizi" "Acardolo" "Accialini" "Barbato" "Alberti" "Matelizi" "de_Albertonibvs" "di_Fiorelli" "Michiel" "Barbachollo" "Farnese" "Badoer" "Benedetti" "Filiarchi" "da_Filichaia" "Barberan" "de_Calvio" "Bernardo" "Donato" "d'Este" "Grimani" "Dandolo" "Marin" "Barbolini" "Calza" "Barbarigi" "Accottanto" "Zustignan" "Mocenigo" "de_Fiandkonis" "Fioranati" "de_Calchano" "Fiesi" "Accottato" "de_Abagio" "de_Albe" "Viari" "de_Albarate" "Barbarigo" "Venier" "Visconti" "Barbigia" "de_Fiedricis" "Veneziano" "Sanudo" "Babilonio" "Lignago" "Fiamolin" "Luppi" "Fiolo" "Calbo" "da_Vigo" "Bonzi" "Barbo" "de_Rossi" "de_Fiorino" "de_Albertonibvs" "Memo" "Calvacanti" "Barbalini" "Pisani" "de_Calco" "Loredan" "de_Albairate" "Alberighi" "Querini" "Sforza" "Foscarini" "Fioravanti" "Giustiniani" "Mauroceno" "Bellegno" "Marcello" "de_Abbrixio" "di_Prioli" "Callocci" "da_Leze" "Fideli" "Bembo" "de_Calvis" "Barbi" "Boldu" "Figiovanni" "de_Albertis" "Frescobaldi" "Donado" "da_Montefeltro" "Calcagnini" "de_Albvxiis" "Fiocarda" "Gonzaga" "Corner" "Crivelli" "Acerbi" "de_Fidellis" "da_Chioza" "Albicio" "Barbamachollo" "Falier" "Michel" "Caldarini" "de_Barbanario" "de_Filago"
+	}
+	male_names = {
+		Crespignano Mirocleto Battista Azeglio Nazzaro Alighiero Frido Porfirio Omar Oronzo Amore Grimaldo Teogene Leopardo Vittorio Ecclesio Raniero Fuscolo Barsimeo Postumio Ansaldo Aristeo Fortunato Bartolo Ermenegildo Gedeone Tiziano Alvaro Gomberto Mancio Bonito Vittore Fabiano Andrea Dionigi Egisto Alceste Lautone Silvio Tito Golia Cosimo Baldovino Paride Socrate Cataldo Saverio Desiderio Gastone Servidio Saul Platone Orenzio Agabio Adalfredo Solocone Zanobi Clemente Corbiniano Amadeo Balderico Alex Davino Marino Ultimo Beltramo Stanislao Adelchi Narciso Ernesto Liberatore Domiziano Taziano Zefiro Fidenziano Claudio Arrigo Damiano Publio Zabedeo Lodovico Modesto Loris Anselmo Michele Sigismondo Sidonio Lapo Afro Erberto Alcibiade Isaia Onorio Mario Silvano Gandolfo Auberto Pantaleone Bartolomeo Ariele Adone Ildefonso Garimberto Piero Vulmaro Metello Efisio Abibo Rufino Aureliano Accursio Giadero Libero Pomponio Illidio Giunta Ormanno Cecco Sandro Ricco Bono Pierandrea Lippo Pacino Agnolo Bonacorso Sinibaldo Daniele Ghirigoro Marco Miniato Maccio Adovardo Bindo Chimenti Vico Bernardo Duccio Lorenzo Stefano Marsilio Alfonso Benozzo Gianfrancesco Puccio Fiorentino Goro Romigi Mino Bonifazio Alesso Attaviano Maso Bonsi Daddo Giorgio Prospero Ulisse Mariano Gino Cosimo Guidobaldo Salvestro Giovannozz Nigi Corso Betto Giovacchin Leonello Bonaiuto Luigi Gherardo Cenni Cino Salvadore Nofri Simone Niccolo Frosino Vieri Manno Benedetto Grazia Cambino Uguccione Leonardo Pietro Borso Apollonio Deo Donnino Scolaio Ruggieri Rinieri Strozza Chiaro Adamo Cola Pandolfo Niccola Guasparre Nencio Riccardo Buto Buono Dego Bandino Ristoro Carlo Ercole Albizzo Bianco Fabiano Gabbriello Stoldo Cristofano Ridolfo Giannino Puccino Chimento Vincenzo Pasquino
+	}
+	female_names = {
+		Corinna Marisa Catena Cordelia Tecla Aida Ancilla Delizia Tosca Estella Tabita Dianora Neiva Luna Giulitta Diodata Loriana Palladia Delfina Zabina Cornelia Vilma Tarsilla Rachele Floriana Amata Ilenia Liberata Luminosa Lavinia Gioconda Valeriana Mia Elena Nicoletta Chiara Giacinta Eulalia Alice Mirta Incoronata Cassiopea Patrizia Andromeda Immacolata Argelia Marinella Cointa Macaria Wanda Asia Cloe Eleonora Emanuela Porzia Diana Ghita Eliana Candida Esmeralda Glenda Leda Generosa Pia Isidora Ambra Ianira Clara Moira Rosamunda Paola Batilda Apollonia Lidania Appia Fiorella Verdiana Lucia Lorena Aurora Olivia Marita Menodora Antonella Vala Clelia Giusta Artemisa Romana Federica Maruta Tarquinia Sonia Felicita Asella Mafalda Carola Selene Cirilla Zosima Geltrude Degna Vanda Fiore Desiderata Crocefissa Cunegonda Casimira Eufemia Marica Amelia Donatella Giulia Eusebia Elvira Proserpina Linda Azelia Angela Daniela Licia Manuela Concetta Gilda Ugolina Bartolomea Debora Penelope Leonilda Emma Clorinda Maura Aurelia Casilda Flavia Devota Ornella Raffaella Lucrezia Betta Pelagia Greta Lisa Sebastiana Solange Nicla Lara
+	}
+}
+
+
+# ------------------------------------------------------------------------------
+# BRETONNIAN (lemur_culture_4) - Bretonia (Francia)
+# ------------------------------------------------------------------------------
+name_list_wh_bretonnian = {
+	cadet_dynasty_names = {
+		"Baillet" "Baille" "la_Poucelle" "de_Grantrue" "de_Saintraille" "des_Essarts" "Gas" "l'Amy" "Nepveu" "Syrasse" "Dole" "de_Dampierre" "de_Bonpuis" "Ragnier" "du_Bois" "de_Lalier" "Sifflet" "Marcel" "Bertran" "la_Voiriere" "de_Bonpre" "de_Tuillieres" "le_Cler" "Gaude" "de_Montagu" "Perquin" "Regnault" "la_Pucelle" "Foucault" "des_Croustez" "Charetier" "le_Grant_Augustin" "Rappiot" "Sanguin" "Sarazin" "de_Bar" "de_Bournonville" "de_Chartres" "le_Berger" "Pie" "de_Neufville" "Lormoy" "Gaiant" "Frallon" "de_Lunay" "de_la_Rochelle" "de_Valois" "de_l'Esclat" "Caboche" "de_Brie" "du_Chastel" "Marc" "de_Pisieux" "des_Essars" "de_Roubres" "de_Fromonville" "l'Extrac" "de_Lestre" "de_Belloy" "Lamben" "de_Gaucourt" "de_Ternant" "Pidoye" "Jouvenel" "de_Montagu" "de_Lolive" "de_Betencourt" "de_Vauru" "de_Langre" "d'Esparnon" "d'Ausserre" "du_Mesnil" "le_Maçon" "de_Saintyon" "le_Prestre" "Baillet" "des_Moulins" "de_Morvillier" "de_Brey" "d'Espernon" "de_Malconquat" "l'Archer" "du_Gibet" "Poupart" "Courtecuisse" "Petitmeny" "le_Gouays" "Morhier" "d'Orgremont" "Lore" "Cirasse" "de_Marle" "Mariette" "la_Gajant" "de_Montaigu" "de_Labrait" "de_la_Guerre" "de_Favieres" "Bourdon" "de_Craon" "du_Boys" "Petitmesnil" "d'Armignac" "de_Rivel" "de_Tourraine" "le_Cordelier" "Jamelin" "d'Espernon" "Marchant" "Crete" "l'Empereur" "la_pucelle" "de_Breban" "de_la_Riviere" "de_Cobie" "de_Chartres" "de_Troyes" "Discret" "Tirasse" "Alips" "de_Louviers" "de_Spire" "Paris" "de_Pisex" "Rousseau" "de_Saulx" "d'Allee" "Marota"
+	}
+	male_names = {
+		Gassot Hemonnet Porret Tristan Olivier Tristran Gaultier Regnault Phillippot Reinald Husson Erard Perceval Guion Regnier Evrart Guimart Walkelin François Rolet Aleamme Tierri Tanguy Senestre Aleaume Jaquinot Gilot Huguelin Baudoin Lyebault Perresson Godefroy Phelippon Huchon Verain Huistase Clamens Macé Collinet Perrot Adam Ame Yvain Giles Huet Jacques Bossu Heliot Crespin Michellet Gregoire Philippe Garnier Junien Emery Gautier Gobin Anthoine Caisin Paquier Talebot Fouet Pierrey Symon Julien Talbot Hugues Philippot Françoys Marinet Jacotin Franceis Jaquemin Raymon Poncellet Moriset Gilbert Adenin Hangest Berthelot Marcelet Voulo Jacob Milet Audebert Herle Audenin Amaury Gamelet Bernard Raoulet Boniface Mathé Gieffrin Pierre Nicolas Galleren Gefrei Thevot Arnoult
+	}
+	female_names = {
+		Philippote Thyeuffaine Guiotte Ele Blancha Isabellis Ysabeau Mezot Anne Marguot Guillemette Thyephaine Ermentrudis Pasquette Ysabel Chrestienne Thyesphaine Claricia Agnes Martine Marguerite Perrotte Agnés Plantée Sedilia Luciana Mesot Collette Alys Marion Nicole Helvisis Heloysis Ysabelet Ermengardis Agneta Mahault Gillette Emmelot Dorian Sybilla Stephana Maria Denisette Margarite Margarite Hersendis Jehannette Amelot Nesot Jehennette Aalipdis Thomasse Edine Tiephaine Cecilia Alberea Jaqueline Helyoudis Edelina Ascelina Oudine Genevote Nicole Phlipote Odelina Symonne Gila Hodeardis Agnez Gervaise Nicolete Guiburgis Cecile Gunnor Alison Agatha Alipson Thieffane Marie Honnorée Marguarite Emelina Thecia Guiote Marota Denisete
+	}
+}
+
+# ------------------------------------------------------------------------------
+# ELVEN (lemur_culture_5) - Elfos Silvanos / Altos Elfos
+# ------------------------------------------------------------------------------
+name_list_wh_elven = {
+	cadet_dynasty_names = {
+		# Casas nobles de Ulthuan y grandes linajes / claros forestales de Athel Loren
+		"Aethelmar" "Aranion" "Bel-Hathor" "Caledor" "Caradryan" "Elensar" "Ellyrion" "Elarion" "Finubar" "Galadrieth" "Imrik" "Iltherin" "Korhil" "Menerlaus" "Saphery" "Teclis" "Tyrion" "Yvresse" "Althuan" "Aethelgard" "Cothique" "Imrallion" "Olathiel" "Tethlys" "Valedor" "Yseril" "Asuryan" "Lileath" "Hoeth" "Vaul" "Kurnous" "Isha" "Aethelred" "Lauriel" "Findol" "Durthu" "Orion" "Ariel" "Scarloc" "Gruarth" "Thalandor" "Wydrioth" "Talsyn" "Arranoc" "Argwylon" "Modryn" "Aethelwine" "Elthin"
+	}
+	male_names = {
+		# Combinación majestuosa y forestal: Reyes Fénix, Guardianes de los Caminos y Señores de Ulthuan/Athel Loren
+		Orion Durthu Tyrion Teclis Caledor Imrik Finubar Caradryan Korhil Eltharion Alith_Anar Bel-Shanaar Bel-Hathor Tethlys Mentheus Morvaen Alistair Aethelmar Alain Aldred Alric Althuan Amis Anathel Arandir Aranion Archon Aril Asarnil Belion Bralloran Caelen Caradrel Carthand Casandor Coraith Cynath Dauron Eldred Elenrod Ellyrion Elsir Eltharin Eonir Eothain Erethon Erradon Fandor Finreir Furion Galadan Galandril Gaenor Gillian Gimilzor Glorfindel Halar Haldir Hothek Idril Ilthmar Imrallion Ingalion Iseril Kael Kaelen Kalhazar Kasador Kethric Korandil Kouran Laris Lilathan Lionmar Lirazel Liron Loranth Macar Menerlaus Mereneth Merilsar Minar Minaith Mithrandir Morandir Morelion Morgan Morileth Nairn Neltharin Nialls Nyle Oisin Olathiel Oradin Oriol Porthos Rael Ralan Rathian Saelian Salendor Sariath Sarniel Sean Seafarth Selafyn Solkan Sualoc Tancred Tarald Tethis Thalion Thiran Thordil Torin Tororval Ualian Valedor Valerius Valmir Volurn Yalar Yann Ymaniol Yseril Scarloc Findol Gruarth Thalandor Sceolan Naieth
+	}
+	female_names = {
+		# Doncellas eternas, hechiceras de la alta magia, cantoras de árboles y reinas elfas
+		Alarielle Ariel Yvraine Elandara Morathi Hellebron Aliathra Eldyra Liandra Astarielle Allisandra Alianor Althaea Alysa Amara Amariel Amaryllis Anais Anara Anariel Andrea Anthea Anya Aquaria Arabelle Araluen Arandria Archona Arethusa Aria Ariadne Ariall Arianna Ariel Arlayna Arwene Astaria Astrea Astria Atropos Audrey Aura Aurelia Aurora Avallach Avalon Avariel Aynia Azura Belinda Belisandra Callisto Calypso Caris Carya Carys Cassia Catalina Cecila Celandine Celeste Celia Cendrine Ceridwen Chantal Charis Chloe Claris Clea Cleo Clio Clytemnestra Cora Coral Coralia Cordelia Corinna Corisande Cressida Cybele Cynthia Cyra Cyrena Cythera Dalia Danae Daphne Daria Davina Deirdre Delia Delilah Delphine Demeter Desdemona Desirae Destinee Diamond Diana Dianthe Dinah Dionne Dione Dolores Donella Dora Dorcas Doris Dorit Drusilla Dulce Dulcinea Eartha Echo Eden Edlyn Edina Edira Edris Edwitha Eileen Elaine Elaphea Elara Elbereth Elda Eldara Eldria Eleanor Electra Electo Elen Elenora Elenari Eleni Elfrida Elga Eliana Elinor Elisa Elisabeth Elissa Eliza Ella Ellen Ellie Elma Elodie Elora Elouise Eluned Elvina Elvira Elysa Elysia Elyanna Emeline Emer Emerald Emilia Emily Emma Emmeline Emmy Naeith Drycha Maranwe
+	}
+}
+
+# ------------------------------------------------------------------------------
+# NORSCAN (lemur_culture_6) - Norsca (Vikingos)
+# ------------------------------------------------------------------------------
+name_list_wh_norscan = {
+	cadet_dynasty_names = {
+		# Tribus bárbaras, clanes saqueadores y linajes de los siervos de los Dioses Oscuros
+		"Skaeling" "Varg" "Aesling" "Sarl" "Baersonling" "Bjornling" "Graeling" "Gharhar" "Knutsson" "Thorgilsson" "Sigurdsson" "Haraldsson" "Ragnarsson" "Ivarsson" "Bjornsson" "Olafsson" "Leifsson" "Eriksson" "Hakonson" "Sveinsson" "Magnusson" "Gormsson" "Siegfriedsson" "Valbrandsson" "Bloodaxe" "Ironhide" "Doomfist" "Skullsmasher" "Shieldbreaker" "Frostborn" "Icewalker" "Wolfkin" "Bearclaw" "Stormbringer" "Gorefist" "Norse" "Krakenborn" "Sea_Wolf" "Whale_Hunter" "Black_Shield"
+	}
+	male_names = {
+		# Paladines del Caos, Jarls saqueadores y feroces guerreros del norte
+		Wulfrik Throgg Surtha_Ek Sigvald Egil Harald Valmir Bjorn Ragnar Ivar Rollo Floki Lagertha Erik Leif Ubbe Hvitserk Sigurd Knut Hrothgar Gorm Svein Hakon Magnus Harald_Hardrada Olaf Torstein Erland Gudmund Kjell Arvid Birger Einar Halvar Leif Stian Thorsten Ulf Vidar Viggo Yngve Balder Freyr Loki Odin Thor Tyr Fenrir Heimdall Hermod Vali Vidar
+	}
+	female_names = {
+		# Valquirias del norte, matriarcas de clan, chamanas y doncellas guerreras (Shieldmaiden)
+		Lagertha Aslaug Sigrid Freya Brynhild Astrid Ingrid Helga Valkyria Gunnhild Tora Yrsa Gudrun Torvi Thyra Ragnhild Bodil Frida Gerda Hilda Ingeborg Ragna Signy Solveig Unn Alva Freydis Sif Nanna Skadi Idun Saga Eira Gro Lif Randi Runa Siv Tone Tove Urd Verdandi Skuld Vivienne
+	}
+}
+
+# ------------------------------------------------------------------------------
+# ALBION (lemur_culture_7) - Albion (Islas Británicas celtas)
+# ------------------------------------------------------------------------------
+name_list_wh_albion = {
+	cadet_dynasty_names = {
+		# Clanes tribales, círculos de Oghams y linajes de los Señores de la Verdad de Albion
+		"Oghman" "Mac_Lir" "O'Brien" "Mac_Niall" "Pendragon" "Mac_Carthy" "O'Connor" "O'Neill" "Mac_Dermot" "Mac_Donnchad" "O'Donoghue" "Mac_Flannchaidh" "O'Gallagher" "Mac_Gafraidh" "O'Kelly" "Mac_Mathghamhna" "O'Morchoe" "Mac_Murchadha" "O'Rourke" "Mac_Suibhne" "O'Sullivan" "Mac_Sithigh" "Mac_Domhnaill" "O'Cearbhaill" "Mac_Gilleain" "Mac_Leoid" "Mac_Coinnich" "Mac_Aoidh" "Mac_Iomhair" "Mac_Gille_Eathain" "Clan_Mor" "Cernunnos" "Danu" "Dagda" "Nuada" "Lugh" "Ogma" "Manannan" "Brigid" "Morrigan" "Tuatha"
+	}
+	male_names = {
+		# Druidas (Truthsayers), gigantes de la niebla, jefes de clan y guerreros pictos/celtas
+		Duan_Deren Hengus Dathan Cuchulainn Lugh Dagda Nuada Bran Taranis Camulos Cernunnos Oisin Oscar Diarmuid Fionn Conor Brian Niall Rory Cormac Duncan Malcolm Donald Kenneth Ian Alistair Angus Craig Fergus Gordon Graham Keith Neil Stuart Donald Alan Arthur Cadwgan Caradog Emrys Geraint Gwalchmai Gwrtheyrn Idwal Llywelyn Madog Maelgwn Owain Padrig Rhiryd Rhys Taliesin Tegid Urien
+	}
+	female_names = {
+		# Sibilas de la niebla, sacerdotisas de la Madre Tierra y guerreras de los pantanos
+		Morrigan Brigid Danu Maeve Deirdre Grainne Fiona Aisling Caoimhe Niamh Saoirse Roisin Siobhan Ciara Eavan Emer Gwendolyn Guinevere Cordelia Blodwen Branwen Ceridwen Eira Elen Gladys Nest Olwen Rhiannon Sian Angharad Boudica Cartimandua Shannon Morwenna Rowena Isolde Nessa
+	}
+}
+
+# ------------------------------------------------------------------------------
+# IMPERIAL (lemur_culture_8) - El Imperio (Alemania)
+# ------------------------------------------------------------------------------
+name_list_wh_imperial = {
+	cadet_dynasty_names = {
+		"Erhard" "Kremers" "Kühn" "Habicht" "Breslauer" "Friesinger" "Frenzel" "Grau" "Günzburg" "Hofbauer" "Werich" "Lohmiller" "Dorn" "Daschner" "Kammerer" "Honigsman" "Berthold" "Albiker" "Felgenhauer" "Brenner" "Hammesfahr" "Streckenbach" "Sternberg" "Haring" "Fischart" "Corcilius" "Stassen" "Curschmann" "Veidt" "Sauerland" "Uiberreither" "Sauer" "Schantz" "Gessler" "Steinberg" "Schwarzmann" "Eisner" "Eich" "Vogt" "Güldenstädt" "Herzog" "Jürgens" "Metzger" "Tiedemann" "Kiefer" "Tarr" "Kieber" "Boettcher" "Wolfensohn" "Hass" "Heuberger" "Schönbeck" "Rozenkwit" "Schlesinger" "Beckenbauer" "Schott" "Klengel" "Reichmann" "Engels" "Gerstäcker" "Stahlecker" "Hölderlin" "Stockhausen" "Linse" "Wagner" "Steinbauer" "Schlag" "Abetz" "Bernstein" "Niehaus" "Traub" "Happe" "Visscher" "Brauner" "Semmelrogge" "Escherich" "Schweinitz" "Peukert" "Hauswald" "Kamphaus" "Graebner" "Klemme" "Von_Bothmer" "Herzsprung" "Steimle" "Theiner" "Kluck" "Abicht" "Pilz" "Lerche" "Klee" "Mengele" "Brunner" "Steinhaeusser" "Fenchel" "Kohnstamm" "Staffel" "Schmid" "Fries" "Strobl" "Ahle" "Winzer" "Erlbaum" "Staudinger" "Lauterbach" "Brickner" "Stockert" "Assing" "Weinmann" "Brausewetter" "Lehmann" "Kachel" "Brosch" "Ammermann" "Neufeld" "Möhring" "Pfisterer" "Orndorff" "Ritschel" "Guttmacher" "Bleich" "Reuter" "Lorber" "Körver" "Pasche" "Klemm" "Wenzel" "Dreyfus" "Ullmer" "Hoess" "Häring" "Proch" "Rabe" "Herzfeld" "Schoff" "Gräbner" "Brugmann" "Springborn" "Baer" "Rohrmann" "Wendland" "Laube" "Ackner" "Molitor" "Outman" "Gottschall" "Weinbacher" "Parler" "Neugebauer" "Klebs" "Krämer" "Hinrichs" "Wegmann" "Bechtold" "Krüger" "Herzig" "Höfle" "Rausch" "Hassler" "Kapsner" "Simon" "Lerner" "Fischbacher" "Uffermann" "Bauernfeind" "Kollmann" "Kestenbaum" "Blacher" "Schnitzer" "Basinger" "Hecke" "Bethmann" "Schmadel" "Schauerte" "Herwig" "Ehrhardt" "Maibaum" "Wächter" "Lattke" "Waldow" "Carstens" "Neuner" "Riemann" "Preis" "Scharf" "Hellwig" "Schrempf" "Auspitz" "Wertheim" "Schlamme" "Schreiner" "Heilmeier" "Schock" "Kadelburg" "Sommerfeld" "Storl" "Seyfried" "Wetter" "Grisbaum" "Mohr" "Schnabel" "Schober" "Schimpff" "Riehl" "Goldreich" "Pauli" "Feuerstein" "Bachmann" "Ehmann" "Kling" "Schumann" "Kaulitz" "Boeckmann" "Gutfreund" "Ungerer" "Ortmann" "Preiss" "Schulhoff"
+	}
+	male_names = {
+		Rayner Gonzalo Gilbert Wolfhard Roderick Witold Till Reinhold Askan Meinolf Friedbert Markward Malte Kraft Oswald Hunfried Adelhard Winand Volker Gebhard Theobald Lambert Emmerich Henry Reinhard Oliver Karl Wolfram Frederick Gundolf Hartmann Isebrand Bernger Eckhard Wighard Berthold Egon Frank Altmann Günther Ewald Arnulf Landolf Gerard Wigbert Ernest Friedhelm Adolf Bernfried Ingolf Zelindo Falko Guntram Roald Liebwin Gotthard Grimwald Heimo Gerlach Dagobert Luitwin Friso Gunthard Bodo Alram Ingmar Ingbert Erhard Harald Sieghard Erwin Ludwig Hildemar Willibald Ubaldo Wunibald Dietrich Everard Korbinian Lando Thijmen Meinhard Robert Neidhard Gerolf Bernward Manegold Romarich Gangolf Hasso Curt Adalbero Werner
+	}
+	female_names = {
+		Arnhild Burglinde Griselda Konrada Filiberta Heilgard Belinda Veerle Adelinde Arda Wiltrud Richmute Ebba Irmhild Hildegard Kunigunde Edeltraud Rotraud Wendelina Diethild Roswitha Randi Gotlinde Alberta Adalgisa Gerburg Wigberta Gerhild Liebgard Riccarda Adela Roberta Alrun Reinhilde Gerharde Radegundis Huguette Heilburg Sieglinde Asgard Aldona Anselma Berthild Klothilde Thusnelda Frederika Runhild Wilfriede Diomira Charlotte Adolfa Henrietta Wanda Schwanhilde Cressida Ulrike Berta Everarda Adelgunde Hildrun Rosamunde Sieghilde Friedegund Abelarda Bertille Norgard Walpurga Geraldine Huberta Franka Irma Wendelgard Herlinde Ramona Linda Alwine Waltraud Gerwine Burghild Hildegunde Emery Irmgard Almut Arnolda Landriche Elma
+	}
+}
+
+# ------------------------------------------------------------------------------
+# KISLEVITE (lemur_culture_9) - Kislev (Rusia/Eslavos) - EXTENDIDO
+# ------------------------------------------------------------------------------
+name_list_wh_kislevite = {
+	cadet_dynasty_names = {
+		"Grozny" "Romanov" "Volkov" "Petrov" "Ivanov" "Smirnov" "Kuznetsov" "Popov" "Sokolov" "Lebedev" "Kozlov" "Novikov" "Morozov" "Petrova" "Ivanova" "Smirnova" "Kuznetsova" "Popova" "Sokolova" "Lebedeva" "Kozlova" "Novikova" "Morozova" "Bogdanov" "Chernov" "Fedorov" "Gusev" "Ilin" "Kiselev" "Krylov" "Makarov" "Medvedev" "Mikhailov" "Nikitin" "Orlov" "Pavlov" "Saveliev" "Semenov" "Soloviev" "Stepanov" "Tarasov" "Vasiliev" "Vorobiev" "Yakovlev" "Zaitsev" "Zhuravlev" "Bogdanova" "Chernova" "Fedorova" "Guseva" "Ilina" "Kiseleva" "Krylova" "Makarova" "Medvedeva" "Mikhailova" "Nikitina" "Orlova" "Pavlova" "Savelieva" "Semenova" "Solovieva" "Stepanova" "Tarasova" "Vasilieva" "Vorobieva" "Yakovleva" "Zaitseva" "Zhuravleva" "Gospodar" "Ungol" "Ropsmen" "Kulag" "Bokha" "Chekov" "Gorky" "Krasnov" "Malenkov" "Molotov" "Suvorov" "Tolstoy" "Turgenev" "Ulyanov" "Zhukov" "Belov" "Vlasov" "Sorokin" "Baranov" "Safonov" "Ignatiev" "Karpov" "Vinogradov" "Kovalev" "Belova" "Vlasova" "Sorokina" "Baranova" "Safonova" "Ignatieva" "Karpova" "Vinogradova" "Kovaleva" "Yeltsin"
+	}
+	male_names = {
+		Boris Yuri Dmitry Vladimir Ivan Nikolai Alexei Mikhail Grigori Stepan Pavel Igor Artem Taras Konstantin Oleg Stanislav Vasili Fyodor Anatoly Viktor Sergei Alexander Andrey Anton Kirill Maxim Roman Denis Ilya Vitaly Evgeny Egor Vadim Bogdan Arkady Daniil Svyatoslav Yaroslav Vladislav Rostislav Vyacheslav Vsevolod Mstislav Leonid Gennady Valery Timofey Matvey Nikita Elisha Rodion Semyon Savva Zakhar Makar Ruslan Timur Gleb Ilya Lev Pyotr Maxim Demid Taras Gerasim Naum Ostap Luka Tikhon Gordey Yefim
+	}
+	female_names = {
+		Katarina Tzarina Miska Tatiana Natasha Elena Olga Svetlana Irina Yulia Anastasia Natalia Maria Anna Ekaterina Daria Sofia Alexandra Ksenia Marina Ludmila Galina Valentina Larisa Valeria Alina Polina Veronika Victoria Evgenia Svetlana Nadezhda Lyubov Vera Tamara Nina Zoya Raisa Antonina Alla Valentina Klavdia Zinaida Rimma Nonna Inna Rimma Marta Kira Lidiya Diana Yana Alisa Miroslava Yaroslava Vladislava Bogdana Snezhana Milana Rada Taisia Oksana Ulyana Anisiya Vasilisa
+	}
+}
+
+# ------------------------------------------------------------------------------
+# BORDERLANDS (lemur_culture_10) - Principados Fronterizos
+# ------------------------------------------------------------------------------
+name_list_wh_borderlands = {
+	cadet_dynasty_names = {
+		# Una amalgama de mercenarios, proscritos y nobles caídos de todas las naciones
+		"Von_Carron" "Grozny" "de_la_Rochelle" "Valdueza" "Bolea" "Kremers" "Habicht" "Sarra" "Dandolo" "Molinero" "de_Saintraille" "Volkov" "Fischart" "Barrella" "Zanhuesa" "l'Amy" "Sauerland" "Romanov" "Gessler" "De_Tore" "Breslauer" "du_Bois" "Pedrero" "Schwarzmann" "Heuberger" "de_Dampierre" "Obrero" "Kuznetsov" "Sartori" "Blázquez" "Cifarelli" "Dorn" "la_Pucelle" "Ascaso" "Smirnov" "Grizzaffi" "Boettcher" "de_Morvillier" "Guerrero" "Morozov" "Foucault" "Rabadán" "Sorokin" "Vaca" "l'Archer" "Chistau" "Kovalev" "Gaiant" "Piedrabuena" "Zara"
+	}
+	male_names = {
+		# Mezcla caótica de nombres imperiales, bretonianos, estalianos, tileanos y kislevitas
+		Rayner Tristan Gael Cosimo Boris Gonzalo Olivier Jose_Maria Battista Yuri Wolfhard Phillippot Denis Fabiano Dmitry Roderick Gaultier Liam Saverio Vladimir Till Reinald Elias Tiziano Ivan Meinolf Perceval Ferran Alceste Nikolai Friedbert Guion Samuel Tito Alexei Markward Evrart Jose_Carlos Golia Mikhail Kraft Rolet Oliver Platone Taras Oswald Aleamme Javier Clemente Oleg Adelhard Tanguy Ricardo Davino Stanislav Winand Baudoin Marcos Marino Vasili Volker Godefroy Sergio Ernesto Fyodor Theobald Huchon Alfonso Claudio Viktor Lambert Verain Mario Arrigo Sergei Emmerich Jacques Axel Damiano Alexander Henry Phillippot Enzo Michele Andrey Reinhard Junien Kevin Loris Anton Karl Gautier Biel Mario Kirill Wolfram Macé Fernando Gherardo Maxim Frederick Gilbert Borja Cenni Roman Gundolf Adenin Jon Salvadore Denis Hartmann Pierre Daniel Niccolo Ilya Wighard Nicolas Iker Borobia Vitaly Berthold Galleren Diego Gabriel Evgeny Egor Jacob Luka Xabier Vadim
+	}
+	female_names = {
+		# Combinación de aventureras, cortesanas y damas exiliadas de todo el Viejo Mundo
+		Arnhild Philippote Mariam Corinna Katarina Burglinde Thyeuffaine Desiree Marisa Tatiana Griselda Guiotte Marta Catena Natasha Konrada Ele Zoe Cordelia Elena Filiberta Blancha Jana Tecla Svetlana Heilgard Isabellis Lydia Aida Irina Belinda Ysabeau Beatriz Ancilla Yulia Veerle Mezot Gala Delizia Anastasia Adelinde Anne Aroa Tosca Natalia Arda Marguot Cayetana Estella Maria Wiltrud Guillemette Barbara Tabita Anna Richmute Thyephaine Rebeca Dianora Ekaterina Ebba Ermentrudis Alba_Maria Neiva Daria Irmhild Pasquette Paola Luna Sofia Hildegard Ysabel Ana_Belen Giulitta Alexandra Kunigunde Chrestienne Rocio Diodata Ksenia Edeltraud Thyesphaine Adara Loriana Marina Rotrao Claricia Yasmin Palladia Ludmina Wendelina Agnes Aina Delfina Galina Diethild Martine Vera Zabina Valentina Roswitha Marguerite Esther Cornelia Larisa Randi Perrotte Elisa Vilma Valeria Gotlinde Agnés Alejandra Tarsilla Alina Alberta Plantée Iris Rachele Polina Adalgisa Sedilia Mireya Floriana Veronika Gerburg Luciana Carla Amata Victoria Wigberta Mesot Amaia Ilenia Evgenia Gerhild Collette Mercedes Liberata Nadezhda Liebgard Alys Mara Luminosa Lyubov Riccarda Marion Yasmina Lavinia Vera Adela Nicole Irati Gioconda Tamara Roberta Helvisis Mariona Valeriana Nina Alrun Heloysis Erika Mia Zoya Reinhilde Ysabelet Blanca Elena Raisa Gerharde Ermengardis Azahara Nicoletta Antonina Radegundis Agneta Julieta Chiara Alla Huguette Mahault Olivia Giacinta Klavdia Heilburg Gillette Carolina Eulalia Zinaida Sieglinde Emmelot Belen Alice Rimma Asgard Dorian Ingrid Mirta Marta Aldona Sybilla Noa Incoronata Kira Anselma Stephana Antia Cassiopea Lidiya Berthild Maria Daniela Patrizia Diana Klothilde Denisette Carlota Andromeda Yana Thusnelda Margarite Ainara Immacolata Alisa Frederika Hersendis Marina Argelia Miroslava Runhild Jehannette Veronica Marinella Yaroslava Wilfriede Amelot Leyre Cointa Vladislava Diomira Nesot Manuela Macaria Bogdana Charlotte Jehennette Maria_Del_Carmen Wanda Snezhana Adolfa Aalipdis Celia Asia Milana Henrietta Thomasse Ines Cloe Rada Wanda Edine Adriana Eleonora Taisia Schwanhilde Tiephaine Ainhoa Emanuela Oksana Cressida Cecilia Gema Porzia Ulyana Ulrike Alberea Ruth Diana Anisiya Berta Jaqueline Judith Ghita Vasilisa Everarda Helyoudis Salma Eliana Adelgunde Edelina Lina Candida Hildrun Ascelina Noelia Esmeralda Rosamunde Oudine Virginia Glenda Sieghilde Genevote Amira Leda Friedegund Nicole Nerea Generosa Abelarda Phlipote Amanda Pia Bertille Odelina Alba_Colina Isidora Norgard Symonne Zoe_Navarro Ambra Walpurga Gila Helena Ianira Geraldine Hodeardis Olga Clara Huberta Agnez Claudia Moira Franka Gervaise Ariadna Rosamunda Irma Nicolete Nayara Paola Wendelgard Guiburgis Gabriela Batilda Herlinde Cecile Malak_Costa Apollonia Ramona Gunnor Neus Lidania Linda Alison Leticia Appia Alwine Agatha Cristina Fiorella Waltraud Alipson Ana_Maria Verdiana Gerwine Alipson Africa Lucia Burghild Thieffane Uxue Lorena Hildegunde Marie Almudena Aurora Emery Honnorée Gloria Olivia Irmgard Marguarite Carmen Marita Almut Emelina Pilar Menodora Arnolda Thecia Victoria Antonella Landriche Guiote Vega Porzia Elma Marota Inmaculada Laura
+	}
+}
+
+# ------------------------------------------------------------------------------
+# ULTHUAN (lemur_culture_11) - Altos Elfos
+# ------------------------------------------------------------------------------
+name_list_wh_ulthuan = {
+	cadet_dynasty_names = {
+		# Casas nobles, linajes dinásticos y epítetos tradicionales de Ulthuan
+		"Aethelmar" "Anar" "Aranion" "Bel-Hathor" "Caledor" "Caradryan" "Elensar" "Ellyrion" "Elarion" "Finubar" "Galadrieth" "Imrik" "Iltherin" "Korhil" "Menerlaus" "Morvaen" "Saphery" "Teclis" "Tyrion" "Thiran" "Yvresse" "Althuan" "Aethelgard" "Cothique" "Erethizon" "Imrallion" "Malene" "Melthin" "Minaith" "Olathiel" "Sariath" "Tethlys" "Valedor" "Yalar" "Yseril" "Valaris" "Korandil" "Asuryan" "Lileath" "Hoeth" "Vaul" "Kurnous" "Isha" "Ereth_Khial" "Morai-Heg" "Ladrielle" "Eldar" "Eldarion" "Aethelred" "Lauriel" "Ymaniol"
+	}
+	male_names = {
+		# Nombres elfos melódicos, nobles y antiguos de los Reinos de Ulthuan
+		Aenarion Tyrion Teclis Caledor Imrik Finubar Caradryan Korhil Eltharion Alith Anar Bel-Shanaar Bel-Hathor Tethlys Mentheus Morvaen Alistair Aethelmar Alain Aldred Alric Althuan Amis Anathel Arandir Aranion Archon Aril Asarnil Belion Bralloran Caelen Caradrel Carthand Casandor Coraith Cynath Dauron Eldred Elenrod Ellyrion Elsir Eltharin Eonir Eothain Erethon Erradon Fandor Finreir Furion Galadan Galandril Gaenor Gillian Gimilzor Glorfindel Halar Haldir Hothek Idril Ilthmar Imrallion Ingalion Iseril Kael Kaelen Kalhazar Kasador Kethric Korandil Kouran Laris Lilathan Lionmar Lirazel Liron Loranth Macar Menerlaus Mereneth Merilsar Minar Minaith Mithrandir Morandir Morelion Morgan Morileth Nairn Neltharin Nialls Nyle Oisin Olathiel Oradin Oriol Porthos Rael Ralan Rathian Saelian Salendor Sariath Sarniel Sean Seafarth Selafyn Solkan Sualoc Tancred Tarald Tethis Thalion Thiran Thordil Torin Tororval Ualian Valedor Valerius Valmir Volurn Yalar Yann Ymaniol Yseril
+	}
+	female_names = {
+		# Nombres femeninos elegantes, fluidos y místicas de las cortes elfas
+		Alarielle Yvraine Elandara Morathi Hellebron Aliathra Eldyra Liandra Astarielle Allisandra Alianor Althaea Alysa Amara Amariel Amaryllis Anais Anara Anariel Andrea Anthea Anya Aquaria Arabelle Araluen Arandria Archona Arethusa Aria Ariadne Ariall Arianna Ariel Arlayna Arwene Astaria Astrea Astria Atropos Audrey Aura Aurelia Aurora Avallach Avalon Avariel Aynia Azura Belinda Belisandra Callisto Calypso Caris Carya Carys Cassia Catalina Cecila Celandine Celeste Celia Cendrine Ceridwen Chantal Charis Chloe Claris Clea Cleo Clio Clytemnestra Cora Coral Coralia Cordelia Corinna Corisande Cressida Cybele Cynthia Cyra Cyrena Cythera Dalia Danae Daphne Daria Davina Deirdre Delia Delilah Delphine Demeter Desdemona Desirae Destinee Diamond Diana Dianthe Dinah Dionne Dione Dolores Donella Dora Dorcas Doris Dorit Drusilla Dulce Dulcinea Eartha Echo Eden Edlyn Edina Edira Edris Edwitha Eileen Elaine Elaphea Elara Elbereth Elda Eldara Eldria Eleanor Electra Electo Elen Elenora Elenari Eleni Elfrida Elga Eliana Elinor Elisa Elisabeth Elissa Eliza Ella Ellen Ellie Elma Elodie Elora Elouise Eluned Elvina Elvira Elysa Elysia Elyanna Emeline Emer Emerald Emilia Emily Emma Emmeline Emmy
+	}
+}
+
+
+# ------------------------------------------------------------------------------
+# HOBGOBLIN (lemur_culture_12) - Hobgoblins
+# ------------------------------------------------------------------------------
+name_list_wh_hobgoblin = {
+	cadet_dynasty_names = {
+		# Clanes, tribus y hordas del Khanato Hobgoblin de las Estepas Orientales
+		"Ghazak" "Oglah" "Kargra" "Gorduz" "Guzg" "Zla" "Hobgobla" "Kheshig" "Noyan" "Tumen" "Barlas" "Merkid" "Tayichiud" "Jalair" "Tartar" "Kiyat" "Chonos" "Uriankhai" "Oirat" "Kerait" "Naiman" "Khitan" "Jurchen" "Xiongnu" "Rouran" "Gokturk" "Shatuo" "Yugur" "Kankalis" "Karluk" "Kipchak" "Cuman" "Khazar" "Pecheneg" "Avars" "Bulgar" "Alans" "Sabirs" "Hun" "Yuezhi" "Wusun" "Tabgach" "Murong" "Tuoba" "Ashina" "Seljuk" "Timurid" "Chagatai" "Ilkhan" "Hulagu" "Kublai"
+	}
+	male_names = {
+		# Nombres brutales basados en el lore de Warhammer y con raíces esteparias/mongolas
+		Ghazak Oglah Gorduz Guzg Zla Krellis Skragga Uzndug Toktamish Subutai Jebe Chagatai Jochi Ogedei Kublai Hulagu Batu Temujin Barlas Kadan Baidar Hulegu Arghun Ghazan Oljeitu Abu_Said Toghrul Kutluk Bilge Bumin Istemi Taspar Tardu Niri Chulo Shibi Illig Jieli Helu Muchuo Qapaghan Bilge_Khan Kul_Tegin Tonyukuk Moyanchur Bayanchur Boku Alp_Arslan Toghrul_Beg Malik_Shah Sanjar Atsiz Il_Arslan Tekish Muhammad_Shah Jalal_ad_Din Timur Shah_Rukh Ulugh_Beg Abu_Said_Mirza Husayn_Bayqara Babur Kamran Askari Hindal Humayun Sher_Shah Akbar
+	}
+	female_names = {
+		# Nombres femeninos ásperos y guerreros de las jinetes de lobo y chamanas del Khanato
+		Borte Alan_Gua Chabi Mandukhai Sorghaghtani Oghul_Qaimish Toregene Khutulun Altani Alaqai Checheyigen Il-Altyn Temulun Ebuskun Radnashiri Budashiri Babukhan Nayan Sugabala Tegulen Yisut Khulan Yesugen Yesui Höelün Altan Altun Bayan Bilar Bilge Chulun Erdeni Gantuya Nergui Odval Sarangerel Tsetseg Tsolmon Altantsetseg Erdenechimeg Khongorzul Myadagmaa Narantuya Nomin Erdene Oyunchimeg Uranchimeg Bolormaa Enkhtuya Jargal
+	}
+}
+
+# ------------------------------------------------------------------------------
+# CATHAY (lemur_culture_13) - Grand Cathay (China)
+# ------------------------------------------------------------------------------
+name_list_wh_cathay = {
+	cadet_dynasty_names = {
+		# Grandes casas feudales, dinastías e influencias celestiales de Cathay
+		"Yin" "Miao" "Yao" "Li" "Xen" "Zhao" "Chang" "Sheng" "Fung" "Gao" "Guan" "Han" "He" "Hu" "Huang" "Ji" "Jia" "Jiang" "Jin" "Kang" "Lai" "Lei" "Liang" "Liu" "Long" "Lu" "Luo" "Ma" "Meng" "Pan" "Peng" "Qian" "Qin" "Qiu" "Ren" "Shen" "Shi" "Song" "Su" "Sun" "Tang" "Tian" "Wang" "Wei" "Wu" "Xia" "Xiang" "Xiao" "Xie" "Xu" "Yan" "Yang" "Ye" "Yu" "Yuan" "Zeng" "Zhang" "Zheng" "Zhou" "Zhu" "Zuo"
+	}
+	male_names = {
+		# Nombres imperiales, generales, monjes y alquimistas del Imperio Celestial
+		Xen_Wu Zhao_Ming Chang_Feng Shen_Liang Sheng_Fung Gao_Shun Guan_Yu Han_Fei He_Jin Hu_Shuan Huang_Feihong Ji_Dan Jia_Xu Jiang_Ziya Jin_Cha Kang_Xi Lai_Su Lei_Shen Liang_Kuo Liu_Bei Liu_An Long_Wei Lu_Bu Luo_Guanzhong Ma_Chao Meng_Huo Pan_Feng Peng_Dehuai Qian_Long Qin_Shi_Huang Qiu_Chuji Ren_Wending Shen_Kuo Shi_Lang Song_Jiang Su_Shi Sun_Tzu Sun_Jian Tang_Tianzun Tian_Feng Wang_Anshi Wang_Wei Wu_Sangui Xia_Hou Xiang_Yu Xiao_He Xie_An Xu_Chu Yan_Liang Yang_Jian Ye_Fei Yu_the_Great Yuan_Shu Zeng_Guofan Zhang_Fei Zhang_Liang Zheng_He Zhou_Yu Zhu_Ge_Liang Zhu_Yuanzhang Zuo_Ci
+	}
+	female_names = {
+		# Nombres elegantes de las cortes de Wei-Jin, doncellas y dragonas humanas
+		Miao_Ying Yao_Ming_Ying Yin_Yin Lin_Xian Chang_E Sheng_An Gao_Yanyan Guan_Yin Han_Mei He_Xian_Gu Hu_Mulan Huang_Yueying Ji_Kang Jia_Li Jiang_Qing Jin_Feng Kang_Min Lai_Yin Lei_Ya Liang_Hongyu Liu_Yang Long_Mei Lu_Zhi Luo_Lan Ma_Yuan Meng_Yao Pan_Jinlian Peng_Liyuan Qian_Xue Qin_Liangyu Qiu_Jin Ren_Zhi Shen_Wei Shi_Xiangniang Song_Qingling Su_Xiaoxiao Sun_Shangxiang Tang_Wei Tian_Rui Wang_Zhaojun Wu_Zetian Xia_Qing Xiang_Mei Xiao_Qiao Xie_Daoyun Xu_Mu Yan_Zi Yang_Guifei Ye_Zaili Yu_Miaoyi Yuan_Mei Zeng_Zi Zhang_Ziyi Zheng_Yi_Sao Zhou_Xun Zhu_Shuzhen Zuo_Fen
+	}
+}
+
+# ------------------------------------------------------------------------------
+# NIPPON (lemur_culture_14) - Nippon (Japón)
+# ------------------------------------------------------------------------------
+name_list_wh_nippon = {
+	cadet_dynasty_names = {
+		# Grandes clanes corporativos adaptados fonéticamente para sonar como apellidos reales
+		"Iwasaki" "Mitsui" "Sumitomo" "Toyoda" "Honda" "Sonata" "Nintando" "Yamaha" "Suzuki" "Matsuda" "Nisano" "Toshiba" "Matsushita" "Hitachi" "Fujitsu" "Kanon" "Nikono" "Orinposu" "Kawasaki" "Subaru" "Komatsu" "Ishibashi" "Shiseido" "Sega" "Kapukomu" "Bandai" "Namuko" "Konami" "Kikoman" "Asahi" "Kirin" "Sapporo" "Suntori" "Kashio" "Seiko" "Kyocera" "Murata" "Unikuro" "Fujifilmu" "Denso" "Kubota" "Yanmar" "Riko"
+	}
+	male_names = {
+		# Samuráis, daimyos y monjes guerreros de las islas orientales
+		Nobunaga Hideyoshi Ieyasu Shingen Kenshin Masamune Yukimura Mitsuhide Katsuiye Nagamasa Motonari Yoshitsune Yoritomo Benkei Musashi Kojiro Toshizo Katsuhiro Kenji Takahashi Hiroshi Akira Takashi Kazuo Yoshio Katsuro Minoru Mitsuru Ryota Daiki Satoshi Isamu Tsuyoshi Mamoru Jiro Saburo Goro Shiro Yoshiro Kensuke Yasuo Hideki Daisuke Kenichi Kazuki Shinji
+	}
+	female_names = {
+		# Onna-bugeishas, sacerdotisas del sol y damas de la corte imperial
+		Tomoe Chiyo Himiko Masako Oichi Komatsuhime Kaihime Ginchiyo Nuwa Sakura Hinata Aiko Yoko Mitsuki Rin Kasumi Ayane Mai Kaguya Ren Yuri Yuki Naoko Emiko Kazumi Yoshiko Saki Haruka Ritsuko Miyuki Chieko Asami Nozomi Rei Junko Shizuka Keiko Megumi Chika Natsumi Sayuri Kaori Koharu
+	}
+}
+
+# ------------------------------------------------------------------------------
+# IND (lemur_culture_15) - Ind (India)
+# ------------------------------------------------------------------------------
+name_list_wh_ind = {
+	cadet_dynasty_names = {
+		# Clanes aristocráticos, dinastías de maharajás y grandes estrellas (Modi, Khan, Bachchan)
+		"Sharon_Modi" "Bachchan" "Khan" "Kapoor" "Roshan" "Devgn" "Kumar" "Akshay" "Ambani" "Tata" "Birla" "Adani" "Mahindra" "Premji" "Godrej" "Bajaj" "Mittal" "Hinduja" "Shanghvi" "Poonawalla" "Murthy" "Nilekani" "Nadar" "Piramal" "Jindal" "Munjal" "Burman" "Wadia" "Thapar" "Singhania" "Bangur" "Kirloskar" "Mallya" "Roy" "Damani" "Goenka" "Lohia" "Ruia" "Dhoot" "Marandi" "Patel" "Sharma" "Reddy" "Nair" "Mehta" "Joshi" "Iyer" "Singh" "Gupta"
+	}
+	male_names = {
+		# Maharajás, guerreros históricos y grandes estrellas de Bollywood, cricket y política
+		Shah_Rukh Amitabh Salman Aamir Hrithik Ranbir Ranveer Akshay Ajay Saif John Varun Kartik Vicky Ayushmann Sidharth Tiger Shahid Abhishek Sanjay Anil Jacky Suniel Sunny Bobby Mithun Govinda Rishi Rajesh Dharmendra Dev Dilip Sunil Mahendra Sachin Virat Rohit Sourav Rahul Kapil Sunil_Gavaskar Jasprit Hardik Rishabh Shreyas Ravindra Shami Yuvraj Zaheer Harbhajan Virender Ishant Cheteshwar Shikhar Lokesh Sanju Shardul Axar Kuldeep Yuzvendra Mohammed Arshdeep Rinku Shubman Nitish Tilak Mayank Yashasvi Ruturaj Devdutt Prithvi Washington Shardul
+	}
+	female_names = {
+		# Reinas, deidades de Ind y superestrellas del cine y el deporte
+		Priyanka Deepika Alia Katrina Kareena Karisma Aishwarya Anushka Sonam Jacqueline Shradha Kriti Kiara Sara Janhvi Ananya Bhumi Taapsee Yami Radhika Vidya Rani Kajol Madhuri Juhi Sridevi Hema Rekha Zeenat Parveen Sharmila Waheeda Nargis Vyjayanthimala Asha Lata Shreya Sunidhi Monali Neha Mithali Smriti Harmanpreet Shafali Jemimah Deepti Renuka Pooja Richa Yastika Harleen Sneh Rajeshwari Shikha Taniya Radha Kiran Sania PV_Sindhu Mary_Kom Saina Sakshi Dutee Hima Manika Deepika_Kumari Vinesh
+	}
+}
+
+# ------------------------------------------------------------------------------
+# KHURESH (lemur_culture_16) - Khuresh (Sudeste Asiático)
+# ------------------------------------------------------------------------------
+name_list_wh_khuresh = {
+	cadet_dynasty_names = {
+		# Clanes de las Tierras de las Torres de Naga, cultos siseantes e imperios de la jungla
+		"Naga_Raja" "Siam_Sith" "Viper_Kshatriya" "Ankor_Ananta" "Krait_Varman" "Brahma_Naga" "Phuket_Phan" "Singha_Sith" "Champa_Chit" "Srivijaya_Sna" "Majapahit_Man" "Ayutthaya_Asa" "Ratchasima_Rai" "Lan_Xang" "Kedah_Krait" "Malacca_Mu" "Demak_Do" "Mataram_Ma" "Ternate_Te" "Tidore_Ti" "Pagan_Pa" "Toungoo_To" "Konbaung_Ko" "Sukhothai_Su" "Thonburi_Th" "Chakri_Ch" "Gowa_Go" "Bone_Bo" "Luwu" "Buton" "Sunda_Sna" "Galuh" "Tarumanagara" "Kalingga" "Sanjava" "Sailendra" "Isana" "Kahuripan" "Kediri" "Singhasari" "Blambangan" "Pasai" "Aceh_Asa" "Deli" "Siak" "Kampar" "Indragiri" "Jambi" "Palembang" "Banten"
+	}
+	male_names = {
+		# Reyes Serpiente, soberanos del sudeste asiático y generales de Indochina / Indonesia
+		Anawrahta Kyansittha Alaungpaya Bayinnaung Bodawpaya Hsinbyushin Mindon Thibaw Mengrai Ramkhamhaeng Naresuan Narai Taksin Mongkut Chulalongkorn Vajiravudh Prajadhipok Bhumibol Jayavarman Yasovarman Suryavarman Rajendravarman Ang_Duong Norodom Sihanouk Monivong Suramarit Gia_Long Minh_Mang Thieu_Tri Tu_Duc Duc_Duc Hiep_Hoa Kien_Phuc Ham_Nghi Dong_Khanh Thanh_Thai Duy_Tan Khai_Dinh Bao_Dai Raden_Wijaya Hayam_Wuruk Gajah_Mada Ken_Arok Kertanegara Airlangga Jayabaya Wangsa Sultan_Agung Ageng_Tirtayasa Iskandar_Muda
+	}
+	female_names = {
+		# Reinas Naga, sibilas venenosas y matriarcas de las profundidades de la espesura
+		Shin_Sawbu Ame_Du_Wun Chamadevi Suriyothai Debsirindra Sri_Sulalai Saovabha Sunandha Savang_Vadhana Sukhumala Sri_Bajrindra Indrasakdi Rambai_Barni Sirikit Ubolratana Sirindhorn Chulabhorn Bajrakitiyabha Sirivannavari Ang_Mey Sisowath_Kossamak Jade_Le_Xuan Nam_Phuong Nguyen_Thi_Anh Trieu_Thi_Trinh Ngo_Dinh_Nhu Duong_Van_Mai Tribhuwana Gayatri Ken_Dedes Shima Suhita Isyana Pramodhawardhani Sri_Kahulun Mahendradatta Dyah_Gitarja
+	}
+}
+
+# ------------------------------------------------------------------------------
+# ARABY (lemur_culture_17) - Araby (Oriente Medio)
+# ------------------------------------------------------------------------------
+name_list_wh_araby = {
+	cadet_dynasty_names = {
+		# Califas, dinastías de sultanes, clanes del desierto y nómadas de las dunas
+		"Al-Mansur" "Al-Rashid" "Ibn_Sahl" "Al-Din" "Al-Hakim" "Al-Aziz" "Ibn_Khaldun" "Al-Mustansir" "Al-Mu'izz" "Al-Qaim" "Al-Mahdi" "Al-Saffah" "Al-Mansur" "Al-Mahdi" "Al-Hadi" "Al-Amin" "Al-Ma'mun" "Al-Mu'tasim" "Al-Wathiq" "Al-Mutawakkil" "Al-Muntasir" "Al-Musta'in" "Al-Mu'tazz" "Al-Muhtadi" "Al-Mu'tamid" "Al-Mu'tadid" "Al-Muktafi" "Al-Muqtadir" "Al-Qahir" "Al-Radi" "Al-Muttaqi" "Al-Mustakfi" "Al-Muti" "Al-Ta'i" "Al-Qadir" "Al-Qa'im" "Al-Muqtadi" "Al-Mustazhir" "Al-Mustarshid" "Al-Rashid" "Al-Muqtafi" "Al-Mustanjid" "Al-Mustadi" "Al-Nasir" "Al-Zahir" "Al-Mustansir" "Al-Musta'sim"
+	}
+	male_names = {
+		# Sultanes, genios de las lámparas, emires, visires y guerreros derviches
+		Jafar Al_Mansur Harun Al_Rashid Tariq Ziyad Omar Saladin Suleiman Khalid Ali Hassan Hussein Ibrahim Mustafa Ahmed Mahmoud Youssef Kamel Sa'id Amine Malik Rayan Karim Hamza Zeid Faisal Saud Abdullah Salman Fahd Abdullah Mohammed Sultan Nayef Nawaf Mansour Badr Tariq Waleed Khaled Majid Osama Saad Fahad Abdul_Aziz Abdul_Rahman Abdul_Allah Marwan Hisham Yazid Muawiya Umar Uthman Abu_Bakr
+	}
+	female_names = {
+		# Princesas de las mil y una noches, hechiceras de las dunas y reinas del desierto
+		Fatima Aisha Layla Zaynab Khadija Amine Mariam Noor Rania Haya Soraya Yasmin Farah Shadia Fairuz Umm_Kulthum Haifa Nancy Elissa Myriam Cyrine Maya Yara Balqees Zenobia Cleopatra Nefertiti Hatshepsut Shajar_al_Durr Arwa Bilqis Amina Salma Lalla Latifa Meryem Khadija Soukaïna Asmahan Warda Fayrouz Majida Samira
+	}
+}
+
+# ------------------------------------------------------------------------------
+# NEHEKHARA (lemur_culture_18) - Reyes Funerarios (Egipto)
+# ------------------------------------------------------------------------------
+name_list_wh_nehekhara = {
+	cadet_dynasty_names = {
+		# Grandes dinastías de Khemri, Numas, Zandri, Mahrak, Lahmia, Rasetra y Lybaras
+		"Settra" "Alcadizaar" "Nagash" "Khalida" "Khatep" "Arkhan" "Apophas" "Amenemhat" "Ahmose" "Thutmose" "Amenhotep" "Ramesses" "Seti" "Merneptah" "Psemius" "Phakth" "Tutankhamun" "Akhenaten" "Horemheb" "Seneb" "Kheops" "Khafre" "Menkaure" "Sneferu" "Khufu" "Pepi" "Teti" "Unhatep" "Nekhesh" "Khemric" "Lahmian" "Zandrian" "Mahrakian" "Rasetran" "Lybaras" "Numas" "Quatar" "Bhagar" "Bel-Aliad" "Ka-Sabar"
+	}
+	male_names = {
+		# Reyes, sacerdotes de la dinastía de la tumba y príncipes del desierto de los muertos
+		Settra Alcadizaar Nagash Khatep Arkhan Apophas Ramhotep Thutep Amenemhet Ahmose Thutmose Amenhotep Ramesses Seti Merneptah Horemheb Akhenaten Tutankhamun Sneferu Khafre Menkaure Khufu Pepi Teti Mentuhotep Senusret Intef Sobekhotep Necho Psamtik Amasis Apries Shoshenq Osorkon Takelot Shebitku Taharqa Tantamani Nectanebo Ptolemy Arsinoe Berenice Cleopatra Alexander
+	}
+	female_names = {
+		# Reinas caídas, reinas vampiro de Lahmia y sumas sacerdotisas nehekharanas
+		Khalida Neferata Hatshepsut Nefertiti Cleopatra Sobekneferu Arsinoe Berenice Ahhotep Ahmose-Nefertari Tiye Nefertari Meritamen Twosret Nitocris Ankhesenamun Mutnodjmet Kiya Kawit Ashait Henhenet Kemsit Sadeh Muyet Tetisheri Meresankh Hetepheres Meritites Khamerernebty Iput Neferhetepes Isetnofret Bintanath Karomama Atelkheras
+	}
+}
+
+# ------------------------------------------------------------------------------
+# NAGGAROTH (lemur_culture_19) - Elfos Oscuros
+# ------------------------------------------------------------------------------
+name_list_wh_naggaroth = {
+	cadet_dynasty_names = {
+		# Casas nobles (Clans / Houses) y linajes despiadados de las Ciudades de la Agonía
+		"Malekith" "Morathi" "Hellebron" "Malus" "Lokhir" "Kouran" "Tullaris" "Anath_Raenh" "Fellheart" "Darkblade" "Ghrond" "Clar_Karond" "Karond_Kar" "Hag_Graef" "Naggarond" "Har_Ganeth" "Doomweaver" "Nightblade" "Bloodwrack" "Shadowstalker" "Souldrinker" "Blackheart" "Krakenborn" "Coldheart" "Vileblood" "Ironscourge" "Witchbane" "Gloomwalker" "Dreadblade" "Shadowbrand" "Voidgaze" "Deathbringer" "Soulfeeder" "Bitterscourge" "Baneheart" "Darkweave" "Wrathbringer" "Malice" "Nael" "Vael" "Kaelth" "Thraen" "Xand" "Raelth" "Drako" "Morv" "Garn" "Kaelis" "Sari" "Vand"
+	}
+	male_names = {
+		# Nombres afilados, agresivos y siniestros de los Druchii
+		Malekith Malus Lokhir Kouran Tullaris Yeurl Urian Darkblade Balnazzar Carathai Duriath Eramir Furion Kaelith Kharan Kouran Malvon Mentheus Morvaen Nael Nisroc Raelith Rakarth Salendor Sarniel Sean Thalandor Thiran Thordil Uthoril Vaelen Volurn Xandrar Yann Yvran Zadrak Kaelen Kalhazar Kasador Kethric Korandil Kouran Laris Lirazel Liron Loranth Macar Menerlaus Mereneth Merilsar Minar Minaith Mithrandir Morandir Morelion Morgan Morileth Nairn Neltharin Nialls Nyle Oisin Olathiel Oradin Oriol Porthos Rael Ralan Rathian Saelian Salendor Sariath Sarniel
+	}
+	female_names = {
+		# Brujas elfas, matriarcas de los Cultos del Placer y asesinas de Naggaroth
+		Morathi Hellebron Drusilla Malida Anath Raenh Yvraine Althea Amara Anya Azura Drusilla Elgiva Elissa Elvira Elysa Emeline Eris Evadne Felicia Gwendolyn Hecate Isolde Jezebel Lilith Lyra Makeda Medusa Melisande Morgana Nyx Ophelia Pandora Persephone Roxanne Salome Selene Sirena Sybil Tamara Tatiana Ursula Valerika Vanessa Vanya Victoria Vivienne Xandra Yvria Zara Zenobia Zilla Zoe Alarielle Yvraine Elandara Morathi Hellebron Aliathra Eldyra Liandra Astarielle Allisandra Alianor Althaea Alysa Amara Amariel Amaryllis Anais Anara Anariel
+	}
+}
+
+# ------------------------------------------------------------------------------
+# LIZARDMEN (lemur_culture_20) - Hombres Lagarto
+# ------------------------------------------------------------------------------
+name_list_wh_lizardmen = {
+	cadet_dynasty_names = {
+		# Ciudades-Templo (Tlahtohcayotl), desoves sagrados y linajes de los Ancestros
+		"Itza" "Hexoatl" "Tlaxtlan" "Xlanhuapec" "Chupayotl" "Quetza" "Zlatlan" "Pahuax" "Chaqua" "Huatl" "Oyxl" "Axlotl" "Xahutec" "Tlanxla" "Gwangee" "Chicomecoatl" "Huitzilopochtli" "Mictlantecuhtli" "Quetzalcoatl" "Tezcatlipoca" "Tlaloc" "Xipe_Totec" "Xolotl" "Centeotl" "Ometecuhtli" "Tonatiuh" "Chalchiuhtlicue" "Coatlicue" "Coyolxauhqui" "Mayahuel" "Tlazolteotl" "Itzpapalotl" "Mixcoatl" "Yacatecuhtli" "Cihuacoatl" "Ehecatl" "Huehuecoyotl" "Ixtlilton" "Macuilxochitl" "Patecatl"
+	}
+	male_names = {
+		# Señores Slann, héroes Eslizones, feroces Sangresaurios y Kroxigors con raíces nahuas y mayas
+		Mazdamundi Kroak Grymloq Kroq_Gar Tehenhauin Tetto_eko Gor_Rok Nakai Oxyotl Tiktaq'to Itzi_Bitzi Inua_Inca Ten_Zlot Itza_Guan Acamapichtli Huitzilihuitl Chimalpopoca Itzcoatl Moctezuma Axayacatl Tizoc Ahuitzotl Cuauhtemoc Cuitlahuac Maxtla Tezozomoc Nezahualcoyotl Nezahualpilli Xicotencatl Tenoch Teoch Tecpatl Tizoc Chimalma Tochtli Ollin Ehecatl Cuauhtli Coatl Mazatl Itzcuintli Malinalli Ozomatli Ocelotl Quauhtli Cozcacuauhtli Ollin Tecpatl Quiahuitl Xochitl Pakal Yaxun_Balamk K'inich Jasaw Kan_Bahlam
+	}
+	female_names = {
+		# Los Hombres Lagarto carecen de género (nacen de estanques de desove), por lo que se añaden nombres de deidades e imperatrices mesoamericanas adaptadas
+		Atlatonin Chalchiuhtlicue Chantico Chicomecoatl Cihuacoatl Coatlicue Coyolxauhqui Ilancueitl Itzpapalotl Huixtocihuatl Mayahuel Mictecacihuatl Quilaztli Tlazolteotl Tzitzimitl Xochiquetzal Malintzin Tecuelhuatzin Papantzin Tecuichpo Xiuhcozcatl Xiloxochitl Anacaona Isabel_Moctezuma Tecuichpotzin Chimalman Caxochitl Macuilxochitzin Azcaxochitl Miahuaxochitl Cacamacihuatl Matlalatzin Tlapalizquixochitli Atotoztli
+	}
+}
+
+# ------------------------------------------------------------------------------
+# GREENSKIN (lemur_culture_21) - Orcos y Goblins
+# ------------------------------------------------------------------------------
+name_list_wh_greenskin = {
+	cadet_dynasty_names = {
+		# Tribus (Tribes), bandas y clanes de Pielesverdes con nombres de Hooligans ingleses
+		"Iron_Claws" "Crooked_Moons" "Bloody_Hands" "Red_Fangs" "Black_Crag_Lads" "Bad_Moons" "Evil_Sunz" "Goff_Boyz" "Snakebite_Gitz" "Deathskulls" "Blood_Axes" "Mork_Fellas" "Gork_Firm" "Red_Eye_Crew" "Broken_Teeth_Mob" "Bone_Chompers" "Gut_Rippers" "Skull_Crushers" "Mad_Boy_Ultra" "Footy_Gitz" "Spike_Heads" "Rot_Guts" "Big_Stompers" "Gnasher_Shed" "Waaagh_Casuals" "Stompa_Firm" "Smasha_Brigade" "Thug_Goblins" "Choppa_Club" "Grimgor_Boys"
+	}
+	male_names = {
+		# Nombres de Orcos y Goblins inspirados en el dialecto "Cockney / Hooligan" borracho (Gork, Mork, Grimgor, Wurrzag, Skarsnik)
+		Grimgor Wurrzag Skarsnik Grom_the_Paunch Azhag_the_Slaughterer Gorbad_Ironclaw Gazbag Borgut_Facebeater Gitilla Skalg_Sorehead Badrukk Blagga Bazooka Baz_the_Lout Gazza Dazza Bazza Shaz_the_Thug Nobbla Groff_the_Guvnor Nob_the_Yob Stompa Smasha Bashar Choppar Gnasher Skab_the_Lout Nobz_the_Geezer Big_Gazza Mad_Mick Proper_Dave Waaagh_Barry Slagga Git_the_Slag Chobba Gobbo_the_Lad Nasty_Ned Bruiser_Bob Skull_Splitta Iron_Jaws Gore_Fist
+	}
+	female_names = {
+		# Los Pielesverdes no tienen género (nacen de hongos/esporas), pero aquí hay nombres feminizados al estilo Hooligan borracha de bar inglés
+		Gazza_Lass Shazza_Girl Bazza_Bird Dazza_Mimi Sharon_the_Slag Big_Mandy Mad_Saz Proper_Tracey Waaagh_Debbie Slagga_Sue Chobba_Chlo Gobbo_Gemma Nasty_Nat Bruiser_Barb Skull_Sall Iron_Ida Gore_Gertie Big_Bertha Rowdy_Rhonda Lager_Liz Pub_Pam Pint_Peggy Sloshed_Sall
+	}
+}
+
+# ------------------------------------------------------------------------------
+# CHAOS-DWARVEN (lemur_culture_22) - Enanos del Caos
+# ------------------------------------------------------------------------------
+name_list_wh_chaos_dwarven = {
+	cadet_dynasty_names = {
+		# Clanes industriales de Zharr-Naggrund, forjadores de almas y siervos de Hashut
+		"Zharr" "Naggrund" "Hashut" "Zhatan" "Astragoth" "Drazhoath" "Ghorth" "Ironhand" "Ashenbeerd" "Khorvash" "Gorgath" "Blackforge" "Hellstone" "Soulforged" "Bloodiron" "Darkforge" "Doomhammer" "Bullbound" "Ashborn" "Magmafist" "Slavemaster" "Ironscourge" "Firebreath" "Cruelbeard" "Brimstone" "Sorcerer-Prophet" "Bull-Gorged" "Sulphur" "Cinderface" "Gravelord" "Shadowbeard" "Voidgaze" "Deathbringer" "Soulfeeder" "Bitterscourge" "Baneheart" "Darkweave" "Wrathbringer" "Malice" "Souldrinker"
+	}
+	male_names = {
+		# Brujos-Profetas, tiranos de las torres de fundición y verdugos del imperio de ceniza
+		Astragoth Drazhoath Zhatan Ghorth Rykarth Shar'tor Gorduz Hashuton Abraxas Malofex Skathrax Khorvash Valnir Engra Crom Kaleb Krell Archaon Be'lakor Kholek Vardek Mordrek Azazel Vilitch Festus Sigvald Tamurkhan Skarbrand Ku'gath Kairos N'Kari Malagor Khazrak Morghur Taurox Throgg Wulfrik Egil Skaeling Varg Aesling Sarl
+	}
+	female_names = {
+		# Al igual que los Enanos del Caos tienen una sociedad fuertemente militarizada y patriarcalizada, se usan nombres eufónicos duros y oscuros
+		Zharrina Hashuta Naggrunda Zhatana Astragotha Drazhoatha Ghortha Gorgatha Khorvasha Valnika Engra Malicia Souldrinker Bloodqueen Plagueweaver Fatespinner Joybringer Hellstrider Dreadbringer Doomweaver Skulltaker Gorefist Rotgrace Shadowweave Voidgaze Deathbringer Soulfeeder Bitterscourge Baneheart Darkweave Wrathbringer
+	}
+}
+
+# ------------------------------------------------------------------------------
+# DWARVEN (lemur_culture_23) - Enanos
+# ------------------------------------------------------------------------------
+name_list_wh_dwarven = {
+	cadet_dynasty_names = {
+		# Grandes clanes de los Karaks, gremios de herreros y linajes ancestrales del Dawi-Zharr
+		"Ironhammer" "Stoneheart" "Grumbledeek" "Goldfinder" "Shieldbreaker" "Beardbeard" "Ankor" "Thorgrimsson" "Grombrindalsson" "Gurnisson" "Alriksson" "Ironfist" "Gorefist" "Doomfist" "Skullsmasher" "Frostborn" "Icewalker" "Wolfkin" "Bearclaw" "Stormbringer" "Gorefist" "Krakenborn" "Sea_Wolf" "Whale_Hunter" "Black_Shield" "Stoneborn" "Deepdelver" "Rockbreaker" "Goldvein" "Silverfist" "Copperfist" "Bronzebeard" "Onyxshield" "Runeforge" "Anvilstriker" "Minegrinder" "Tunnelstalker" "Jewelfinder" "Gemsnatcher" "Rubyborn"
+	}
+	male_names = {
+		# Altos Reyes, Matadores, Ingenieros y Señores de las Runas del Gran Imperio Enano
+		Thorgrim Grombrindal Gotrek Belegar Ungrim Alrik Bugman Kragg Burlok Garagrim Snorri Brokk more_Dawi_names Thorek Kazador Barak Drong Furgil Morgrim Alriksson Brógar Thorgard Duregar Skag Balin Dwalin Óin Glóin Thorin Bifur Bofur Bombur Ori Nori Dori Fili Kili Gimli Dain Thrór Thrain Grór Durin Fundin Groth Gorim Fundil Hargin Kadrin Logazor Norgrim Rorek Snorri Stromni
+	}
+	female_names = {
+		# Reinas de las fortalezas, maestras de las runas y damas nobles de las profundidades (Dawi)
+		Helga Valaya Katrin Sif Griselda Brunhilda Brenda Freya Astrid Ingrid Signy Gudrun Helgi Thora Yrsa Ragnhild Bodil Frida Gerda Hilda Ingeborg Ragna Solveig Unn Alva Freydis Nanna Skadi Idun Saga Eira Gro Lif Randi Runa Siv Tone Tove Kára Borghild Hertha Grimhild Brynhild Alfhild Sigrid
+	}
+}
+
+# ------------------------------------------------------------------------------
+# VAMPIRE (lemur_culture_24) - Condes Vampiro
+# ------------------------------------------------------------------------------
+name_list_wh_vampire = {
+	cadet_dynasty_names = {
+		# Las grandes líneas de sangre de los No Muertos (Von Carstein, Lahmia, Necrarcas, Strigoi, Dragones Sangrientos)
+		"Von_Carstein" "Von_Zarovich" "Von_Kross" "Von_Diehl" "Lahmian" "Necrarch" "Strigoi" "Blood_Dragon" "Walach" "Harkon" "Noctilus" "Abhorash" "Wsoran" "Melkhior" "Zacharias" "Ushoran" "Gashnag" "Anari" "Nekhesh" "Khemric" "Mourngul" "Gravewalker" "Nightshroud" "Bloodborn" "Dreadblade" "Doomweaver" "Soulfeeder" "Bitterscourge" "Baneheart" "Darkweave" "Wrathbringer" "Malice" "Souldrinker" "Blackheart" "Coldheart" "Vileblood" "Ironscourge" "Witchbane" "Gloomwalker" "Shadowbrand" "Voidgaze" "Deathbringer"
+	}
+	male_names = {
+		# Señores de los vampiros aristocráticos, nigromantes, monarcas no muertos y caballeros de la noche
+		Vlad Mannfred Konrad Jerek Gaxang Harkon Noctilus Luthor Abhorash Wsoran Melkhior Zacharias Ushoran Gashnag Gunter Pieter Hans Klaus Dieter Kurt Wilhelm Reinhardt Gustav Leopold Berthold Sigmund Ulrich Waldemar Herman Franz Gotthrek Heinrich Kemmler Krell Arkhan Nagash Radu Strahd Alucard Dracula Lestat Armand Marius Louis Viktor Marcus Selene Christian Raymond Roderick
+	}
+	female_names = {
+		# Reinas de la noche, matriarcas de Lahmia, novias de Drácula y condesas de Sylvania
+		Isabella Neferata Dechala Genevieve Ulrika Naaima Emmanuelle Lucrezia Carmilla Lenore Akasha Katherine Elizabeth Victoria Eleonore Beatrix Sybilla Elspeth Sylvania Lamia Lahmia Lilith Morrigan Morgana Drusilla Hecate Nyx Pandora Persephone Selene Sirena Sybil Tamara Tatiana Ursula Valerika Vanessa Vanya Victoria Vivienne Xandra Yvria Zara Zenobia Zilla Zoe
+	}
+}
+
+# ------------------------------------------------------------------------------
+# OGRE (lemur_culture_25) - Reinos Ogros
+# ------------------------------------------------------------------------------
+name_list_wh_ogre = {
+	cadet_dynasty_names = {
+		# Grandes Tribus oficiales de los Reinos Ogros, glotones famosos y la referencia a Shrek
+		"Shrek_Swamp" "Greasus" "Goldtooth" "Skrag" "the_Slaughterer" "Golgfag" "Maneater" "Bragg" "the_Gutsman" "Feastmaster" "Gutlutter" "Thunderguts" "Bloodfists" "Icesmacker" "Rockhacker" "Ogre_Tribes" "Beastcleaner" "Gorgers" "Muttonchompers" "Sky-Titans" "Eyebiter" "Bonegrinder" "Snotling_Smasher" "Iron-Guts" "Bull-Gorged" "Meat-Hookers" "Lard-Skin" "Fat-Shield" "Stew-Cookers" "Gore-Feasters"
+	}
+	male_names = {
+		# Tiranos Ogros, carniceros, cazadores de las Montañas de los Lamentos y el mismísimo Shrek
+		Shrek Greasus Skrag Golgfag Bragg Ghark Grimgut Martha_Gut Radghert Boglar Thorg Gnob-Stomper Bruiser Kark Blaut_the_Feaster Hroth Bron_the_Maneater Groth_One-Finger Jarg Olog Bull_Ogre Tyrant_Krog Gut_Beater Flesh_Ripper Club_Smash Meat_Chomper Blood_Drinker Bone_Cruncher Iron_Jaw Big_Gazza Lard_Belly Fat_Jack Stout_Mick
+	}
+	female_names = {
+		# Matriarcas Ogro, carniceras salvajes y la Princesa Fiona adaptada a la brutalidad de la sabana
+		Fiona_the_Green Greasina Skragga Golfgaga Bragga Gharka Grimgutta Martha Radgherta Boglara Thorgana Gnob-Stompa Bruisera Karka Blauta Hrotha Brona Grotha Jarga Ologa Bulla Kroga Gutta Flesha Clubba Meata Blooda Boneia Irona Gazza Larda Fatta Stouta Swamp_Mary Ogre_Fiona
+	}
+}
+
+# ------------------------------------------------------------------------------
+# TROLL (lemur_culture_26) - Trolls
+# ------------------------------------------------------------------------------
+name_list_wh_troll = {
+	cadet_dynasty_names = {
+		# Clanes de monstruos de río, de piedra y de las profundidades heladas de Norsca
+		"Throgg" "Sourbreath" "Bile-Gusher" "Vomit-Spewer" "Stone-Eaters" "River-Stinkers" "Ice-Trolls" "Chaos-Gorged" "Mud-Wallowers" "Cave-Brawlers" "Bone-Crunchers" "Flesh-Rippers" "Slime-Skins" "Rot-Guts" "Rock-Heads" "Gore-Munchers" "Club-Smashers" "Swamp-Stalkers" "Bridge-Guardians" "Gross-Guts"
+	}
+	male_names = {
+		# El Rey Trol Throgg y nombres onomatopéyicos basados en gruñidos, arcadas y ruidos cavernosos
+		Throgg Sourbreath Grunt Belch Vomit Spew Bile Gulp Gnash Crunch Smash Bash Thug Clug Blog Grog Mrog Glug Rog Tor Stomp Mush Slime Snot Puke Barf Blorg Grot Krog Crag Boulder Ooze Grime Gunk Muck
+	}
+	female_names = {
+		# Las troles hembras no tienen un género social diferenciado; sus nombres son variantes ásperas y brutales
+		Throgga Sourbreatha Grunta Belcha Vomita Spewa Bila Gulpa Gnasha Cruncha Smasha Basha Thuga Cluga Blogga Grogga Mrogga Gluga Rogga Tora Stompa Musha Slimea Snota Pukea Barfa Blorga Grota Kroga Craga Oozeia Grimea Gunka Mucka
+	}
+}
+
+# ------------------------------------------------------------------------------
+# SARTOSSAN (lemur_culture_27) - Sartosa (Piratas)
+# ------------------------------------------------------------------------------
+name_list_wh_sartossan = {
+	cadet_dynasty_names = {
+		# Clanes piratas, capitanes de la Costa del Vampiro y barones libres de Sartosa
+		"Saltspite" "Roth" "Noctilus" "Harkon" "Jaegar" "Black" "Morgan" "Vane" "Flint" "Silver" "Drake" "Avery" "Bellamy" "Bonny" "Read" "Roberts" "Teache" "Kidde" "Kidd" "Barbarossa" "Lafitte" "Morgan" "Raleigh" "Drake" "Hawkins" "Cavendish" "Mainwaring" "Mansfield" "Sharp" "Dampier" "Ringrose" "Davis" "Swan" "Eaton" "Cowley" "Townley" "Harris" "Knight" "Wafer" "Raveneau" "de_Graff" "Grammont" "la_Olonnais" "Morgan" "Coxon" "Sawkins" "Sharp" "Watling" "Archemboe" "Wright" "Yallahs"
+	}
+	male_names = {
+		# Capitanes corsarios, lobos de mar y tripulación borracha de Sartosa y los Mares del Sur
+		Jaegar Aranessa_Male Edward Henry William John Thomas Robert Charles Christopher Benjamin George Richard Samuel Walter Francis James Joseph David Peter Michael Daniel Andrew Anthony Nicholas Paul Philip Timothy Edward_Thatch Bartholomew Henry_Morgan Jack William_Kidd Stede Charles_Vane Calico_Jack Howell Edward_England Christopher_Condent Thomas_Tew Jean_Lafitte François_l_Olonnais Henry_Avery Woodes Samuel_Bellamy Blackbeard Long_John
+	}
+	female_names = {
+		# Capitanes piratas, sirenas de mar, contrabandistas y la mismísima Aranessa Saltspite
+		Aranessa Saltspite Anne Mary Grace Ching Alwilda Jacquotte Rachel Sayyida Sadia Charlotte Maria Rebecca Elizabeth Catherine Margaret Jane Joan Agnes Alice Dorothy Eleanor Frances Isabella Lucy Martha Mary_Read Anne_Bonny Grace_O_Malley Ching_Shih Alwilda_Siren Jeanne_de_Clisson Mary_Wolverston Elizabeth_Shirley Mary_Lacy Charlotte_de_Berry Rachel_Wall
+	}
+}
+
+# ------------------------------------------------------------------------------
+# SKEGAK (lemur_culture_28) - Skinks
+# ------------------------------------------------------------------------------
+name_list_wh_skegak = {
+	cadet_dynasty_names = {
+		# Desoves de Eslizones, crestas sagradas y oficios de las Ciudades-Templo de Lustria
+		"Tehenhauin" "Tetto'eko" "Tiktaq'to" "Oxyotl" "Itzi-Bitzi" "Chotec" "Sotek" "Quetzl" "Huanchi" "Tlazcotl" "Tepok" "Xapati" "Potec" "Xokha" "Chunka" "Zlatlan" "Hexoatl" "Itza" "Tlaxtlan" "Chaqua" "Pahuax" "Xlanhuapec" "Chupayotl" "Axlotl" "Xahutec" "Onyx-Crest" "Red-Crest" "Sun-Desove" "Star-Crest" "Feather-Tail"
+	}
+	male_names = {
+		# Sacerdotises, jefes de guerra, exploradores y camaleones Eslizones (fonética rápida, con "t", "x", y clicks)
+		Tehenhauin Tetto_eko Tiktaq_to Oxyotl Itzi_Bitzi Inua_Inca Ten_Zlot Itza_Guan Xmitl Tlazitlo Potextli Chotax Teto_ka Oxtli Tiktaq Titto Xitli Tzlotl Kax Pakal_Eslizone Huatx Totec_Sliz Zitli Poctli Tatli Xiutl Octli Coatl_Sliz Mitli Quetzx Chax Tlanx Axlx Oyxz
+	}
+	female_names = {
+		# Al nacer de estanques de desove no tienen género, pero se adaptan nombres con fonética mística y de deidades astrales
+		Chotaca Sotekia Tlazcotla Tepoka Huanchia Quetzla Xapatia Poteca Xokhaia Chunkia Hexoatla Itzaia Tlaxtlana Chaquaia Pahuaxia Onyxa Starca Featheria Skitta Chitta Xitta Flitta Skavax Tlikxa Tlikta Tlitla
+	}
+}
+
+# ------------------------------------------------------------------------------
+# GNOBLAR (lemur_culture_29) - Gnoblars
+# ------------------------------------------------------------------------------
+name_list_wh_gnoblar = {
+	cadet_dynasty_names = {
+		# Clanes de sirvientes, bandas de rateros y apodos miserables de las Montañas de los Lamentos
+		"Bragg-Biter" "Greasers" "Toe-Biters" "Pig-Ticklers" "Scrap-Scavengers" "Nose-Pickers" "Ear-Gougers" "Lard-Lickers" "Mud-Grovelers" "Bone-Snatchers" "Shin-Kickers" "Pot-Scrubbers" "Gut-Worshippers" "Ogre-Shadows" "Club-Thieves" "Tooth-Snatchers" "Fleabiters" "Bog-Runners" "Rock-Throwers" "Sharp-Sticks" "Rusty-Blades" "Gnob-Mob" "Snot-Snarls" "Whiners" "Cringers" "Belly-Slaves" "Plate-Lickers" "Scab-Pickers" "Tinkers" "Rummagers"
+	}
+	male_names = {
+		# Sirvientes, tramperos y luchadores a la sombra de los Ogros (Bragg, Skrag, ruidos chillones y agudos)
+		Bragg Skrag Gnoblar Snotty Grasp Skulk Bleat Whine Cringe Grovel Snatch Scrape Filch Pinch Progg Pokk Tik Rit Zit Nit Skat Blit Grog Snot Scab Pustule Wart Fungus Shroom Toad Ratty Weasel Sneak Skulk Cheat Rob Dodge Coward Runny Yell Squeak Screech
+	}
+	female_names = {
+		# Las gnoblars hembras son igual de feas, ruidosas y miserables en las cocinas y madrigueras de los campamentos
+		Snotta Gnoblina Skragga Bleata Whina Cringia Grovelia Snatcha Scrapa Filchia Pincha Progga Pokka Tikka Ritta Zitta Nitta Skatta Blitta Grogga Scabba Wartia Fungia Shrooma Ratteia Weaselia Sneakia Skulkia Cheatia Robbia Dodgea Runnia Yellia Squeakia Screechia
+	}
+}
+
+# ------------------------------------------------------------------------------
+# SHEORA (lemur_culture_30) - Amazonas
+# ------------------------------------------------------------------------------
+name_list_wh_sheora = {
+	cadet_dynasty_names = {
+		# Clanes guerreros, hermandades de la jungla y linajes sagrados de la Isla de las Amazonas
+		"Anakonda" "Rykarth" "Xeti" "Kalim" "Piranha" "Jaguar" "Ocelot" "Coatl" "Viper" "Macaw" "Harpy" "Tapir" "Caiman" "Orchid" "Mangrove" "Cenote" "Chimalma" "Azteca" "Mayapan" "Tolteca" "Mixteca" "Zapoteca" "Olmequic" "Totonac" "Purepecha" "Tarascan" "Huastec" "Tlaxcalan" "Chichimec" "Otomi" "Mazahua" "Matlatzinca" "Cuitlatec" "Popoloca" "Mixe" "Zoque" "Chontal" "Huave" "Triqui" "Amuzgo" "Chatino" "Chinantec" "Cuicatec" "Mazatec" "Icatec" "Chocho" "Popoluca" "Tacuate" "Tojolabal" "Tzeltal"
+	}
+	male_names = {
+		# La sociedad de las Amazonas es estrictamente matriarcal; los hombres suelen ser siervos, cautivos o forasteros asimilados de Lustria
+		Acamapichtli Huitzilihuitl Chimalpopoca Itzcoatl Moctezuma Axayacatl Tizoc Ahuitzotl Cuauhtemoc Cuitlahuac Maxtla Tezozomoc Nezahualcoyotl Nezahualpilli Xicotencatl Tenoch Teoch Tecpatl Tizoc Chimalma Tochtli Ollin Ehecatl Cuauhtli Coatl Mazatl Itzcuintli Malinalli Ozomatli Ocelotl Quauhtli Cozcacuauhtli Ollin Tecpatl Quiahuitl Xochitl Pakal Yaxun_Balamk K'inich Jasaw Kan_Bahlam
+	}
+	female_names = {
+		# Guerreras Águila, Hermanas de la Serpiente, devotas de los Ancestros y Matriarcas de la Jungla
+		Anakonda Azhi Lysippe Penthesilea Hippolyta Antiope Melanippe Thalestris Myrina Otrera Clete Bremusa Asteria Marpesia Lampedo Aella Tecmessa Alcippe Orithyia Cycnia Xeti Kalim Lizzia Piranha Jaguar Ocelot Coatl Atlatonin Chalchiuhtlicue Chantico Chicomecoatl Cihuacoatl Coatlicue Coyolxauhqui Ilancueitl Itzpapalotl Huixtocihuatl Mayahuel Mictecacihuatl Quilaztli Tlazolteotl Tzitzimitl Xochiquetzal Malintzin Tecuelhuatzin Papantzin Tecuichpo Xiuhcozcatl Xiloxochitl Anacaona Isabel_Moctezuma Tecuichpotzin Chimalman Caxochitl Macuilxochitzin Azcaxochitl Miahuaxochitl Cacamacihuatl Matlalatzin Tlapalizquixochitli Atotoztli
+	}
+}
+
+# ------------------------------------------------------------------------------
+# SKAVEN (lemur_culture_31) - Skaven
+# ------------------------------------------------------------------------------
+name_list_wh_skaven = {
+	cadet_dynasty_names = {
+		# Grandes Clanes (Clans), madrigueras infames y dinastías de traición del Consejo de los Trece
+		"Mors" "Eshin" "Pestilens" "Moulder" "Skryre" "Rictus" "Flem" "Skurvy" "Gritus" "Morbidus" "Spittel" "Krizzor" "Skab" "Vermin" "Under-Empire" "Skarrik" "Gnawdwell" "Vrisk" "Scree" "Klaw" "Tailbiter" "Backstab" "Plagueborn" "Warpstone" "Stormvermin" "Ratkin" "Chitter" "Squeak" "Gnawflesh" "Vileclan" "Rot-Tail" "Scurry" "Blightkin" "Foulclaw" "Grip-Tail" "Slink-Shadow" "Pestilential" "Skitter-Dark" "Hell-Pit" "Skavenblight"
+	}
+	male_names = {
+		# Señores de la guerra, ingenieros brujos, monjes de la plaga y asesinos siseantes
+		Queek Ikit Throt_the_Unclean Deathmaster_Snikch Lord_Skrolk Thanquol Tretch_Craventail Skarrik_Spinemangle Nurglitch Kradshitt Verminkin Squeek Gnawflesh Klaw_Tailbiter Skitter Skrat Chitter Scurry Skab Slink Vrisk Scree Squeal Gnaw Bite Scratch Snik Claw Fang Tail Rot Scourge Blight Flem Foul Grip Slink Shadow Skurv Grime Bile Skrof Rust Corpse
+	}
+	female_names = {
+		# Las hembras Skaven son paridoras (Rat Mothers) ciegas y gigantescas sin nombres individuales; se usan títulos y descripciones de las madrigueras de cría
+		Brood-Mother Rat-Mother Breeder-One Breeder-Two Great-Paridora Swarm-Mother Nest-Matriarch Warren-Mother Litter-Dam Fecund-One Spawner-Plague Rot-Dam Vermin-Mother Chitter-Dam Squeak-Mother Gnaw-Dam Scurry-Mother Blight-Dam Foul-Dam Slink-Mother Tail-Mother Shadow-Mother Grime-Dam Corpse-Mother Nest-Queen Warren-Queen Swarm-Queen Litter-Queen
+	}
+}
+
+# ------------------------------------------------------------------------------
+# SOUTHLANDIC (lemur_culture_32) - Sudland (África)
+# ------------------------------------------------------------------------------
+name_list_wh_southlandic = {
+	cadet_dynasty_names = {
+		# Grandes clanes de las Tierras del Sur, reyes tribales y linajes de los reinos de la sabana
+		"Mensa" "Keita" "Toure" "Diallo" "Traore" "Sow" "Diop" "Kone" "Osei" "Mensah" "Ndiaye" "Bamba" "Sylla" "Cisse" "Camara" "Kouyate" "Fofana" "Sangare" "Sidibe" "Keita" "Deng" "Kiir" "Machar" "Kenyatta" "Odinga" "Onoja" "Adebayor" "Okocha" "Kanoute" "Drogba" "Eto'o" "Weah" "Milla" "Sankara" "Lumumba" "Nkrumah" "Nyerere" "Kabila" "Mobutu" "Selassie" "Menelik" "Tewodros" "Yohannes" "Shaka" "Zwelithini" "Dingane" "Mpande" "Cetshwayo" "Dinizulu" "Khama"
+	}
+	male_names = {
+		# Reyes, guerreros de las tribus de Sudland, cazadores y líderes de las Tierras del Sur
+		Shaka Mensa Musa Sundiata Osei_Tutu Ewuare Idris_Alooma Amina_Sarkin Tewodros Menelik Haile_Selassie Cetshwayo Jomo Kwame Thomas Patrice Julius Nelson Leopold Mobutu Blaise Amilcar Samora Robert Alpha Olusegun Goodluck Muhammadu Nana George Sadio Mohamed Pierre_Emerick Yaya Kolo Didier Samuel El_Hadji Roger Jay_Jay Emmanuel George_Weah Kalidou Victor Achraf Riyad Hakim Salif Kalusha
+	}
+	female_names = {
+		# Reinas guerreras de la jungla, matriarcas de clan, chamanas y sibilas de la sabana
+		Amina Nzinga Nandi Yaa_Asantewaa Makeda Kandake Nehanda Ranavalona Moremi Taytu Zewditu Miriam Cesaria Angelique Fatoumata Oumou Rokia Khady Nneka Ifeoma Chimamanda Wangari Ellen Joyce Samia Sahle_Worko Aminata Djeneba Fatou Isatou Mariam Ramatoulaye Coumba Tiwa Yemi Simi Tems Ayra Asa
+	}
+}
+
+# ------------------------------------------------------------------------------
+# CHAOS (lemur_culture_33) - Guerreros/Demonios del Caos
+# ------------------------------------------------------------------------------
+name_list_wh_chaos = {
+	cadet_dynasty_names = {
+		# Tribus de las Desolaciones, hordas demoníacas y marcas de los Dioses Oscuros
+		"Archaon" "Khorne" "Nurgle" "Tzeentch" "Slaanesh" "Be'lakor" "Kolek" "Valkia" "Festus" "Vilitch" "Azazel" "Sigvald" "Tamurkhan" "Skarbrand" "Ku'gath" "Kairos" "N'Kari" "Malagor" "Khazrak" "Morghur" "Taurox" "Throgg" "Wulfrik" "Egil" "Skaeling" "Varg" "Aesling" "Sarl" "Morkar" "Vandred" "Asavar_Kul" "Engra" "Crom" "Scylla" "Karanak" "Epidemius" "The_Changeling" "The_Masque" "Skarr" "Gutrot" "Glott" "Maggoth" "Plaguebeast" "Bloodbound" "Fatespinner" "Joybringer" "Hellstrider" "Dreadbringer" "Doomweaver" "Skulltaker"
+	}
+	male_names = {
+		# Paladines del Caos, Príncipes Demonios y Señores de la Guerra de los cuatro dioses
+		Archaon Be'lakor Kholek Sigvald Vilitch Azazel Festus Tamurkhan Skarbrand Ku'gath Kairos N'Kari Malagor Khazrak Morghur Taurox Asavar_Kul Morkar Vandred Engra_Deathsword Vardek_Crom Scylla_Anfingrimm Skarr_Bloodwrath Gutrot_Spume Otto_Glott Ethrac_Glott Ghurk_Glott Orghotts_Daemon扩展 Bloab_Rotspawned Morbidex_Twiceborn Skulltaker Epidemius Blue_Scribes Amon_Chakai Sartorael Khorvash Malofex Skathrax Nurgleth Tzeentchius Slaaneshi Khornate Bel-Khor Kaleb_Daark Valnir_the_Reaper Dechala Sayl_the_Faithless
+	}
+	female_names = {
+		# Valquirias sangrientas, diablesas desonrosas y hechiceras corrompidas por el Caos
+		Valkia Dechala Azazel_the_Prince Slaanesha Khornata Nurglina Tzeentchia Egrimm_Fem Malicia Souldrinker Bloodqueen Plagueweaver Fatespinner Joybringer Hellstrider Dreadbringer Doomweaver Skulltaker Gorefist Rotgrace Shadowweave Voidgaze Deathbringer Soulfeeder Bitterscourge Baneheart Darkweave Wrathbringer Malice Nael Vael Kaelth Thraen Xand Raelth Drako Morv Garn Kaelis Sari Vand
+	}
+}

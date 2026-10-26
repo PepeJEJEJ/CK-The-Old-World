@@ -1,0 +1,6 @@
+﻿mild_winter = {
+}
+normal_winter = {
+}
+severe_winter = {
+}

@@ -1,0 +1,2962 @@
+﻿lemur_1 = {
+	name = "Hengus"
+	culture = albion
+	religion = lemur_faith_6 # Albion Beliefs
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_2 = {
+	name = "Tyrion"
+	culture = ulthuan
+	religion = lemur_faith_10 # Ulthuanese Deities
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_3 = {
+	name = "Yoritomo"
+	culture = nippon
+	religion = lemur_faith_13 # Nipponism
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_4 = {
+	name = "Ss'srak"
+	culture = khuresh
+	religion = lemur_faith_15 # Khuresh Beliefs
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_5 = {
+	name = "Brama"
+	culture = ind
+	religion = lemur_faith_14 # Pantheon of Ind
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_6 = {
+	name = "Settra"
+	culture = nehekhara
+	religion = lemur_faith_17 # Nehekharan Pantheon
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_7 = {
+	name = "Jaffar"
+	culture = araby
+	religion = lemur_faith_16 # Araby Faith
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_8 = {
+	name = "Kroq_Gar"
+	culture = lizardmen
+	religion = lemur_faith_19 # Lizardmen Faith
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_9 = {
+	name = "Gor_Rok"
+	culture = lizardmen
+	religion = lemur_faith_19 # Lizardmen Faith
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_10 = {
+	name = "Nakai"
+	culture = lizardmen
+	religion = lemur_faith_19 # Lizardmen Faith
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_11 = {
+	name = "Tehenhauin"
+	culture = lizardmen
+	religion = lemur_faith_19 # Lizardmen Faith
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_12 = {
+	name = "Tiktaq_to"
+	culture = lizardmen
+	religion = lemur_faith_19 # Lizardmen Faith
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_13 = {
+	name = "Oxyotl"
+	culture = lizardmen
+	religion = lemur_faith_19 # Lizardmen Faith
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_14 = {
+	name = "Thorgrim"
+	culture = dwarven
+	religion = lemur_faith_22 # Dwarven Beliefs
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_15 = {
+	name = "Karl_Franz"
+	culture = imperial
+	religion = lemur_faith_7
+	
+	# Bloque de ADN
+	dna = {
+		type=male
+		id=0
+		genes={ 		
+			hair_color={ 6 253 19 243 }
+			skin_color={ 30 67 2 65 }
+			eye_color={ 158 180 191 137 }
+			gene_chin_forward={ "chin_forward_pos" 134 "chin_forward_pos" 127 }
+			gene_chin_height={ "chin_height_neg" 118 "chin_height_neg" 118 }
+			gene_chin_width={ "chin_width_pos" 188 "chin_width_pos" 139 }
+			gene_eye_angle={ "eye_angle_pos" 103 "eye_angle_pos" 138 }
+			gene_eye_depth={ "eye_depth_pos" 133 "eye_depth_pos" 133 }
+			gene_eye_height={ "eye_height_pos" 123 "eye_height_pos" 135 }
+			gene_eye_distance={ "eye_distance_neg" 117 "eye_distance_neg" 117 }
+			gene_eye_shut={ "eye_shut_pos" 133 "eye_shut_pos" 133 }
+			gene_forehead_angle={ "forehead_angle_neg" 134 "forehead_angle_neg" 114 }
+			gene_forehead_brow_height={ "forehead_brow_height_neg" 110 "forehead_brow_height_neg" 114 }
+			gene_forehead_roundness={ "forehead_roundness_pos" 113 "forehead_roundness_pos" 153 }
+			gene_forehead_width={ "forehead_width_neg" 117 "forehead_width_neg" 39 }
+			gene_forehead_height={ "forehead_height_pos" 148 "forehead_height_pos" 148 }
+			gene_head_height={ "head_height_neg" 140 "head_height_neg" 106 }
+			gene_head_width={ "head_width_pos" 130 "head_width_pos" 157 }
+			gene_head_profile={ "head_profile_pos" 151 "head_profile_pos" 151 }
+			gene_head_top_height={ "head_top_height_neg" 123 "head_top_height_neg" 123 }
+			gene_head_top_width={ "head_top_width_pos" 123 "head_top_width_pos" 146 }
+			gene_jaw_angle={ "jaw_angle_neg" 122 "jaw_angle_neg" 118 }
+			gene_jaw_forward={ "jaw_forward_neg" 125 "jaw_forward_neg" 125 }
+			gene_jaw_height={ "jaw_height_pos" 144 "jaw_height_pos" 136 }
+			gene_jaw_width={ "jaw_width_pos" 122 "jaw_width_pos" 135 }
+			gene_mouth_corner_depth={ "mouth_corner_depth_neg" 0 "mouth_corner_depth_neg" 123 }
+			gene_mouth_corner_height={ "mouth_corner_height_neg" 116 "mouth_corner_height_neg" 127 }
+			gene_mouth_forward={ "mouth_forward_neg" 158 "mouth_forward_neg" 121 }
+			gene_mouth_height={ "mouth_height_pos" 132 "mouth_height_pos" 132 }
+			gene_mouth_width={ "mouth_width_neg" 207 "mouth_width_neg" 101 }
+			gene_mouth_upper_lip_size={ "mouth_upper_lip_size_neg" 79 "mouth_upper_lip_size_neg" 84 }
+			gene_mouth_lower_lip_size={ "mouth_lower_lip_size_neg" 126 "mouth_lower_lip_size_neg" 110 }
+			gene_mouth_open={ "mouth_open_pos" 129 "mouth_open_pos" 141 }
+			gene_neck_length={ "neck_length_pos" 133 "neck_length_pos" 133 }
+			gene_neck_width={ "neck_width_pos" 164 "neck_width_pos" 164 }
+			gene_bs_cheek_forward={ "cheek_forward_neg" 11 "cheek_forward_pos" 116 }
+			gene_bs_cheek_height={ "cheek_height_neg" 83 "cheek_height_neg" 8 }
+			gene_bs_cheek_width={ "cheek_width_neg" 61 "cheek_width_neg" 2 }
+			gene_bs_ear_angle={ "ear_angle_pos" 17 "ear_angle_pos" 17 }
+			gene_bs_ear_inner_shape={ "ear_inner_shape_pos" 38 "ear_inner_shape_pos" 38 }
+			gene_bs_ear_bend={ "ear_both_bend_pos" 26 "ear_both_bend_pos" 26 }
+			gene_bs_ear_outward={ "ear_outward_pos" 54 "ear_outward_pos" 54 }
+			gene_bs_ear_size={ "ear_size_neg" 22 "ear_size_neg" 22 }
+			gene_bs_eye_corner_depth={ "eye_corner_depth_pos" 103 "eye_corner_depth_pos" 174 }
+			gene_bs_eye_fold_shape={ "eye_fold_shape_neg" 15 "eye_fold_shape_neg" 15 }
+			gene_bs_eye_size={ "eye_size_neg" 24 "eye_size_neg" 24 }
+			gene_bs_eye_upper_lid_size={ "eye_upper_lid_size_pos" 85 "eye_upper_lid_size_pos" 85 }
+			gene_bs_forehead_brow_curve={ "forehead_brow_curve_neg" 83 "forehead_brow_curve_neg" 65 }
+			gene_bs_forehead_brow_forward={ "forehead_brow_forward_neg" 127 "forehead_brow_forward_neg" 127 }
+			gene_bs_forehead_brow_inner_height={ "forehead_brow_inner_height_neg" 23 "forehead_brow_inner_height_pos" 89 }
+			gene_bs_forehead_brow_outer_height={ "forehead_brow_outer_height_neg" 27 "forehead_brow_outer_height_neg" 27 }
+			gene_bs_forehead_brow_width={ "forehead_brow_width_pos" 30 "forehead_brow_width_pos" 30 }
+			gene_bs_jaw_def={ "jaw_def_pos" 107 "jaw_def_pos" 88 }
+			gene_bs_mouth_lower_lip_def={ "mouth_lower_lip_def_pos" 169 "mouth_lower_lip_def_pos" 169 }
+			gene_bs_mouth_lower_lip_full={ "mouth_lower_lip_full_pos" 85 "mouth_lower_lip_full_pos" 85 }
+			gene_bs_mouth_lower_lip_pad={ "mouth_lower_lip_pad_pos" 139 "mouth_lower_lip_pad_pos" 21 }
+			gene_bs_mouth_lower_lip_width={ "mouth_lower_lip_width_pos" 49 "mouth_lower_lip_width_neg" 59 }
+			gene_bs_mouth_philtrum_def={ "mouth_philtrum_def_pos" 255 "mouth_philtrum_def_pos" 39 }
+			gene_bs_mouth_philtrum_shape={ "mouth_philtrum_shape_neg" 89 "mouth_philtrum_shape_pos" 7 }
+			gene_bs_mouth_philtrum_width={ "mouth_philtrum_width_pos" 77 "mouth_philtrum_width_neg" 46 }
+			gene_bs_mouth_upper_lip_def={ "mouth_upper_lip_def_pos" 129 "mouth_upper_lip_def_pos" 44 }
+			gene_bs_mouth_upper_lip_full={ "mouth_upper_lip_full_pos" 163 "mouth_upper_lip_full_pos" 163 }
+			gene_bs_mouth_upper_lip_profile={ "mouth_upper_lip_profile_pos" 52 "mouth_upper_lip_profile_pos" 52 }
+			gene_bs_mouth_upper_lip_width={ "mouth_upper_lip_width_neg" 35 "mouth_upper_lip_width_neg" 105 }
+			gene_bs_nose_forward={ "nose_forward_pos" 71 "nose_forward_pos" 20 }
+			gene_bs_nose_height={ "nose_height_neg" 49 "nose_height_pos" 35 }
+			gene_bs_nose_length={ "nose_length_neg" 54 "nose_length_neg" 54 }
+			gene_bs_nose_nostril_height={ "nose_nostril_height_pos" 107 "nose_nostril_height_neg" 20 }
+			gene_bs_nose_nostril_width={ "nose_nostril_width_neg" 23 "nose_nostril_width_neg" 42 }
+			gene_bs_nose_profile={ "nose_profile_pos" 121 "nose_profile_hawk" 26 }
+			gene_bs_nose_ridge_angle={ "nose_ridge_angle_neg" 19 "nose_ridge_angle_neg" 21 }
+			gene_bs_nose_ridge_width={ "nose_ridge_width_pos" 51 "nose_ridge_width_pos" 6 }
+			gene_bs_nose_size={ "nose_size_pos" 25 "nose_size_neg" 48 }
+			gene_bs_nose_tip_angle={ "nose_tip_angle_neg" 25 "nose_tip_angle_pos" 38 }
+			gene_bs_nose_tip_forward={ "nose_tip_forward_pos" 83 "nose_tip_forward_pos" 39 }
+			gene_bs_nose_tip_width={ "nose_tip_width_neg" 69 "nose_tip_width_neg" 114 }
+			face_detail_cheek_def={ "cheek_def_02" 153 "cheek_def_02" 137 }
+			face_detail_cheek_fat={ "cheek_fat_01_neg" 205 "cheek_fat_01_neg" 36 }
+			face_detail_chin_cleft={ "chin_cleft" 255 "chin_dimple" 14 }
+			face_detail_chin_def={ "chin_def" 255 "chin_def_neg" 6 }
+			face_detail_eye_lower_lid_def={ "eye_lower_lid_def" 178 "eye_lower_lid_def" 244 }
+			face_detail_eye_socket={ "eye_socket_01" 138 "eye_socket_color_02" 11 }
+			face_detail_nasolabial={ "nasolabial_04" 255 "nasolabial_02" 122 }
+			face_detail_nose_ridge_def={ "nose_ridge_def_pos" 39 "nose_ridge_def_pos" 12 }
+			face_detail_nose_tip_def={ "nose_tip_def" 167 "nose_tip_def" 2 }
+			face_detail_temple_def={ "temple_def" 154 "temple_def" 204 }
+			expression_brow_wrinkles={ "brow_wrinkles_02" 44 "brow_wrinkles_02" 44 }
+			expression_eye_wrinkles={ "eye_wrinkles_02" 165 "eye_wrinkles_02" 165 }
+			expression_forehead_wrinkles={ "forehead_wrinkles_01" 149 "forehead_wrinkles_01" 149 }
+			expression_other={ "cheek_wrinkles_both_01" 0 "cheek_wrinkles_both_01" 0 }
+			complexion={ "complexion_4" 29 "complexion_1" 92 }
+			gene_height={ "normal_height" 174 "normal_height" 121 }
+			gene_bs_body_type={ "body_fat_head_fat_low" 126 "body_fat_head_fat_full" 126 }
+			gene_bs_body_shape={ "body_shape_hourglass_half" 132 "body_shape_hourglass_half" 0 }
+			gene_bs_bust={ "bust_clothes" 100 "bust_shape_4_full" 126 }
+			gene_age={ "old_4" 77 "old_4" 77 }
+			gene_eyebrows_shape={ "avg_spacing_avg_thickness" 255 "avg_spacing_avg_thickness" 153 }
+			gene_eyebrows_fullness={ "layer_2_avg_thickness" 255 "layer_2_avg_thickness" 172 }
+			gene_body_hair={ "body_hair_avg" 110 "body_hair_avg" 110 }
+			gene_hair_type={ "hair_wavy" 147 "hair_wavy" 147 }
+			gene_baldness={ "no_baldness" 127 "no_baldness" 127 }
+			eye_accessory={ "normal_eyes" 83 "normal_eyes" 83 }
+			teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
+			eyelashes_accessory={ "normal_eyelashes" 38 "normal_eyelashes" 38 }
+			gene_scars_battle={ "scars_battle" 255 "scars_battle" 0 }
+			hairstyles={ "fp2_hairstyles_iberian_muslim_straight" 127 "all_hairs" 0 }
+		}
+	}
+
+	2477.1.1 = {
+	birth = "2477.1.1"
+	}
+	2493.1.1 = {
+		add_trait = education_martial_4 # Gana el rasgo a los 16 años
+	}
+}
+
+
+lemur_16 = {
+	name = "Louen_Leoncoeur"
+	culture = bretonnian
+	religion = lemur_faith_3
+	2442.1.1 = {
+		birth = "2442.1.1"
+	}
+}
+
+lemur_17 = {
+	name = "Katarin"
+	culture = kislevite
+	religion = lemur_faith_8
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_18 = {
+	name = "Miao_Ying"
+	culture = cathay
+	religion = lemur_faith_12
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_19 = {
+	name = "Grimgor"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_20 = {
+	name = "Queek"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_21 = {
+	name = "Vlad_von_Carstein"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_22 = {
+	name = "Archaon"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_23 = {
+	name = "Greasus"
+	culture = ogre
+	religion = lemur_faith_24
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_24 = {
+	name = "Aranessa"
+	culture = sartossan
+	religion = lemur_faith_26
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_25 = {
+	name = "Malekith"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_26 = {
+	name = "Astragoth"
+	culture = chaos_dwarven
+	religion = lemur_faith_21
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_27 = {
+	name = "Throgg"
+	culture = troll
+	religion = lemur_faith_25
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_28 = {
+	name = "Wulfrik"
+	culture = norscan
+	religion = lemur_faith_5
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_29 = {
+	name = "Borgio_el_Sitiador"
+	culture = tilean
+	religion = lemur_faith_2
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_30 = {
+	name = "Losteriksson"
+	culture = skegak
+	religion = lemur_faith_5
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_31 = {
+	name = "Boris_Todbringer"
+	culture = imperial
+	religion = lemur_faith_30
+	2455.1.1 = {
+		birth = "2455.1.1"
+	}
+}
+
+lemur_32 = {
+	name = "Ariel"
+	culture = elven
+	religion = lemur_faith_4
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_33 = {
+	name = "Ghazak_Khan"
+	culture = hobgoblin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_34 = {
+	name = "Isabella"
+	culture = estalian
+	religion = lemur_faith_1
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_35 = {
+	name = "Grog"
+	culture = gnoblar
+	religion = lemur_faith_27
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_36 = {
+	name = "Leitpold"
+	culture = borderlands
+	religion = lemur_faith_9
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_37 = {
+	name = "Khalida"
+	culture = nehekhara
+	religion = lemur_faith_17
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_38 = {
+	name = "Tarbish"
+	culture = southlandic
+	religion = lemur_faith_29
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_39 = {
+	name = "Mannfred"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_40 = {
+	name = "Ikit_Claw"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_41 = {
+	name = "Ungrim"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_42 = {
+	name = "Morgiana"
+	culture = bretonnian
+	religion = lemur_faith_3
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_43 = {
+	name = "Sigvald"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_44 = {
+	name = "Surtha_Ek"
+	culture = norscan
+	religion = lemur_faith_5
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_45 = {
+	name = "Skrag"
+	culture = ogre
+	religion = lemur_faith_24
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_46 = {
+	name = "Morathi"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_47 = {
+	name = "Zhatan"
+	culture = chaos_dwarven
+	religion = lemur_faith_21
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_48 = {
+	name = "Balthasar_Gelt"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_49 = {
+	name = "Teclis"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_50 = {
+	name = "Orion"
+	culture = elven
+	religion = lemur_faith_4
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_51 = {
+	name = "Zhao_Ming"
+	culture = cathay
+	religion = lemur_faith_12
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_52 = {
+	name = "Arkhan"
+	culture = nehekhara
+	religion = lemur_faith_17
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_53 = {
+	name = "Skrolk"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_54 = {
+	name = "Azhag"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_55 = {
+	name = "Kostaltyn"
+	culture = kislevite
+	religion = lemur_faith_8
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_56 = {
+	name = "Alberic"
+	culture = bretonnian
+	religion = lemur_faith_3
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_57 = {
+	name = "Hellebron"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_58 = {
+	name = "Belegar"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_59 = {
+	name = "Throt"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_60 = {
+	name = "Wurrzag"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_61 = {
+	name = "Khatep"
+	culture = nehekhara
+	religion = lemur_faith_17
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_62 = {
+	name = "Alarielle"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_63 = {
+	name = "Kholek"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_64 = {
+	name = "Luthor_Harkon"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_65 = {
+	name = "Volkmar"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_66 = {
+	name = "Heinrich_Kemmler"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_67 = {
+	name = "Repanse"
+	culture = bretonnian
+	religion = lemur_faith_3
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_68 = {
+	name = "Grombrindal"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_69 = {
+	name = "Snikch"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_70 = {
+	name = "Malus_Darkblade"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_71 = {
+	name = "Eltharion"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_72 = {
+	name = "Skarsnik"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_73 = {
+	name = "Drazhoath"
+	culture = chaos_dwarven
+	religion = lemur_faith_21
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_74 = {
+	name = "Lucrezzia_Belladonna"
+	culture = tilean
+	religion = lemur_faith_2
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_75 = {
+	name = "Durthu"
+	culture = elven
+	religion = lemur_faith_4
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_76 = {
+	name = "Neferata"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_77 = {
+	name = "Imrik"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_78 = {
+	name = "Lokhir_Fellheart"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_79 = {
+	name = "Kroak"
+	culture = lizardmen
+	religion = lemur_faith_19
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_80 = {
+	name = "Boris_Ursus"
+	culture = kislevite
+	religion = lemur_faith_8
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_81 = {
+	name = "Skarbrand"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_82 = {
+	name = "Yuan_Bo"
+	culture = cathay
+	religion = lemur_faith_12
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_83 = {
+	name = "Cylostra"
+	culture = sartossan
+	religion = lemur_faith_26
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_84 = {
+	name = "Alith_Anar"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_85 = {
+	name = "Grom"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_86 = {
+	name = "Markus_Wulfhart"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_87 = {
+	name = "Festus"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_88 = {
+	name = "Rakarth"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_89 = {
+	name = "Tretch_Craventail"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_90 = {
+	name = "Araloth"
+	culture = elven
+	religion = lemur_faith_4
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_91 = {
+	name = "Thorek_Ironbrow"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_92 = {
+	name = "Abhorash"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_93 = {
+	name = "Tiktak_to"
+	culture = lizardmen
+	religion = lemur_faith_19
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_94 = {
+	name = "Sayang"
+	culture = ind
+	religion = lemur_faith_14
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_95 = {
+	name = "Chakax"
+	culture = lizardmen
+	religion = lemur_faith_19
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_96 = {
+	name = "Valkia"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_97 = {
+	name = "Korhil"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_98 = {
+	name = "Golgfag"
+	culture = ogre
+	religion = lemur_faith_24
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_99 = {
+	name = "Thanquol"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_100 = {
+	name = "Gorbad"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_101 = {
+	name = "Ushoran"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_102 = {
+	name = "Tutankhanut"
+	culture = nehekhara
+	religion = lemur_faith_17
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_103 = {
+	name = "Yuri"
+	culture = kislevite
+	religion = lemur_faith_8
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_104 = {
+	name = "Gorduz"
+	culture = hobgoblin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_105 = {
+	name = "Kurt_Helborg"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_106 = {
+	name = "Drycha"
+	culture = elven
+	religion = lemur_faith_4
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_107 = {
+	name = "Vilitch"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_108 = {
+	name = "Zacharias"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_109 = {
+	name = "Nurglitch"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_110 = {
+	name = "Tullaris"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_111 = {
+	name = "Ten_Zlati"
+	culture = lizardmen
+	religion = lemur_faith_19
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_112 = {
+	name = "Fernando_Pirazzo"
+	culture = estalian
+	religion = lemur_faith_1
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_113 = {
+	name = "Yoritomo"
+	culture = nippon
+	religion = lemur_faith_13
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_114 = {
+	name = "Satyadora"
+	culture = ind
+	religion = lemur_faith_14
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_115 = {
+	name = "Snorri_Nosebiter"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_116 = {
+	name = "Belakor"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_117 = {
+	name = "Finubar"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_118 = {
+	name = "Wazthag"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_119 = {
+	name = "Malagor"
+	culture = troll
+	religion = lemur_faith_25
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_120 = {
+	name = "Skweel"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_121 = {
+	name = "Noctilus"
+	culture = sartossan
+	religion = lemur_faith_26
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_122 = {
+	name = "Tetto_eko"
+	culture = lizardmen
+	religion = lemur_faith_19
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_123 = {
+	name = "Elspeth"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_124 = {
+	name = "Ivan_Radinov"
+	culture = kislevite
+	religion = lemur_faith_8
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_125 = {
+	name = "Naestra"
+	culture = elven
+	religion = lemur_faith_4
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_126 = {
+	name = "Arahan"
+	culture = elven
+	religion = lemur_faith_4
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_127 = {
+	name = "Gorfang_Rotgut"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_128 = {
+	name = "N'Kari"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_129 = {
+	name = "Hengus_el_Druida"
+	culture = albion
+	religion = lemur_faith_6
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_130 = {
+	name = "Gorthor"
+	culture = troll
+	religion = lemur_faith_25
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_131 = {
+	name = "Alcadizaar"
+	culture = nehekhara
+	religion = lemur_faith_17
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_132 = {
+	name = "Kouran_Darkhand"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_133 = {
+	name = "Gor_Rok"
+	culture = lizardmen
+	religion = lemur_faith_19
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_134 = {
+	name = "Marco_Colombo"
+	culture = tilean
+	religion = lemur_faith_2
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_135 = {
+	name = "Veskit"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_136 = {
+	name = "Caradryan"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_137 = {
+	name = "Josef_Bugman"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_138 = {
+	name = "Helman_Ghorst"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_139 = {
+	name = "Shen_Zoo"
+	culture = cathay
+	religion = lemur_faith_12
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_140 = {
+	name = "Arbaal"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_141 = {
+	name = "Snagla"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_142 = {
+	name = "Alastar"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_143 = {
+	name = "Gilles"
+	culture = bretonnian
+	religion = lemur_faith_3
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_144 = {
+	name = "Dieter_Helsnicht"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_145 = {
+	name = "Rykol"
+	culture = chaos_dwarven
+	religion = lemur_faith_21
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_146 = {
+	name = "Neferata"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_147 = {
+	name = "Egils_Styrbjorn"
+	culture = norscan
+	religion = lemur_faith_5
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_148 = {
+	name = "Bragg"
+	culture = ogre
+	religion = lemur_faith_24
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_149 = {
+	name = "Itza_Bitza"
+	culture = lizardmen
+	religion = lemur_faith_19
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_150 = {
+	name = "Krittk"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_151 = {
+	name = "Oglok"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_152 = {
+	name = "Gunter"
+	culture = borderlands
+	religion = lemur_faith_9
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_153 = {
+	name = "Shadowblade"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_154 = {
+	name = "Khazrak"
+	culture = troll
+	religion = lemur_faith_25
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_155 = {
+	name = "Marius_Leitdorf"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_156 = {
+	name = "Krell"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_157 = {
+	name = "Borgio"
+	culture = tilean
+	religion = lemur_faith_2
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_158 = {
+	name = "Wulfhart"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_159 = {
+	name = "Kharak"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_160 = {
+	name = "Ghorros"
+	culture = troll
+	religion = lemur_faith_25
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_161 = {
+	name = "Amanhotep"
+	culture = nehekhara
+	religion = lemur_faith_17
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_162 = {
+	name = "Kouran"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_163 = {
+	name = "Koda"
+	culture = gnoblar
+	religion = lemur_faith_27
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_164 = {
+	name = "Sarthorael"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_165 = {
+	name = "Apophas"
+	culture = nehekhara
+	religion = lemur_faith_17
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_166 = {
+	name = "Ku_gath"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_167 = {
+	name = "Aldebrand_Ludenhof"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_168 = {
+	name = "Bohemond_Beastslayer"
+	culture = bretonnian
+	religion = lemur_faith_3
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_169 = {
+	name = "Snorri_Whitebeard"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_170 = {
+	name = "Yin_Yin"
+	culture = cathay
+	religion = lemur_faith_12
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_171 = {
+	name = "Ghorth_the_Cruel"
+	culture = chaos_dwarven
+	religion = lemur_faith_21
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_172 = {
+	name = "Jaego_Roth"
+	culture = sartossan
+	religion = lemur_faith_26
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_173 = {
+	name = "Urian_Poisonblade"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_174 = {
+	name = "Inxi_Huinzi"
+	culture = lizardmen
+	religion = lemur_faith_19
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_175 = {
+	name = "Valten"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_176 = {
+	name = "W_soran"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_177 = {
+	name = "Belannaer"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_178 = {
+	name = "Hag_Queen_Malida"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_179 = {
+	name = "Kazador"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_180 = {
+	name = "Gitilla"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_181 = {
+	name = "Ghoritch"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_182 = {
+	name = "Cassyon"
+	culture = bretonnian
+	religion = lemur_faith_3
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_183 = {
+	name = "Azazel"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_184 = {
+	name = "Lotl_Botl"
+	culture = lizardmen
+	religion = lemur_faith_19
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_185 = {
+	name = "Borgut_Facebeater"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_186 = {
+	name = "Kracdoom"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_187 = {
+	name = "Egrimm_van_Horstmann"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_188 = {
+	name = "Mengil_Manhide"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_189 = {
+	name = "Naieth_the_Prophetess"
+	culture = elven
+	religion = lemur_faith_4
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_190 = {
+	name = "Kremlo_the_Slann"
+	culture = skegak
+	religion = lemur_faith_5
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_191 = {
+	name = "Leonardo_de_Miragliano"
+	culture = tilean
+	religion = lemur_faith_2
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_192 = {
+	name = "Sven_Hasselfriesian"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_193 = {
+	name = "Morglum_Necksnapper"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_194 = {
+	name = "Ramhotep"
+	culture = nehekhara
+	religion = lemur_faith_17
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_195 = {
+	name = "Valnir"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_196 = {
+	name = "Moonclaw"
+	culture = troll
+	religion = lemur_faith_25
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_197 = {
+	name = "Morghur"
+	culture = troll
+	religion = lemur_faith_25
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_198 = {
+	name = "Taurox"
+	culture = troll
+	religion = lemur_faith_25
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_199 = {
+	name = "Daith"
+	culture = elven
+	religion = lemur_faith_4
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_200 = {
+	name = "Coedil"
+	culture = elven
+	religion = lemur_faith_4
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_201 = {
+	name = "Thalandor"
+	culture = elven
+	religion = lemur_faith_4
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_202 = {
+	name = "Aislinn"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_203 = {
+	name = "Zlatgar"
+	culture = lizardmen
+	religion = lemur_faith_19
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_204 = {
+	name = "Sehenesmet"
+	culture = nehekhara
+	religion = lemur_faith_17
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_205 = {
+	name = "Nekaph"
+	culture = nehekhara
+	religion = lemur_faith_17
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_206 = {
+	name = "Festiq"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_207 = {
+	name = "Feskit"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_208 = {
+	name = "Kretch"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_209 = {
+	name = "Badruk"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_210 = {
+	name = "Grotfang"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_211 = {
+	name = "Melikh"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_212 = {
+	name = "Vorag"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_213 = {
+	name = "Gashnag"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_214 = {
+	name = "Al Muktar"
+	culture = araby
+	religion = lemur_faith_16
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_215 = {
+	name = "Scyla_Anfingrimm"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_216 = {
+	name = "Dechala"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_217 = {
+	name = "Tamurkhan"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_218 = {
+	name = "Sayl_the_Faithless"
+	culture = norscan
+	religion = lemur_faith_5
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_219 = {
+	name = "Ludwig_Schwarzhelm"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_220 = {
+	name = "Bardin_Goreksson"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_221 = {
+	name = "Kerillian"
+	culture = elven
+	religion = lemur_faith_4
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_222 = {
+	name = "Victor_Saltzpyre"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_223 = {
+	name = "Sienna_Fuegonasus"
+	culture = estalian
+	religion = lemur_faith_1
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_224 = {
+	name = "Markus_Kruber"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_225 = {
+	name = "Walach_Harkon"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_226 = {
+	name = "Rasknitt"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_227 = {
+	name = "Ska_Bloodtail"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_228 = {
+	name = "Hua_Yuan"
+	culture = cathay
+	religion = lemur_faith_12
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_229 = {
+	name = "Shi_Hong"
+	culture = cathay
+	religion = lemur_faith_12
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_230 = {
+	name = "Kairos_Fateweaver"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_231 = {
+	name = "Ghark_Ironskin"
+	culture = ogre
+	religion = lemur_faith_24
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_232 = {
+	name = "Hobgobla_Khan"
+	culture = hobgoblin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_233 = {
+	name = "Huaq_Toca"
+	culture = lizardmen
+	religion = lemur_faith_19
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_234 = {
+	name = "Kourdan"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_235 = {
+	name = "Armand_de_Aquitaine"
+	culture = bretonnian
+	religion = lemur_faith_3
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_236 = {
+	name = "Ulrika_Magdova"
+	culture = kislevite
+	religion = lemur_faith_8
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_237 = {
+	name = "Lord_Xlanhuapec"
+	culture = lizardmen
+	religion = lemur_faith_19
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_238 = {
+	name = "Alrik_Ranulfsson"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_239 = {
+	name = "Byrrnoth_Grundadrakk"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_240 = {
+	name = "Eldyra"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_241 = {
+	name = "Drusil"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_242 = {
+	name = "Rotgut"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_243 = {
+	name = "Konrad_von_Carstein"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_244 = {
+	name = "Phar"
+	culture = nehekhara
+	religion = lemur_faith_17
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_245 = {
+	name = "Luthor_Huss"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_246 = {
+	name = "Epidemius"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_247 = {
+	name = "Morkar"
+	culture = norscan
+	religion = lemur_faith_5
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_248 = {
+	name = "Slugtongue"
+	culture = troll
+	religion = lemur_faith_25
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_249 = {
+	name = "Skarloc"
+	culture = elven
+	religion = lemur_faith_4
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_250 = {
+	name = "Braugh"
+	culture = ogre
+	religion = lemur_faith_24
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_251 = {
+	name = "Zhorg"
+	culture = chaos_dwarven
+	religion = lemur_faith_21
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_252 = {
+	name = "Morbus"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_253 = {
+	name = "Li_Dao"
+	culture = cathay
+	religion = lemur_faith_12
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_254 = {
+	name = "Lorenzo_Lupo"
+	culture = tilean
+	religion = lemur_faith_2
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_255 = {
+	name = "Caledor"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_256 = {
+	name = "Bel_Hathor"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_257 = {
+	name = "Tethlis"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_258 = {
+	name = "Hotek"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_259 = {
+	name = "Furion"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_260 = {
+	name = "Tristan_le_Troubadour"
+	culture = bretonnian
+	religion = lemur_faith_3
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_261 = {
+	name = "Odo_d_Outremer"
+	culture = bretonnian
+	religion = lemur_faith_3
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_262 = {
+	name = "Suliman_le_Saracen"
+	culture = araby
+	religion = lemur_faith_16
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_263 = {
+	name = "Fatandira"
+	culture = araby
+	religion = lemur_faith_16
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_264 = {
+	name = "Jhared_the_Red"
+	culture = ogre
+	religion = lemur_faith_24
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_265 = {
+	name = "Groth_Onefinger"
+	culture = ogre
+	religion = lemur_faith_24
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_266 = {
+	name = "Krakanrok_the_Black"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_267 = {
+	name = "Galrauch"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_268 = {
+	name = "Aekold_Helbrass"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_269 = {
+	name = "Engra_Deathsword"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_270 = {
+	name = "Arek_Daemonclaw"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_271 = {
+	name = "Krasss"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_272 = {
+	name = "Boneripper"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_273 = {
+	name = "Natty_Bubo"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_274 = {
+	name = "Ruglud"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_275 = {
+	name = "Oglah_Khan"
+	culture = hobgoblin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_276 = {
+	name = "Ghazbag"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_277 = {
+	name = "Crom"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_278 = {
+	name = "Beorg_Bearstruck"
+	culture = norscan
+	religion = lemur_faith_5
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_279 = {
+	name = "Asarnil"
+	culture = ulthuan
+	religion = lemur_faith_10
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_280 = {
+	name = "Mydas"
+	culture = tilean
+	religion = lemur_faith_2
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_281 = {
+	name = "Gresk"
+	culture = gnoblar
+	religion = lemur_faith_27
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_282 = {
+	name = "Richter_Kreugar"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_283 = {
+	name = "Valmir_von_Raukov"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_284 = {
+	name = "Theoderic_Gausser"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_285 = {
+	name = "Mallobaude"
+	culture = bretonnian
+	religion = lemur_faith_3
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_286 = {
+	name = "Jerrod"
+	culture = bretonnian
+	religion = lemur_faith_3
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_287 = {
+	name = "Marius_Hollseher"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_288 = {
+	name = "Xlotl"
+	culture = lizardmen
+	religion = lemur_faith_19
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_289 = {
+	name = "Grimm_Burloksson"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_290 = {
+	name = "Kragg"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_291 = {
+	name = "Alriksson"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_292 = {
+	name = "Khellek"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_293 = {
+	name = "Rakka"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_294 = {
+	name = "Snikrit"
+	culture = skaven
+	religion = lemur_faith_28
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_295 = {
+	name = "Orion"
+	culture = elven
+	religion = lemur_faith_4
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_296 = {
+	name = "Skaw_the_Falconer"
+	culture = elven
+	religion = lemur_faith_4
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_297 = {
+	name = "Grak_Beastbasha"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_298 = {
+	name = "Borgut"
+	culture = greenskin
+	religion = lemur_faith_20
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_299 = {
+	name = "Magnus_the_Pious"
+	culture = imperial
+	religion = lemur_faith_7
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_300 = {
+	name = "Tzarina_Katarin"
+	culture = kislevite
+	religion = lemur_faith_8
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_301 = {
+	name = "Garagrim_Ironfist"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_302 = {
+	name = "Uther_di_Dietershafen"
+	culture = bretonnian
+	religion = lemur_faith_3
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_303 = {
+	name = "Agravain_de_Beau_Fighter"
+	culture = bretonnian
+	religion = lemur_faith_3
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_304 = {
+	name = "Kouran_Darkhand"
+	culture = naggaroth
+	religion = lemur_faith_18
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_305 = {
+	name = "Chakax"
+	culture = lizardmen
+	religion = lemur_faith_19
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_306 = {
+	name = "Mazdamundi"
+	culture = lizardmen
+	religion = lemur_faith_19
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_307 = {
+	name = "Ghorth_the_Cruel"
+	culture = chaos_dwarven
+	religion = lemur_faith_21
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_308 = {
+	name = "Astragoth_Ironhand"
+	culture = chaos_dwarven
+	religion = lemur_faith_21
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_309 = {
+	name = "Karanak"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_310 = {
+	name = "The_Changeling"
+	culture = chaos
+	religion = lemur_faith_11
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_311 = {
+	name = "Golfag_Maneater"
+	culture = ogre
+	religion = lemur_faith_24
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_312 = {
+	name = "Greasus_Goldtooth"
+	culture = ogre
+	religion = lemur_faith_24
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_313 = {
+	name = "King_Phar"
+	culture = nehekhara
+	religion = lemur_faith_17
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_314 = {
+	name = "Pieter_von_Carstein"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_315 = {
+	name = "Genevieve_Dieudonne"
+	culture = vampire
+	religion = lemur_faith_23
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}
+
+lemur_316 = {
+	name = "Gotrek_Gurnisson"
+	culture = dwarven
+	religion = lemur_faith_22
+	2470.1.1 = {
+		birth = "2470.1.1"
+	}
+}

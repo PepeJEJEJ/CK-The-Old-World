@@ -1,0 +1,16 @@
+﻿spring = {
+	start = { month=2 day=15 }
+	end = { month=5 day=15 }
+}
+summer = {
+	start = { month=5 day=15 }
+	end = { month=8 day=15 }
+}
+fall = {
+	start = { month=8 day=15 }
+	end = { month=11 day=15 }
+}
+winter = {
+	start = { month=11 day=15 }
+	end = { month=2 day=15 }
+}

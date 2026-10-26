@@ -1,0 +1,283 @@
+﻿# Lemur conversion: per-title realm-name flavorization.
+# Shows each state's Azgaar formName prefix, following the holder's current government.
+
+lemur_flavour_k_estalia_2 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_estalia_2 }
+	governments = { feudal_government }
+}
+lemur_flavour_k_tilea_3 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_tilea_3 }
+	governments = { republic_government }
+}
+lemur_flavour_k_border_princes_4 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_border_princes_4 }
+	governments = { republic_government }
+}
+lemur_flavour_k_bretonnia_5 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_bretonnia_5 }
+	governments = { feudal_government }
+}
+lemur_flavour_k_the_empire_7 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_the_empire_7 }
+	governments = { feudal_government }
+}
+lemur_flavour_k_norsca_8 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_norsca_8 }
+	governments = { tribal_government }
+}
+lemur_flavour_k_ulthuan_9 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_ulthuan_9 }
+	governments = { feudal_government }
+}
+lemur_flavour_k_athel_loren_10 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_athel_loren_10 }
+	governments = { republic_government }
+}
+lemur_flavour_k_albion_11 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_albion_11 }
+	governments = { tribal_government }
+}
+lemur_flavour_k_grand_cathay_12 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_grand_cathay_12 }
+	governments = { theocracy_government }
+}
+lemur_flavour_k_hobgoblia_13 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_hobgoblia_13 }
+	governments = { nomad_government tribal_government }
+}
+lemur_flavour_k_nippon_14 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_nippon_14 }
+	governments = { japan_feudal_government feudal_government }
+}
+lemur_flavour_k_zharr_naggrund_15 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_zharr_naggrund_15 }
+	governments = { feudal_government }
+}
+lemur_flavour_k_karaz_ankor_17 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_karaz_ankor_17 }
+	governments = { republic_government }
+}
+lemur_flavour_k_ogre_19 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_ogre_19 }
+	governments = { tribal_government }
+}
+lemur_flavour_k_naggaroth_20 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_naggaroth_20 }
+	governments = { feudal_government }
+}
+lemur_flavour_k_ind_21 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_ind_21 }
+	governments = { feudal_government }
+}
+lemur_flavour_k_omultlan_22 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_omultlan_22 }
+	governments = { republic_government }
+}
+lemur_flavour_k_xlanhuapec_23 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_xlanhuapec_23 }
+	governments = { republic_government }
+}
+lemur_flavour_k_jtza_24 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_jtza_24 }
+	governments = { republic_government }
+}
+lemur_flavour_k_vampire_coast_25 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_vampire_coast_25 }
+	governments = { feudal_government }
+}
+lemur_flavour_k_khuresh_26 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_khuresh_26 }
+	governments = { tribal_government }
+}
+lemur_flavour_k_nehekhara_27 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_nehekhara_27 }
+	governments = { feudal_government }
+}
+lemur_flavour_k_araby_28 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_araby_28 }
+	governments = { clan_government }
+}
+lemur_flavour_k_sartosa_29 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_sartosa_29 }
+	governments = { feudal_government }
+}
+lemur_flavour_k_kislev_30 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_kislev_30 }
+	governments = { feudal_government }
+}
+lemur_flavour_k_elithis_32 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_elithis_32 }
+	governments = { republic_government }
+}
+lemur_flavour_k_crooked_moon_33 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_crooked_moon_33 }
+	governments = { tribal_government }
+}
+lemur_flavour_k_zlatlan_34 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_zlatlan_34 }
+	governments = { republic_government }
+}
+lemur_flavour_k_teotiqua_35 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_teotiqua_35 }
+	governments = { republic_government }
+}
+lemur_flavour_k_tlaqua_36 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_tlaqua_36 }
+	governments = { republic_government }
+}
+lemur_flavour_k_athiopos_38 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_athiopos_38 }
+	governments = { tribal_government }
+}
+lemur_flavour_k_zamesi_39 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_zamesi_39 }
+	governments = { tribal_government }
+}
+lemur_flavour_k_chaos_40 = {
+	type = title
+	tier = kingdom
+	priority = 100
+	titles = { k_chaos_40 }
+	governments = { tribal_government }
+}
+lemur_flavour_d_marienburg_204 = {
+	type = title
+	tier = duchy
+	priority = 100
+	titles = { d_marienburg_204 }
+	governments = { republic_government }
+}
+lemur_flavour_d_western_205 = {
+	type = title
+	tier = duchy
+	priority = 100
+	titles = { d_western_205 }
+	governments = { republic_government }
+}
+lemur_flavour_d_eastern_206 = {
+	type = title
+	tier = duchy
+	priority = 100
+	titles = { d_eastern_206 }
+	governments = { republic_government }
+}
+lemur_flavour_d_skavenbligth_297 = {
+	type = title
+	tier = duchy
+	priority = 100
+	titles = { d_skavenbligth_297 }
+	governments = { republic_government }
+}
+lemur_flavour_d_oster_309 = {
+	type = title
+	tier = duchy
+	priority = 100
+	titles = { d_oster_309 }
+	governments = { feudal_government }
+}
+lemur_flavour_d_ester_310 = {
+	type = title
+	tier = duchy
+	priority = 100
+	titles = { d_ester_310 }
+	governments = { feudal_government }
+}

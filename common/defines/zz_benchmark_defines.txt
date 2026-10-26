@@ -1,0 +1,3 @@
+﻿NGame = {
+	BENCHMARK_OBSERVE_CHARACTER = k_estalia_2
+}

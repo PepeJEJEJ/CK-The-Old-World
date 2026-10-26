@@ -1,0 +1,2 @@
+gfx/map/terrain/detail_index.tga filter=lfs diff=lfs merge=lfs -text
+gfx/map/terrain/detail_intensity.tga filter=lfs diff=lfs merge=lfs -text

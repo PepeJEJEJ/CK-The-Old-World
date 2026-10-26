@@ -1,0 +1,15 @@
+﻿definitions = "definition.csv"
+provinces = "provinces.png"
+rivers = "rivers.png"
+topology = "heightmap.heightmap"
+adjacencies = "adjacencies.csv"
+island_region = "island_region.txt"
+seasons = "seasons.txt"
+
+sea_zones = LIST { 731 732 733 734 735 736 737 738 739 740 741 742 743 744 745 746 747 748 749 750 751 752 753 754 755 756 757 758 759 760 761 762 763 764 765 766 }
+
+impassable_mountains = LIST { 727 728 729 730 }
+
+impassable_seas = LIST { 759 760 761 762 763 764 765 766 }
+
+river_provinces = LIST {  }

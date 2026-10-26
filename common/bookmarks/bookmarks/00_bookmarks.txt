@@ -1,0 +1,52 @@
+﻿bm_lemur = {
+	start_date = 2502.1.1
+	is_playable = yes
+	group = bm_group_1066
+
+	weight = { value = 100 }
+
+	# Karl Franz
+	character = {
+		name = "bookmark_lemur_30" 
+		type = male
+		birth = 1033.1.1
+		title = k_the_empire_7 # Reikland/Imperio
+		government = feudal_government
+		culture = imperial
+		religion = lemur_faith_7
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = lemur_30
+		position = { 400 600 }
+		animation = happiness
+	}
+
+	# Louen Leoncoeur
+	character = {
+		name = "bookmark_lemur_2"
+		type = male
+		birth = 1033.1.1
+		title = k_bretonnia_5 # Bretonnia
+		government = feudal_government
+		culture = bretonnian
+		religion = lemur_faith_3
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = lemur_2
+		position = { 800 600 }
+		animation = happiness
+	}
+
+	# Boris Todbringer
+	character = {
+		name = "bookmark_lemur_3"
+		type = male
+		birth = 1033.1.1
+		title = d_middenland_175 # Middenland
+		government = feudal_government
+		culture = imperial
+		religion = lemur_faith_30
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		history_id = lemur_3
+		position = { 1200 600 }
+		animation = happiness
+	}
+}

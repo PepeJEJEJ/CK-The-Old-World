@@ -1,0 +1,4 @@
+﻿# Generated: campaign end paired with the start date + tech ladder.
+NGame = {
+	END_DATE = "9999.1.1"
+}

@@ -1,0 +1,167 @@
+# ==============================================================================
+# ARCHIVO DE ETNIAS PARA EL MOD DE WARHAMMER (common/ethnicities/00_wh_ethnicities.txt)
+# ==============================================================================
+
+# --- HUMANOS (HUMANS) ---
+imperial_ethnicity = {
+	group = caucasian
+}
+bretonnian_ethnicity = {
+	group = caucasian
+}
+kislevite_ethnicity = {
+	group = caucasian
+}
+norscan_ethnicity = {
+	group = caucasian
+}
+cathayan_ethnicity = {
+	group = asian
+}
+arabyan_ethnicity = {
+	group = arab
+}
+tilean_ethnicity = {
+	group = caucasian
+}
+estalian_ethnicity = {
+	group = caucasian
+}
+albion_ethnicity = {
+	group = caucasian
+}
+kurgans_ethnicity = {
+	group = asian
+}
+hung_ethnicity = {
+	group = asian
+}
+nehekharan_ethnicity = { # Reyes Funerarios antes de la maldición / PNJ
+	group = arab
+}
+
+# --- ELFOS (ELVES) ---
+high_elf_ethnicity = {
+	group = elven
+}
+wood_elf_ethnicity = {
+	group = elven
+}
+dark_elf_ethnicity = {
+	group = elven
+}
+
+# --- ENANOS (DWARFS) ---
+dwarf_ethnicity = {
+	group = dwarven
+}
+chaos_dwarf_ethnicity = {
+	group = dwarven
+}
+
+# --- PIELES VERDES (GREENSKINS) ---
+orc_ethnicity = {
+	group = greenskin
+}
+goblin_ethnicity = {
+	group = greenskin
+}
+black_orc_ethnicity = {
+	group = greenskin
+}
+savage_orc_ethnicity = {
+	group = greenskin
+}
+night_goblin_ethnicity = {
+	group = greenskin
+}
+
+# --- NO-MUERTOS Y VAMPIROS (UNDEAD & VAMPIRES) ---
+vampire_von_carstein_ethnicity = {
+	group = undead
+}
+vampire_blood_dragon_ethnicity = {
+	group = undead
+}
+vampire_lahmian_ethnicity = {
+	group = undead
+}
+vampire_strigoi_ethnicity = {
+	group = undead
+}
+vampire_necrarch_ethnicity = {
+	group = undead
+}
+tomb_king_undead_ethnicity = {
+	group = undead
+}
+
+# --- CAOS Y DEMONIOS (CHAOS & DAEMONS) ---
+chaos_mutant_ethnicity = {
+	group = mutant
+}
+daemon_khorne_ethnicity = {
+	group = daemon
+}
+daemon_tzeentch_ethnicity = {
+	group = daemon
+}
+daemon_nurgle_ethnicity = {
+	group = daemon
+}
+daemon_slaanesh_ethnicity = {
+	group = daemon
+}
+
+# --- HOMBRES BESTIA (BEASTMEN) ---
+beastman_gor_ethnicity = {
+	group = beastman
+}
+beastman_ungor_ethnicity = {
+	group = beastman
+}
+beastman_minotaur_ethnicity = {
+	group = beastman
+}
+beastman_bray_shaman_ethnicity = {
+	group = beastman
+}
+
+# --- SKAVEN ---
+skaven_ethnicity = {
+	group = skaven
+}
+skaven_pestilens_ethnicity = {
+	group = skaven
+}
+skaven_skyre_ethnicity = {
+	group = skaven
+}
+skaven_eshin_ethnicity = {
+	group = skaven
+}
+skaven_moulder_ethnicity = {
+	group = skaven
+}
+
+# --- HOMBRES LAGARTO (LIZARDMEN) ---
+saurus_ethnicity = {
+	group = lizardman
+}
+skink_ethnicity = {
+	group = lizardman
+}
+slann_ethnicity = {
+	group = lizardman
+}
+kroxigor_ethnicity = {
+	group = lizardman
+}
+
+# --- OGROS Y HALFLINGS (OGRES & HALFLINGS) ---
+ogre_ethnicity = {
+	group = ogre
+}
+halfling_ethnicity = {
+	group = halfling
+}

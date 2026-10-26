@@ -1,0 +1,3990 @@
+﻿e_orphan_0 = {
+	landless = yes
+	color = { 80 80 80 }
+	k_elithis_32 = {
+		color = { 140 178 152 }
+		capital = c_elithis_316
+		d_elithis_338 = {
+			color = { 230 76 162 }
+			capital = c_elithis_316
+			c_elithis_316 = {
+				color = { 66 152 98 }
+				b_elithis_28 = {
+					province = 27
+				}
+			}
+		}
+	}
+}
+
+e_albion_7 = {
+	color = { 169 49 201 }
+	capital = c_ochness_60
+	k_albion_11 = {
+		color = { 49 185 119 }
+		capital = c_ochness_60
+		d_ochness_211 = {
+			color = { 229 187 139 }
+			capital = c_ochness_60
+			c_ochness_60 = {
+				color = { 124 100 196 }
+				b_ochness_77 = {
+					province = 76
+				}
+				b_daingneach_an_luaidhe_9 = {
+					province = 9
+				}
+			}
+		}
+		d_bowlahat_212 = {
+			color = { 96 118 170 }
+			capital = c_cerdach_nan_seann_fhear_61
+			c_cerdach_nan_seann_fhear_61 = {
+				color = { 197 31 227 }
+				b_cerdach_nan_seann_fhear_80 = {
+					province = 79
+				}
+				b_ogham_mr_78 = {
+					province = 77
+				}
+			}
+		}
+		d_great_hogs_213 = {
+			color = { 169 49 201 }
+			capital = c_inbhir_ige_62
+			c_inbhir_ige_62 = {
+				color = { 64 168 52 }
+				b_inbhir_ige_79 = {
+					province = 78
+				}
+				b_bailinnstainn_943 = {
+					province = 627
+				}
+			}
+		}
+	}
+}
+
+e_ulthuan_11 = {
+	color = { 49 185 119 }
+	capital = c_gaen_vale_137
+	k_ulthuan_9 = {
+		color = { 109 117 57 }
+		capital = c_gaen_vale_137
+		d_chrace_247 = {
+			color = { 179 175 225 }
+			capital = c_sheorarant_130
+			c_sheorarant_130 = {
+				color = { 84 214 100 }
+				b_sheorarant_874 = {
+					province = 584
+				}
+				b_faranthyr_502 = {
+					province = 360
+				}
+			}
+			c_nylmlazin_129 = {
+				color = { 217 77 69 }
+				b_nylmlazin_234 = {
+					province = 186
+				}
+				b_selfanargond_275 = {
+					province = 214
+				}
+			}
+			c_ollmrionlean_131 = {
+				color = { 157 145 131 }
+				b_ollmrionlean_746 = {
+					province = 515
+				}
+				b_oressadhil_157 = {
+					province = 137
+				}
+			}
+			c_shemnalas_132 = {
+				color = { 230 76 162 }
+				b_shemnalas_126 = {
+					province = 120
+				}
+				b_anlec_109 = {
+					province = 108
+				}
+				b_ollmlie_165 = {
+					province = 141
+				}
+				b_nioranil_623 = {
+					province = 436
+				}
+			}
+			c_sidorgorlor_133 = {
+				color = { 97 213 193 }
+				b_sidorgorlor_628 = {
+					province = 440
+				}
+				b_selne_145 = {
+					province = 131
+				}
+				b_tilonse_158 = {
+					province = 138
+				}
+				b_orasalean_437 = {
+					province = 318
+				}
+			}
+			c_narithlumele_134 = {
+				color = { 170 144 224 }
+				b_narithlumele_334 = {
+					province = 246
+				}
+			}
+		}
+		d_avelorn_248 = {
+			color = { 46 106 50 }
+			capital = c_tor_saroir_135
+			c_tor_saroir_135 = {
+				color = { 37 75 49 }
+				b_tor_saroir_111 = {
+					province = 110
+				}
+				b_raumyfa_132 = {
+					province = 121
+				}
+			}
+			c_donalinlon_136 = {
+				color = { 110 212 80 }
+				b_donalinlon_256 = {
+					province = 199
+				}
+				b_matheassin_441 = {
+					province = 320
+				}
+				b_tor_vael_814 = {
+					province = 551
+				}
+			}
+			c_gaen_vale_137 = {
+				color = { 183 143 111 }
+				b_gaen_vale_7 = {
+					province = 7
+				}
+			}
+		}
+		d_ellyrion_249 = {
+			color = { 119 37 81 }
+			capital = c_tor_dranil_140
+			c_tor_dranil_140 = {
+				color = { 196 142 204 }
+				b_tor_dranil_887 = {
+					province = 592
+				}
+				b_oshmel_zedi_443 = {
+					province = 322
+				}
+			}
+			c_linlurthlas_138 = {
+				color = { 50 74 142 }
+				b_linlurthlas_452 = {
+					province = 326
+				}
+				b_tor_elyr_106 = {
+					province = 105
+				}
+			}
+			c_itheterius_139 = {
+				color = { 123 211 173 }
+				b_itheterius_514 = {
+					province = 365
+				}
+				b_dretheassad_340 = {
+					province = 250
+				}
+			}
+		}
+		d_tiranoc_250 = {
+			color = { 192 174 112 }
+			capital = c_nylmmar_144
+			c_nylmmar_144 = {
+				color = { 76 72 122 }
+				b_nylmmar_749 = {
+					province = 517
+				}
+				b_falorgondra_255 = {
+					province = 198
+				}
+			}
+			c_niobethmelha_141 = {
+				color = { 63 73 235 }
+				b_niobethmelha_218 = {
+					province = 176
+				}
+				b_tor_anroc_108 = {
+					province = 107
+				}
+			}
+			c_mebellame_142 = {
+				color = { 136 210 60 }
+				b_mebellame_118 = {
+					province = 114
+				}
+				b_aymsebelle_753 = {
+					province = 519
+				}
+			}
+			c_kandellve_143 = {
+				color = { 209 141 91 }
+				b_kandellve_965 = {
+					province = 647
+				}
+				b_eshtheashal_750 = {
+					province = 518
+				}
+				b_mancastra_974 = {
+					province = 654
+				}
+			}
+		}
+		d_sapheri_251 = {
+			color = { 59 105 143 }
+			capital = c_velion_147
+			c_velion_147 = {
+				color = { 89 71 215 }
+				b_velion_641 = {
+					province = 451
+				}
+				b_elionsenoris_161 = {
+					province = 139
+				}
+			}
+			c_rethe_145 = {
+				color = { 149 209 153 }
+				b_rethe_893 = {
+					province = 595
+				}
+				b_hoet_tower_113 = {
+					province = 112
+				}
+			}
+			c_silaurtheas_146 = {
+				color = { 222 140 184 }
+				b_silaurtheas_309 = {
+					province = 230
+				}
+				b_sellumyhora_526 = {
+					province = 371
+				}
+			}
+			c_hluinenalos_148 = {
+				color = { 162 208 40 }
+				b_hluinenalos_133 = {
+					province = 122
+				}
+				b_thynathyrlon_758 = {
+					province = 523
+				}
+			}
+			c_yeedilran_149 = {
+				color = { 235 139 71 }
+				b_yeedilran_460 = {
+					province = 332
+				}
+				b_ishlondrari_700 = {
+					province = 490
+				}
+			}
+		}
+		d_yvresse_252 = {
+			color = { 132 36 174 }
+			capital = c_gonnor_150
+			c_gonnor_150 = {
+				color = { 102 70 102 }
+				b_gonnor_209 = {
+					province = 172
+				}
+				b_liserin_576 = {
+					province = 408
+				}
+			}
+			c_bel_shore_151 = {
+				color = { 175 207 133 }
+				b_bel_shore_219 = {
+					province = 177
+				}
+				b_rauguall_341 = {
+					province = 251
+				}
+			}
+			c_elisia_152 = {
+				color = { 42 138 164 }
+				b_elisia_821 = {
+					province = 553
+				}
+				b_tor_yvresse_112 = {
+					province = 111
+				}
+			}
+		}
+		d_caledor_253 = {
+			color = { 205 173 205 }
+			capital = c_sahmegul_156
+			c_sahmegul_156 = {
+				color = { 128 68 82 }
+				b_sahmegul_757 = {
+					province = 522
+				}
+				b_umnariralve_348 = {
+					province = 258
+				}
+			}
+			c_ollmmar_153 = {
+				color = { 115 69 195 }
+				b_ollmmar_311 = {
+					province = 232
+				}
+				b_lothern_107 = {
+					province = 106
+				}
+			}
+			c_yethrion_154 = {
+				color = { 188 206 226 }
+				b_yethrion_260 = {
+					province = 202
+				}
+				b_wlanil_905 = {
+					province = 602
+				}
+			}
+			c_shela_155 = {
+				color = { 55 137 51 }
+				b_shela_350 = {
+					province = 260
+				}
+				b_esinoriath_261 = {
+					province = 203
+				}
+			}
+		}
+		d_clothique_254 = {
+			color = { 72 104 30 }
+			capital = c_amsera_157
+			c_amsera_157 = {
+				color = { 201 205 113 }
+				b_amsera_508 = {
+					province = 362
+				}
+				b_tor_dynal_110 = {
+					province = 109
+				}
+				b_nelmarilel_147 = {
+					province = 133
+				}
+			}
+			c_orarantheas_158 = {
+				color = { 68 136 144 }
+				b_orarantheas_257 = {
+					province = 200
+				}
+				b_retheirian_515 = {
+					province = 366
+				}
+				b_amlume_575 = {
+					province = 407
+				}
+			}
+		}
+	}
+}
+
+e_nippon_14 = {
+	color = { 62 184 212 }
+	capital = c_honairawa_206
+	k_nippon_14 = {
+		color = { 62 184 212 }
+		capital = c_honairawa_206
+		d_oto_267 = {
+			color = { 197 31 227 }
+			capital = c_nanbumi_199
+			c_nanbumi_199 = {
+				color = { 177 191 179 }
+				b_nanbumi_467 = {
+					province = 337
+				}
+				b_katano_768 = {
+					province = 528
+				}
+			}
+		}
+		d_nanbetu_268 = {
+			color = { 64 168 52 }
+			capital = c_taitawawa_201
+			c_taitawawa_201 = {
+				color = { 117 53 35 }
+				b_taitawawa_345 = {
+					province = 255
+				}
+				b_kanburami_210 = {
+					province = 173
+				}
+			}
+			c_tachan_200 = {
+				color = { 44 122 210 }
+				b_tachan_238 = {
+					province = 188
+				}
+				b_matsurika_347 = {
+					province = 257
+				}
+			}
+		}
+		d_nyukiro_269 = {
+			color = { 137 99 83 }
+			capital = c_kushi_202
+			c_kushi_202 = {
+				color = { 190 190 66 }
+				b_kushi_197 = {
+					province = 161
+				}
+				b_tsujisuiga_586 = {
+					province = 415
+				}
+			}
+		}
+		d_kuse_270 = {
+			color = { 210 30 114 }
+			capital = c_toronase_203
+			c_toronase_203 = {
+				color = { 57 121 97 }
+				b_toronase_759 = {
+					province = 524
+				}
+				b_narasuwaki_389 = {
+					province = 284
+				}
+			}
+		}
+		d_oro_271 = {
+			color = { 77 167 145 }
+			capital = c_kawawa_204
+			c_kawawa_204 = {
+				color = { 130 52 128 }
+				b_kawawa_830 = {
+					province = 560
+				}
+				b_namiwaiyo_763 = {
+					province = 525
+				}
+			}
+		}
+		d_kawa_272 = {
+			color = { 150 98 176 }
+			capital = c_katara_207
+			c_katara_207 = {
+				color = { 143 51 221 }
+				b_katara_169 = {
+					province = 143
+				}
+				b_narawamat_313 = {
+					province = 233
+				}
+			}
+			c_shiya_205 = {
+				color = { 203 189 159 }
+				b_shiya_589 = {
+					province = 417
+				}
+				b_reifuma_189 = {
+					province = 154
+				}
+				b_mutsuryu_401 = {
+					province = 293
+				}
+			}
+			c_honairawa_206 = {
+				color = { 70 120 190 }
+				b_honairawa_314 = {
+					province = 234
+				}
+				b_michi_12 = {
+					province = 12
+				}
+			}
+		}
+		d_hiyasho_273 = {
+			color = { 223 235 207 }
+			capital = c_hifubetsu_208
+			c_hifubetsu_208 = {
+				color = { 216 188 46 }
+				b_hifubetsu_242 = {
+					province = 191
+				}
+				b_tato_913 = {
+					province = 608
+				}
+			}
+			c_kakasamiku_209 = {
+				color = { 83 119 77 }
+				b_kakasamiku_998 = {
+					province = 668
+				}
+				b_tokiwai_402 = {
+					province = 294
+				}
+			}
+			c_kohenanto_210 = {
+				color = { 156 50 108 }
+				b_kohenanto_714 = {
+					province = 497
+				}
+				b_toyo_1000 = {
+					province = 670
+				}
+			}
+		}
+		d_tokidagu_274 = {
+			color = { 90 166 32 }
+			capital = c_katsugamo_211
+			c_katsugamo_211 = {
+				color = { 229 187 139 }
+				b_katsugamo_571 = {
+					province = 405
+				}
+				b_fuchukizu_236 = {
+					province = 187
+				}
+			}
+			c_fuji_212 = {
+				color = { 96 118 170 }
+				b_fuji_304 = {
+					province = 228
+				}
+				b_gyoyonosa_578 = {
+					province = 410
+				}
+				b_oahadoto_968 = {
+					province = 650
+				}
+			}
+		}
+		d_tamina_275 = {
+			color = { 163 97 63 }
+			capital = c_tsuna_215
+			c_tsuna_215 = {
+				color = { 109 117 57 }
+				b_tsuna_842 = {
+					province = 569
+				}
+				b_nawamikudo_725 = {
+					province = 505
+				}
+			}
+			c_kizu_213 = {
+				color = { 169 49 201 }
+				b_kizu_920 = {
+					province = 613
+				}
+				b_omikizu_201 = {
+					province = 164
+				}
+			}
+			c_kumi_214 = {
+				color = { 36 186 232 }
+				b_kumi_846 = {
+					province = 571
+				}
+				b_karanaita_359 = {
+					province = 267
+				}
+			}
+		}
+		d_yunawa_276 = {
+			color = { 30 234 94 }
+			capital = c_nishi_218
+			c_nishi_218 = {
+				color = { 122 116 150 }
+				b_nishi_139 = {
+					province = 126
+				}
+				b_rishi_286 = {
+					province = 220
+				}
+				b_otsuzanai_416 = {
+					province = 303
+				}
+				b_kotorami_482 = {
+					province = 348
+				}
+			}
+			c_yobura_216 = {
+				color = { 182 48 88 }
+				b_yobura_925 = {
+					province = 618
+				}
+				b_sutsuga_668 = {
+					province = 470
+				}
+			}
+			c_sayatonoma_217 = {
+				color = { 49 185 119 }
+				b_sayatonoma_1018 = {
+					province = 678
+				}
+				b_hokunokawa_202 = {
+					province = 165
+				}
+			}
+			c_nishisohe_219 = {
+				color = { 195 47 181 }
+				b_nishisohe_420 = {
+					province = 305
+				}
+				b_tonana_851 = {
+					province = 572
+				}
+			}
+			c_taiya_220 = {
+				color = { 62 184 212 }
+				b_taiya_248 = {
+					province = 195
+				}
+				b_tohomiya_730 = {
+					province = 509
+				}
+			}
+		}
+		d_tsu_277 = {
+			color = { 103 165 125 }
+			capital = c_narazagawa_225
+			c_narazagawa_225 = {
+				color = { 221 45 161 }
+				b_narazagawa_921 = {
+					province = 614
+				}
+				b_ichibama_322 = {
+					province = 239
+				}
+			}
+			c_koku_221 = {
+				color = { 135 115 37 }
+				b_koku_361 = {
+					province = 268
+				}
+				b_yoshimiwa_266 = {
+					province = 208
+				}
+			}
+			c_akeshiga_222 = {
+				color = { 208 46 68 }
+				b_akeshiga_192 = {
+					province = 157
+				}
+				b_gohika_1019 = {
+					province = 679
+				}
+			}
+			c_rishinake_223 = {
+				color = { 75 183 99 }
+				b_rishinake_268 = {
+					province = 210
+				}
+				b_kutchi_323 = {
+					province = 240
+				}
+			}
+			c_kusudo_224 = {
+				color = { 148 114 130 }
+				b_kusudo_140 = {
+					province = 127
+				}
+				b_miga_726 = {
+					province = 506
+				}
+			}
+		}
+	}
+}
+
+e_khuresh_16 = {
+	color = { 208 46 68 }
+	capital = c_kampila_179
+	k_khuresh_26 = {
+		color = { 114 180 172 }
+		capital = c_lost_city_of_the_old_ones_261
+		d_lost_city_of_the_old_ones_298 = {
+			color = { 194 158 158 }
+			capital = c_soztesh_257
+			c_soztesh_257 = {
+				color = { 85 103 123 }
+				b_soztesh_607 = {
+					province = 427
+				}
+				b_mithkess_227 = {
+					province = 184
+				}
+			}
+			c_ilzigishaph_258 = {
+				color = { 158 34 154 }
+				b_ilzigishaph_791 = {
+					province = 536
+				}
+				b_ulfennik_1032 = {
+					province = 686
+				}
+			}
+			c_cothan_259 = {
+				color = { 231 171 185 }
+				b_cothan_365 = {
+					province = 271
+				}
+				b_zalesstak_325 = {
+					province = 241
+				}
+				b_orthjash_672 = {
+					province = 473
+				}
+				b_slisa_1028 = {
+					province = 684
+				}
+			}
+			c_rralen_260 = {
+				color = { 98 102 216 }
+				b_rralen_1030 = {
+					province = 685
+				}
+				b_grolzitesh_194 = {
+					province = 158
+				}
+				b_nakkash_204 = {
+					province = 167
+				}
+				b_majkiress_327 = {
+					province = 243
+				}
+				b_srathigen_608 = {
+					province = 428
+				}
+			}
+			c_lost_city_of_the_old_ones_261 = {
+				color = { 171 33 41 }
+				b_lost_city_of_the_old_ones_22 = {
+					province = 22
+				}
+				b_skarthuph_326 = {
+					province = 242
+				}
+			}
+		}
+		d_cothjiss_299 = {
+			color = { 61 89 189 }
+			capital = c_zurriz_263
+			c_zurriz_263 = {
+				color = { 111 101 103 }
+				b_zurriz_724 = {
+					province = 504
+				}
+				b_skuzush_1014 = {
+					province = 676
+				}
+			}
+			c_zarthiress_262 = {
+				color = { 38 170 72 }
+				b_zarthiress_727 = {
+					province = 507
+				}
+				b_mossin_148 = {
+					province = 134
+				}
+				b_cijlu_267 = {
+					province = 209
+				}
+				b_najtak_477 = {
+					province = 345
+				}
+				b_cothjiss_602 = {
+					province = 424
+				}
+			}
+			c_krash_264 = {
+				color = { 184 32 134 }
+				b_krash_795 = {
+					province = 537
+				}
+				b_rrissu_195 = {
+					province = 159
+				}
+				b_curthuss_736 = {
+					province = 510
+				}
+				b_pinas_796 = {
+					province = 538
+				}
+				b_sakess_858 = {
+					province = 574
+				}
+			}
+			c_capjezrash_265 = {
+				color = { 51 169 165 }
+				b_capjezrash_930 = {
+					province = 621
+				}
+				b_kratakkuss_134 = {
+					province = 123
+				}
+				b_skuteruk_171 = {
+					province = 145
+				}
+				b_cothaz_362 = {
+					province = 269
+				}
+				b_grataph_481 = {
+					province = 347
+				}
+				b_varjass_536 = {
+					province = 380
+				}
+				b_mapjajugeph_541 = {
+					province = 383
+				}
+				b_xassush_924 = {
+					province = 617
+				}
+				b_russegus_1023 = {
+					province = 682
+				}
+			}
+			c_methazjuph_266 = {
+				color = { 124 100 196 }
+				b_methazjuph_534 = {
+					province = 379
+				}
+				b_skutakkuss_114 = {
+					province = 113
+				}
+				b_methuss_1022 = {
+					province = 681
+				}
+			}
+			c_rrazrantus_267 = {
+				color = { 197 31 227 }
+				b_rrazrantus_368 = {
+					province = 272
+				}
+				b_harjas_205 = {
+					province = 168
+				}
+				b_skaph_674 = {
+					province = 474
+				}
+			}
+		}
+	}
+	k_ind_21 = {
+		color = { 161 113 223 }
+		capital = c_kampila_179
+		d_mandalhar_259 = {
+			color = { 231 171 185 }
+			capital = c_mannur_173
+			c_mannur_173 = {
+				color = { 133 131 197 }
+				b_mannur_357 = {
+					province = 265
+				}
+				b_rataganabad_358 = {
+					province = 266
+				}
+			}
+			c_pulur_172 = {
+				color = { 60 200 166 }
+				b_pulur_170 = {
+					province = 144
+				}
+				b_kapatnaram_604 = {
+					province = 426
+				}
+			}
+			c_sedamnanur_174 = {
+				color = { 206 62 228 }
+				b_sedamnanur_57 = {
+					province = 56
+				}
+				b_hatnani_320 = {
+					province = 237
+				}
+			}
+			c_mudagaga_175 = {
+				color = { 73 199 53 }
+				b_mudagaga_845 = {
+					province = 570
+				}
+				b_karikevan_56 = {
+					province = 55
+				}
+			}
+			c_biredam_176 = {
+				color = { 146 130 84 }
+				b_biredam_417 = {
+					province = 304
+				}
+				b_raichpur_923 = {
+					province = 616
+				}
+			}
+		}
+		d_bangardan_260 = {
+			color = { 98 102 216 }
+			capital = c_kampila_179
+			c_kampila_179 = {
+				color = { 159 129 177 }
+				b_kampila_17 = {
+					province = 17
+				}
+				b_inkovi_669 = {
+					province = 471
+				}
+			}
+			c_shahnur_177 = {
+				color = { 219 61 115 }
+				b_shahnur_120 = {
+					province = 116
+				}
+				b_chitgopa_289 = {
+					province = 222
+				}
+			}
+			c_annurgiru_178 = {
+				color = { 86 198 146 }
+				b_annurgiru_270 = {
+					province = 211
+				}
+				b_nadur_65 = {
+					province = 64
+				}
+				b_agara_483 = {
+					province = 349
+				}
+			}
+		}
+		d_karbala_261 = {
+			color = { 171 33 41 }
+			capital = c_mudgi_183
+			c_mudgi_183 = {
+				color = { 39 59 95 }
+				b_mudgi_489 = {
+					province = 352
+				}
+				b_hubi_64 = {
+					province = 63
+				}
+			}
+			c_muragadani_180 = {
+				color = { 232 60 208 }
+				b_muragadani_124 = {
+					province = 119
+				}
+				b_sindhwar_364 = {
+					province = 270
+				}
+			}
+			c_bhattiruram_181 = {
+				color = { 99 197 33 }
+				b_bhattiruram_1026 = {
+					province = 683
+				}
+				b_honkeshwar_852 = {
+					province = 573
+				}
+			}
+			c_mysolerima_182 = {
+				color = { 172 128 64 }
+				b_mysolerima_423 = {
+					province = 307
+				}
+				b_khamannaval_671 = {
+					province = 472
+				}
+			}
+		}
+		d_oran_sajbar_262 = {
+			color = { 38 170 72 }
+			capital = c_tulede_184
+			c_tulede_184 = {
+				color = { 112 196 126 }
+				b_tulede_610 = {
+					province = 429
+				}
+				b_mudragar_294 = {
+					province = 224
+				}
+			}
+			c_molarirulur_185 = {
+				color = { 185 127 157 }
+				b_molarirulur_613 = {
+					province = 430
+				}
+				b_gaugi_63 = {
+					province = 62
+				}
+			}
+		}
+		d_keran_263 = {
+			color = { 111 101 103 }
+			capital = c_kolargirur_187
+			c_kolargirur_187 = {
+				color = { 125 195 219 }
+				b_kolargirur_537 = {
+					province = 381
+				}
+				b_saktikoteva_789 = {
+					province = 535
+				}
+			}
+			c_hundur_186 = {
+				color = { 52 58 188 }
+				b_hundur_291 = {
+					province = 223
+				}
+				b_apurudalke_543 = {
+					province = 384
+				}
+			}
+			c_kolal_188 = {
+				color = { 198 126 44 }
+				b_kolal_488 = {
+					province = 351
+				}
+				b_kothadi_62 = {
+					province = 61
+				}
+			}
+			c_salabadhol_189 = {
+				color = { 65 57 75 }
+				b_salabadhol_226 = {
+					province = 183
+				}
+				b_bantgi_421 = {
+					province = 306
+				}
+			}
+		}
+		d_kerkana_264 = {
+			color = { 184 32 134 }
+			capital = c_hungagevagi_191
+			c_hungagevagi_191 = {
+				color = { 211 125 137 }
+				b_hungagevagi_321 = {
+					province = 238
+				}
+				b_sannapuma_1017 = {
+					province = 677
+				}
+			}
+			c_chararapana_190 = {
+				color = { 138 194 106 }
+				b_chararapana_533 = {
+					province = 378
+				}
+				b_bibengundlu_603 = {
+					province = 425
+				}
+			}
+			c_annur_192 = {
+				color = { 78 56 168 }
+				b_annur_788 = {
+					province = 534
+				}
+				b_apudibi_225 = {
+					province = 182
+				}
+				b_martek_926 = {
+					province = 619
+				}
+			}
+			c_kumtayadi_193 = {
+				color = { 151 193 199 }
+				b_kumtayadi_729 = {
+					province = 508
+				}
+				b_avabad_61 = {
+					province = 60
+				}
+			}
+		}
+		d_sindhar_pardjan_265 = {
+			color = { 51 169 165 }
+			capital = c_hururad_195
+			c_hururad_195 = {
+				color = { 91 55 55 }
+				b_hururad_58 = {
+					province = 57
+				}
+				b_kudchwarga_60 = {
+					province = 59
+				}
+			}
+			c_longadayara_194 = {
+				color = { 224 124 230 }
+				b_longadayara_1013 = {
+					province = 675
+				}
+				b_kopajosa_59 = {
+					province = 58
+				}
+			}
+		}
+		d_karachjia_266 = {
+			color = { 124 100 196 }
+			capital = c_raysolalig_197
+			c_raysolalig_197 = {
+				color = { 31 123 117 }
+				b_raysolalig_840 = {
+					province = 567
+				}
+				b_kuralagarga_841 = {
+					province = 568
+				}
+			}
+			c_ilkoptur_196 = {
+				color = { 164 192 86 }
+				b_ilkoptur_662 = {
+					province = 466
+				}
+				b_kraka_drak_919 = {
+					province = 612
+				}
+			}
+			c_napuragako_198 = {
+				color = { 104 54 148 }
+				b_napuragako_411 = {
+					province = 300
+				}
+				b_shayagapat_55 = {
+					province = 54
+				}
+				b_shirgaga_721 = {
+					province = 502
+				}
+			}
+		}
+	}
+}
+
+e_nehekhara_18 = {
+	color = { 148 114 130 }
+	capital = c_ka_sabar_165
+	k_nehekhara_27 = {
+		color = { 187 111 203 }
+		capital = c_menranu_269
+		d_khemri_301 = {
+			color = { 207 157 45 }
+			capital = c_menranu_269
+			c_menranu_269 = {
+				color = { 137 99 83 }
+				b_menranu_264 = {
+					province = 206
+				}
+				b_khemri_23 = {
+					province = 23
+				}
+				b_inenu_354 = {
+					province = 264
+				}
+			}
+			c_bhagar_268 = {
+				color = { 64 168 52 }
+				b_bhagar_409 = {
+					province = 298
+				}
+				b_gebmat_1002 = {
+					province = 671
+				}
+			}
+		}
+		d_numas_302 = {
+			color = { 74 88 76 }
+			capital = c_nebnesep_270
+			c_nebnesep_270 = {
+				color = { 210 30 114 }
+				b_nebnesep_590 = {
+					province = 418
+				}
+				b_basemethorsmu_908 = {
+					province = 605
+				}
+				b_numas_1038 = {
+					province = 692
+				}
+			}
+		}
+		d_mahrak_303 = {
+			color = { 147 225 107 }
+			capital = c_bulundibu_273
+			c_bulundibu_273 = {
+				color = { 223 235 207 }
+				b_bulundibu_999 = {
+					province = 669
+				}
+				b_narararukt_243 = {
+					province = 192
+				}
+			}
+			c_sobeksekaten_271 = {
+				color = { 77 167 145 }
+				b_sobeksekaten_839 = {
+					province = 566
+				}
+				b_mahrak_471 = {
+					province = 340
+				}
+			}
+			c_djekaretmat_272 = {
+				color = { 150 98 176 }
+				b_djekaretmat_530 = {
+					province = 375
+				}
+				b_quatar_1039 = {
+					province = 693
+				}
+			}
+		}
+		d_rasetra_304 = {
+			color = { 220 156 138 }
+			capital = c_selketnenu_274
+			c_selketnenu_274 = {
+				color = { 90 166 32 }
+				b_selketnenu_190 = {
+					province = 155
+				}
+				b_rasetra_474 = {
+					province = 343
+				}
+			}
+		}
+		d_kasabar_305 = {
+			color = { 87 87 169 }
+			capital = c_wadjtisetep_275
+			c_wadjtisetep_275 = {
+				color = { 163 97 63 }
+				b_wadjtisetep_1006 = {
+					province = 673
+				}
+				b_djesep_532 = {
+					province = 377
+				}
+				b_kasabar_1041 = {
+					province = 695
+				}
+			}
+		}
+		d_zandri_306 = {
+			color = { 160 224 200 }
+			capital = c_zandri_276
+			c_zandri_276 = {
+				color = { 30 234 94 }
+				b_zandri_1040 = {
+					province = 694
+				}
+				b_ghalah_404 = {
+					province = 295
+				}
+				b_fyrus_772 = {
+					province = 529
+				}
+			}
+		}
+	}
+	k_araby_28 = {
+		color = { 54 42 234 }
+		capital = c_ka_sabar_165
+		d_al_hakka_255 = {
+			color = { 145 35 61 }
+			capital = c_bishibar_159
+			c_bishibar_159 = {
+				color = { 141 67 175 }
+				b_bishibar_283 = {
+					province = 219
+				}
+				b_el_kalabad_917 = {
+					province = 610
+				}
+			}
+			c_areeq_160 = {
+				color = { 214 204 206 }
+				b_areeq_593 = {
+					province = 419
+				}
+				b_ubarwah_318 = {
+					province = 236
+				}
+			}
+			c_alkha_161 = {
+				color = { 81 135 31 }
+				b_alkha_472 = {
+					province = 341
+				}
+				b_abukhen_717 = {
+					province = 499
+				}
+				b_turain_778 = {
+					province = 531
+				}
+			}
+			c_umah_162 = {
+				color = { 154 66 62 }
+				b_umah_780 = {
+					province = 532
+				}
+				b_mash_198 = {
+					province = 162
+				}
+			}
+			c_aljuladha_163 = {
+				color = { 227 203 93 }
+				b_aljuladha_659 = {
+					province = 464
+				}
+				b_besh_265 = {
+					province = 207
+				}
+			}
+		}
+		d_martek_256 = {
+			color = { 218 172 92 }
+			capital = c_ka_sabar_165
+			c_ka_sabar_165 = {
+				color = { 167 65 155 }
+				b_ka_sabar_24 = {
+					province = 24
+				}
+				b_hirah_782 = {
+					province = 533
+				}
+			}
+			c_julaistaq_164 = {
+				color = { 94 134 124 }
+				b_julaistaq_660 = {
+					province = 465
+				}
+				b_humah_473 = {
+					province = 342
+				}
+			}
+		}
+		d_copher_257 = {
+			color = { 85 103 123 }
+			capital = c_ghran_166
+			c_ghran_166 = {
+				color = { 34 202 186 }
+				b_ghran_531 = {
+					province = 376
+				}
+				b_merem_597 = {
+					province = 422
+				}
+				b_copher_1012 = {
+					province = 674
+				}
+			}
+		}
+		d_lashiek_258 = {
+			color = { 158 34 154 }
+			capital = c_datah_167
+			c_datah_167 = {
+				color = { 107 133 217 }
+				b_datah_723 = {
+					province = 503
+				}
+				b_shoq_200 = {
+					province = 163
+				}
+			}
+			c_juzaylif_168 = {
+				color = { 180 64 42 }
+				b_juzaylif_121 = {
+					province = 117
+				}
+				b_dhur_142 = {
+					province = 129
+				}
+			}
+			c_qarabtal_169 = {
+				color = { 47 201 73 }
+				b_qarabtal_141 = {
+					province = 128
+				}
+				b_zalihat_180 = {
+					province = 149
+				}
+				b_famadah_415 = {
+					province = 302
+				}
+				b_aljah_598 = {
+					province = 423
+				}
+			}
+			c_aran_170 = {
+				color = { 120 132 104 }
+				b_aran_540 = {
+					province = 382
+				}
+				b_haradh_485 = {
+					province = 350
+				}
+			}
+			c_bhagar_171 = {
+				color = { 193 63 135 }
+				b_bhagar_922 = {
+					province = 615
+				}
+				b_khurayaar_224 = {
+					province = 181
+				}
+				b_hafah_246 = {
+					province = 194
+				}
+				b_ghaylif_287 = {
+					province = 221
+				}
+				b_bel_aliad_927 = {
+					province = 620
+				}
+				b_yenayaar_1021 = {
+					province = 680
+				}
+			}
+		}
+		d_aqhayq_280 = {
+			color = { 116 164 218 }
+			capital = c_almulai_232
+			c_almulai_232 = {
+				color = { 114 180 172 }
+				b_almulai_407 = {
+					province = 296
+				}
+				b_aqhayq_719 = {
+					province = 500
+				}
+			}
+			c_tuluwaldu_233 = {
+				color = { 187 111 203 }
+				b_tuluwaldu_720 = {
+					province = 501
+				}
+				b_zalsamaq_408 = {
+					province = 297
+				}
+				b_fafat_410 = {
+					province = 299
+				}
+			}
+			c_hawizayd_234 = {
+				color = { 54 42 234 }
+				b_hawizayd_596 = {
+					province = 421
+				}
+				b_asrah_475 = {
+					province = 344
+				}
+			}
+			c_bibah_235 = {
+				color = { 127 179 59 }
+				b_bibah_663 = {
+					province = 467
+				}
+				b_alhaka_918 = {
+					province = 611
+				}
+			}
+		}
+	}
+}
+
+e_lizardmen_20 = {
+	color = { 88 182 192 }
+	capital = c_teotiqua_308
+	k_omultlan_22 = {
+		color = { 234 44 48 }
+		capital = c_omultlan_315
+		d_omultlan_337 = {
+			color = { 157 145 131 }
+			capital = c_omultlan_315
+			c_omultlan_315 = {
+				color = { 199 221 67 }
+				b_omultlan_18 = {
+					province = 18
+				}
+			}
+		}
+	}
+	k_xlanhuapec_23 = {
+		color = { 101 181 79 }
+		capital = c_xlanhuapec_314
+		d_xlanhuapec_336 = {
+			color = { 84 214 100 }
+			capital = c_xlanhuapec_314
+			c_xlanhuapec_314 = {
+				color = { 126 84 36 }
+				b_xlanhuapec_19 = {
+					province = 19
+				}
+			}
+		}
+	}
+	k_jtza_24 = {
+		color = { 174 112 110 }
+		capital = c_itza_313
+		d_itza_335 = {
+			color = { 217 77 69 }
+			capital = c_itza_313
+			c_itza_313 = {
+				color = { 53 153 211 }
+				b_itza_20 = {
+					province = 20
+				}
+			}
+		}
+	}
+	k_zlatlan_34 = {
+		color = { 80 40 214 }
+		capital = c_zlatlan_0
+		d_zlatlan_34 = {
+			color = { 80 40 214 }
+			capital = c_zlatlan_0
+			c_zlatlan_0 = {
+				color = { 70 120 190 }
+				b_zlatlan_30 = {
+					province = 29
+				}
+			}
+		}
+	}
+	k_teotiqua_35 = {
+		color = { 153 177 39 }
+		capital = c_teotiqua_308
+		d_teotiqua_330 = {
+			color = { 58 216 120 }
+			capital = c_teotiqua_308
+			c_teotiqua_308 = {
+				color = { 100 86 56 }
+				b_teotiqua_31 = {
+					province = 30
+				}
+			}
+		}
+	}
+	k_tlaqua_36 = {
+		color = { 226 108 70 }
+		capital = c_tlaqua_312
+		d_tlaqua_334 = {
+			color = { 144 146 38 }
+			capital = c_tlaqua_312
+			c_tlaqua_312 = {
+				color = { 186 222 180 }
+				b_tlaqua_32 = {
+					province = 31
+				}
+			}
+		}
+	}
+}
+
+e_dwarven_23 = {
+	color = { 101 181 79 }
+	capital = c_karaz_ankor_278
+	k_karaz_ankor_17 = {
+		color = { 75 183 99 }
+		capital = c_karaz_ankor_278
+		d_karaz_ankor_308 = {
+			color = { 100 86 56 }
+			capital = c_karaz_ankor_278
+			c_karaz_ankor_278 = {
+				color = { 176 96 156 }
+				b_karaz_ankor_14 = {
+					province = 14
+				}
+			}
+		}
+	}
+}
+
+e_vampire_24 = {
+	color = { 174 112 110 }
+	capital = c_blodrot_247
+	k_vampire_coast_25 = {
+		color = { 41 43 141 }
+		capital = c_blodrot_247
+		d_new_bechafen_291 = {
+			color = { 95 229 147 }
+			capital = c_blodrot_247
+			c_blodrot_247 = {
+				color = { 179 175 225 }
+				b_blodrot_412 = {
+					province = 301
+				}
+				b_new_bechafen_21 = {
+					province = 21
+				}
+				b_tuchtza_664 = {
+					province = 468
+				}
+			}
+		}
+		d_dreadrot_292 = {
+			color = { 168 160 178 }
+			capital = c_shadowhavemarowsong_248
+			c_shadowhavemarowsong_248 = {
+				color = { 46 106 50 }
+				b_shadowhavemarowsong_716 = {
+					province = 498
+				}
+				b_dreadrot_317 = {
+					province = 235
+				}
+				b_grazecalhol_916 = {
+					province = 609
+				}
+			}
+		}
+		d_huapan_293 = {
+			color = { 35 91 209 }
+			capital = c_bobindgrane_249
+			c_bobindgrane_249 = {
+				color = { 119 37 81 }
+				b_bobindgrane_666 = {
+					province = 469
+				}
+				b_dreadcraftshaze_179 = {
+					province = 148
+				}
+			}
+			c_shave_250 = {
+				color = { 192 174 112 }
+				b_shave_191 = {
+					province = 156
+				}
+				b_zalyacatlacat_223 = {
+					province = 180
+				}
+			}
+			c_tuchtlan_251 = {
+				color = { 59 105 143 }
+				b_tuchtlan_479 = {
+					province = 346
+				}
+				b_xoxochimalot_245 = {
+					province = 193
+				}
+			}
+		}
+		d_shadow_294 = {
+			color = { 108 228 34 }
+			capital = c_shadow_252
+			c_shadow_252 = {
+				color = { 132 36 174 }
+				b_shadow_658 = {
+					province = 463
+				}
+				b_tombmistrot_594 = {
+					province = 420
+				}
+			}
+		}
+	}
+}
+
+e_ogre_25 = {
+	color = { 41 43 141 }
+	capital = c_feastmaw_239
+	k_ogre_19 = {
+		color = { 221 45 161 }
+		capital = c_feastmaw_239
+		d_blodtother_281 = {
+			color = { 189 95 43 }
+			capital = c_blodtother_236
+			c_blodtother_236 = {
+				color = { 200 110 90 }
+				b_blodtother_457 = {
+					province = 329
+				}
+			}
+		}
+		d_skulia_282 = {
+			color = { 56 232 74 }
+			capital = c_thunderfist_237
+			c_thunderfist_237 = {
+				color = { 67 41 121 }
+				b_thunderfist_695 = {
+					province = 487
+				}
+				b_bascar_696 = {
+					province = 488
+				}
+			}
+		}
+		d_bulscar_283 = {
+			color = { 129 163 105 }
+			capital = c_bulscar_238
+			c_bulscar_238 = {
+				color = { 140 178 152 }
+				b_bulscar_635 = {
+					province = 446
+				}
+			}
+		}
+		d_storehamia_284 = {
+			color = { 202 94 136 }
+			capital = c_feastmaw_239
+			c_feastmaw_239 = {
+				color = { 213 109 183 }
+				b_feastmaw_562 = {
+					province = 398
+				}
+				b_skulmaw_16 = {
+					province = 16
+				}
+				b_firon_634 = {
+					province = 445
+				}
+			}
+		}
+		d_stonegutia_285 = {
+			color = { 69 231 167 }
+			capital = c_crushgut_240
+			c_crushgut_240 = {
+				color = { 80 40 214 }
+				b_crushgut_380 = {
+					province = 279
+				}
+			}
+		}
+		d_bulhornder_286 = {
+			color = { 142 162 198 }
+			capital = c_bulhornder_241
+			c_bulhornder_241 = {
+				color = { 153 177 39 }
+				b_bulhornder_633 = {
+					province = 444
+				}
+			}
+		}
+		d_gutfist_287 = {
+			color = { 215 93 229 }
+			capital = c_gutfist_242
+			c_gutfist_242 = {
+				color = { 226 108 70 }
+				b_gutfist_577 = {
+					province = 409
+				}
+			}
+		}
+		d_blodshank_288 = {
+			color = { 82 230 54 }
+			capital = c_blodshank_243
+			c_blodshank_243 = {
+				color = { 93 39 101 }
+				b_blodshank_644 = {
+					province = 453
+				}
+				b_bonebelren_895 = {
+					province = 596
+				}
+			}
+		}
+		d_rockgutmawia_289 = {
+			color = { 155 161 85 }
+			capital = c_gonebelder_245
+			c_gonebelder_245 = {
+				color = { 33 107 163 }
+				b_gonebelder_563 = {
+					province = 399
+				}
+				b_domaw_435 = {
+					province = 316
+				}
+			}
+			c_mudbely_244 = {
+				color = { 166 176 132 }
+				b_mudbely_208 = {
+					province = 171
+				}
+				b_meatg_689 = {
+					province = 485
+				}
+			}
+		}
+	}
+}
+
+e_sartossan_27 = {
+	color = { 187 111 203 }
+	capital = c_sartosa_253
+	k_sartosa_29 = {
+		color = { 127 179 59 }
+		capital = c_sartosa_253
+		d_sartosa_295 = {
+			color = { 181 159 65 }
+			capital = c_sartosa_253
+			c_sartosa_253 = {
+				color = { 205 173 205 }
+				b_sartosa_25 = {
+					province = 25
+				}
+			}
+		}
+		d_veressa_296 = {
+			color = { 48 90 96 }
+			capital = c_veressa_254
+			c_veressa_254 = {
+				color = { 72 104 30 }
+				b_veressa_95 = {
+					province = 94
+				}
+			}
+		}
+	}
+}
+
+e_gnoblar_29 = {
+	color = { 127 179 59 }
+	capital = c_karak_eight_peaks_277
+	k_crooked_moon_33 = {
+		color = { 213 109 183 }
+		capital = c_karak_eight_peaks_277
+		d_crooked_moon_307 = {
+			color = { 233 155 231 }
+			capital = c_karak_eight_peaks_277
+			c_karak_eight_peaks_277 = {
+				color = { 103 165 125 }
+				b_karak_eight_peaks_29 = {
+					province = 28
+				}
+			}
+		}
+	}
+}
+
+e_southlandic_32 = {
+	color = { 140 178 152 }
+	capital = c_athioposia_309
+	k_athiopos_38 = {
+		color = { 166 176 132 }
+		capital = c_athioposia_309
+		d_athioposia_331 = {
+			color = { 131 147 151 }
+			capital = c_athioposia_309
+			c_athioposia_309 = {
+				color = { 173 223 87 }
+				b_athioposia_493 = {
+					province = 353
+				}
+			}
+		}
+		d_tuchtzizaza_332 = {
+			color = { 204 78 182 }
+			capital = c_tuchtzizaza_310
+			c_tuchtzizaza_310 = {
+				color = { 40 154 118 }
+				b_tuchtzizaza_861 = {
+					province = 575
+				}
+			}
+		}
+	}
+	k_zamesi_39 = {
+		color = { 33 107 163 }
+		capital = c_zamaseia_311
+		d_zamaseia_333 = {
+			color = { 71 215 213 }
+			capital = c_zamaseia_311
+			c_zamaseia_311 = {
+				color = { 113 85 149 }
+				b_zamaseia_1033 = {
+					province = 687
+				}
+			}
+		}
+	}
+}
+
+e_chaos_33 = {
+	color = { 213 109 183 }
+	capital = c_chaos_portal_288
+	k_chaos_40 = {
+		color = { 106 38 194 }
+		capital = c_chaos_portal_288
+		d_khorne_317 = {
+			color = { 139 83 129 }
+			capital = c_chaos_portal_288
+			c_chaos_portal_288 = {
+				color = { 82 230 54 }
+				b_chaos_portal_1044 = {
+					province = 698
+				}
+			}
+			c_farzan_287 = {
+				color = { 215 93 229 }
+				b_farzan_1060 = {
+					province = 714
+				}
+				b_gnokvact_1059 = {
+					province = 713
+				}
+				b_dhephoinaaz_1061 = {
+					province = 715
+				}
+			}
+		}
+		d_tzeentch_318 = {
+			color = { 212 220 160 }
+			capital = c_hiol_293
+			c_hiol_293 = {
+				color = { 35 91 209 }
+				b_hiol_1052 = {
+					province = 706
+				}
+				b_crointaphren_1067 = {
+					province = 721
+				}
+			}
+			c_ghoim_289 = {
+				color = { 155 161 85 }
+				b_ghoim_1071 = {
+					province = 725
+				}
+				b_grelru_1070 = {
+					province = 724
+				}
+			}
+			c_erpuuc_290 = {
+				color = { 228 92 116 }
+				b_erpuuc_1045 = {
+					province = 699
+				}
+				b_haam_1069 = {
+					province = 723
+				}
+			}
+			c_blaom_291 = {
+				color = { 95 229 147 }
+				b_blaom_1064 = {
+					province = 718
+				}
+				b_sabouxuuriz_1062 = {
+					province = 716
+				}
+				b_rianddo_1063 = {
+					province = 717
+				}
+			}
+			c_huntigea_292 = {
+				color = { 168 160 178 }
+				b_huntigea_1068 = {
+					province = 722
+				}
+				b_chathan_1050 = {
+					province = 704
+				}
+				b_kruxthom_1051 = {
+					province = 705
+				}
+				b_wial_1065 = {
+					province = 719
+				}
+				b_brorsubbao_1066 = {
+					province = 720
+				}
+				b_brortermmec_1072 = {
+					province = 726
+				}
+			}
+		}
+		d_nurgle_319 = {
+			color = { 79 151 191 }
+			capital = c_cuurpon_294
+			c_cuurpon_294 = {
+				color = { 108 228 34 }
+				b_cuurpon_1058 = {
+					province = 712
+				}
+				b_sthoizen_1053 = {
+					province = 707
+				}
+			}
+			c_nonsoinakioh_295 = {
+				color = { 181 159 65 }
+				b_nonsoinakioh_1057 = {
+					province = 711
+				}
+				b_xiulthun_1054 = {
+					province = 708
+				}
+				b_ernoturth_1056 = {
+					province = 710
+				}
+			}
+		}
+		d_slaanesh_320 = {
+			color = { 152 82 222 }
+			capital = c_bemfouxuuxes_296
+			c_bemfouxuuxes_296 = {
+				color = { 48 90 96 }
+				b_bemfouxuuxes_1055 = {
+					province = 709
+				}
+			}
+		}
+		d_hung_321 = {
+			color = { 225 219 47 }
+			capital = c_trias_298
+			c_trias_298 = {
+				color = { 194 158 158 }
+				b_trias_1048 = {
+					province = 702
+				}
+				b_aathiurtoc_1047 = {
+					province = 701
+				}
+				b_kedreah_1049 = {
+					province = 703
+				}
+			}
+			c_givzie_297 = {
+				color = { 121 227 127 }
+				b_givzie_545 = {
+					province = 385
+				}
+				b_rekaodrial_1046 = {
+					province = 700
+				}
+			}
+		}
+	}
+	k_norsca_8 = {
+		color = { 36 186 232 }
+		capital = c_hrakom_66
+		d_graeling_214 = {
+			color = { 36 186 232 }
+			capital = c_fjaergardhold_63
+			c_fjaergardhold_63 = {
+				color = { 137 99 83 }
+				b_fjaergardhold_85 = {
+					province = 84
+				}
+			}
+		}
+		d_varg_215 = {
+			color = { 109 117 57 }
+			capital = c_finsviik_64
+			c_finsviik_64 = {
+				color = { 210 30 114 }
+				b_finsviik_84 = {
+					province = 83
+				}
+				b_skjold_6 = {
+					province = 6
+				}
+			}
+		}
+		d_aesling_216 = {
+			color = { 182 48 88 }
+			capital = c_morkestaar_65
+			c_morkestaar_65 = {
+				color = { 77 167 145 }
+				b_morkestaar_83 = {
+					province = 82
+				}
+				b_rugard_82 = {
+					province = 81
+				}
+			}
+		}
+		d_bjorling_217 = {
+			color = { 49 185 119 }
+			capital = c_hrakom_66
+			c_hrakom_66 = {
+				color = { 150 98 176 }
+				b_hrakom_86 = {
+					province = 85
+				}
+				b_iskvard_87 = {
+					province = 86
+				}
+				b_strovengaard_88 = {
+					province = 87
+				}
+			}
+		}
+		d_skraeling_218 = {
+			color = { 122 116 150 }
+			capital = c_suderholm_67
+			c_suderholm_67 = {
+				color = { 223 235 207 }
+				b_suderholm_936 = {
+					province = 622
+				}
+				b_aarvik_89 = {
+					province = 88
+				}
+			}
+		}
+		d_sarl_219 = {
+			color = { 195 47 181 }
+			capital = c_stormstaad_68
+			c_stormstaad_68 = {
+				color = { 90 166 32 }
+				b_stormstaad_90 = {
+					province = 89
+				}
+			}
+		}
+		d_baersonling_220 = {
+			color = { 62 184 212 }
+			capital = c_winterpyre_69
+			c_winterpyre_69 = {
+				color = { 163 97 63 }
+				b_winterpyre_81 = {
+					province = 80
+				}
+				b_arothborg_91 = {
+					province = 90
+				}
+			}
+		}
+	}
+	k_kislev_30 = {
+		color = { 200 110 90 }
+		capital = c_kislev_58
+		d_northern_207 = {
+			color = { 143 51 221 }
+			capital = c_ungalya_56
+			c_ungalya_56 = {
+				color = { 38 170 72 }
+				b_ungalya_94 = {
+					province = 93
+				}
+				b_ostrov_677 = {
+					province = 475
+				}
+			}
+		}
+		d_western_208 = {
+			color = { 216 188 46 }
+			capital = c_erengrad_57
+			c_erengrad_57 = {
+				color = { 111 101 103 }
+				b_erengrad_92 = {
+					province = 91
+				}
+				b_shuteshkin_547 = {
+					province = 387
+				}
+			}
+		}
+		d_southern_209 = {
+			color = { 83 119 77 }
+			capital = c_kislev_58
+			c_kislev_58 = {
+				color = { 184 32 134 }
+				b_kislev_26 = {
+					province = 26
+				}
+				b_minetsk_498 = {
+					province = 356
+				}
+				b_resov_950 = {
+					province = 633
+				}
+			}
+		}
+		d_eastern_210 = {
+			color = { 156 50 108 }
+			capital = c_praag_59
+			c_praag_59 = {
+				color = { 51 169 165 }
+				b_praag_93 = {
+					province = 92
+				}
+			}
+		}
+	}
+	k_the_empire_7 = {
+		color = { 169 49 201 }
+		capital = c_altdorf_11
+		d_ostland_170 = {
+			color = { 120 132 104 }
+			capital = c_tuweinaunin_1
+			c_tuweinaunin_1 = {
+				color = { 143 51 221 }
+				b_tuweinaunin_941 = {
+					province = 626
+				}
+				b_wolfensburg_50 = {
+					province = 49
+				}
+			}
+		}
+		d_ostermark_171 = {
+			color = { 193 63 135 }
+			capital = c_bechafen_2
+			c_bechafen_2 = {
+				color = { 216 188 46 }
+				b_bechafen_53 = {
+					province = 52
+				}
+			}
+		}
+		d_hochland_173 = {
+			color = { 133 131 197 }
+			capital = c_hergig_3
+			c_hergig_3 = {
+				color = { 83 119 77 }
+				b_hergig_51 = {
+					province = 50
+				}
+			}
+		}
+		d_nordland_174 = {
+			color = { 206 62 228 }
+			capital = c_akendorf_4
+			c_akendorf_4 = {
+				color = { 156 50 108 }
+				b_akendorf_939 = {
+					province = 624
+				}
+				b_birbachwei_426 = {
+					province = 310
+				}
+			}
+			c_siggurdheim_5 = {
+				color = { 229 187 139 }
+				b_siggurdheim_617 = {
+					province = 432
+				}
+				b_salzenmund_49 = {
+					province = 48
+				}
+			}
+			c_domatburg_6 = {
+				color = { 96 118 170 }
+				b_domatburg_940 = {
+					province = 625
+				}
+				b_schipdorf_496 = {
+					province = 354
+				}
+			}
+		}
+		d_middenland_175 = {
+			color = { 73 199 53 }
+			capital = c_middenheim_8
+			c_middenheim_8 = {
+				color = { 36 186 232 }
+				b_middenheim_48 = {
+					province = 47
+				}
+				b_rench_877 = {
+					province = 587
+				}
+			}
+			c_sonnental_7 = {
+				color = { 169 49 201 }
+				b_sonnental_955 = {
+					province = 638
+				}
+				b_kozin_744 = {
+					province = 513
+				}
+			}
+		}
+		d_talabecland_176 = {
+			color = { 146 130 84 }
+			capital = c_talabheim_9
+			c_talabheim_9 = {
+				color = { 109 117 57 }
+				b_talabheim_52 = {
+					province = 51
+				}
+				b_munzig_952 = {
+					province = 635
+				}
+			}
+		}
+		d_stirland_177 = {
+			color = { 219 61 115 }
+			capital = c_wurtbad_10
+			c_wurtbad_10 = {
+				color = { 182 48 88 }
+				b_wurtbad_54 = {
+					province = 53
+				}
+			}
+		}
+		d_reikland_178 = {
+			color = { 86 198 146 }
+			capital = c_altdorf_11
+			c_altdorf_11 = {
+				color = { 49 185 119 }
+				b_altdorf_47 = {
+					province = 46
+				}
+				b_ripenin_963 = {
+					province = 645
+				}
+				b_chateau_frontiere_970 = {
+					province = 651
+				}
+			}
+		}
+		d_sudenburg_278 = {
+			color = { 176 96 156 }
+			capital = c_nuln_226
+			c_nuln_226 = {
+				color = { 88 182 192 }
+				b_nuln_203 = {
+					province = 166
+				}
+				b_sudenburg_34 = {
+					province = 33
+				}
+			}
+		}
+		d_leopoldheim_316 = {
+			color = { 66 152 98 }
+			capital = c_leopoldheim_286
+			c_leopoldheim_286 = {
+				color = { 142 162 198 }
+				b_leopoldheim_1043 = {
+					province = 697
+				}
+			}
+		}
+		d_marienburg_204 = {
+			color = { 130 52 128 }
+			capital = c_marienburg_51
+			c_marienburg_51 = {
+				color = { 85 103 123 }
+				b_marienburg_5 = {
+					province = 5
+				}
+				b_grunnenburg_951 = {
+					province = 634
+				}
+			}
+		}
+		d_western_205 = {
+			color = { 203 189 159 }
+			capital = c_hobel_52
+			c_hobel_52 = {
+				color = { 158 34 154 }
+				b_hobel_867 = {
+					province = 577
+				}
+				b_hinhorstad_551 = {
+					province = 390
+				}
+			}
+			c_sasrutach_53 = {
+				color = { 231 171 185 }
+				b_sasrutach_434 = {
+					province = 315
+				}
+				b_lednysorrig_99 = {
+					province = 98
+				}
+			}
+			c_fort_solace_54 = {
+				color = { 98 102 216 }
+				b_fort_solace_97 = {
+					province = 96
+				}
+			}
+		}
+		d_eastern_206 = {
+			color = { 70 120 190 }
+			capital = c_allinonsberg_55
+			c_allinonsberg_55 = {
+				color = { 171 33 41 }
+				b_allinonsberg_98 = {
+					province = 97
+				}
+				b_dachsfeld_374 = {
+					province = 275
+				}
+				b_aiterngen_624 = {
+					province = 437
+				}
+			}
+		}
+		d_oster_309 = {
+			color = { 173 223 87 }
+			capital = c_waldenhof_279
+			c_waldenhof_279 = {
+				color = { 43 233 187 }
+				b_waldenhof_46 = {
+					province = 45
+				}
+			}
+		}
+		d_ester_310 = {
+			color = { 40 154 118 }
+			capital = c_castle_drakenhof_280
+			c_castle_drakenhof_280 = {
+				color = { 116 164 218 }
+				b_castle_drakenhof_15 = {
+					province = 15
+				}
+			}
+		}
+	}
+	k_athel_loren_10 = {
+		color = { 182 48 88 }
+		capital = c_athel_tamarha_281
+		d_athel_tamarha_311 = {
+			color = { 113 85 149 }
+			capital = c_athel_tamarha_281
+			c_athel_tamarha_281 = {
+				color = { 189 95 43 }
+				b_athel_tamarha_8 = {
+					province = 8
+				}
+			}
+		}
+		d_tlaumye_312 = {
+			color = { 186 222 180 }
+			capital = c_tlaumye_282
+			c_tlaumye_282 = {
+				color = { 56 232 74 }
+				b_tlaumye_459 = {
+					province = 331
+				}
+			}
+		}
+		d_entheinele_313 = {
+			color = { 53 153 211 }
+			capital = c_entheinele_283
+			c_entheinele_283 = {
+				color = { 129 163 105 }
+				b_entheinele_580 = {
+					province = 411
+				}
+			}
+		}
+		d_lylela_314 = {
+			color = { 126 84 36 }
+			capital = c_natheas_284
+			c_natheas_284 = {
+				color = { 202 94 136 }
+				b_natheas_346 = {
+					province = 256
+				}
+			}
+		}
+		d_ellesi_315 = {
+			color = { 199 221 67 }
+			capital = c_ellesi_285
+			c_ellesi_285 = {
+				color = { 69 231 167 }
+				b_ellesi_1042 = {
+					province = 696
+				}
+			}
+		}
+	}
+	k_tilea_3 = {
+		color = { 83 119 77 }
+		capital = c_remas_33
+		d_remas_188 = {
+			color = { 198 126 44 }
+			capital = c_remas_33
+			c_remas_33 = {
+				color = { 213 109 183 }
+				b_remas_2 = {
+					province = 2
+				}
+			}
+		}
+		d_trantio_189 = {
+			color = { 65 57 75 }
+			capital = c_trantio_34
+			c_trantio_34 = {
+				color = { 80 40 214 }
+				b_trantio_36 = {
+					province = 35
+				}
+				b_marte_528 = {
+					province = 373
+				}
+			}
+		}
+		d_miragliano_190 = {
+			color = { 138 194 106 }
+			capital = c_monte_castello_36
+			c_monte_castello_36 = {
+				color = { 226 108 70 }
+				b_monte_castello_646 = {
+					province = 454
+				}
+				b_pavona_583 = {
+					province = 414
+				}
+			}
+			c_ciambupo_35 = {
+				color = { 153 177 39 }
+				b_ciambupo_649 = {
+					province = 457
+				}
+				b_miragliano_35 = {
+					province = 34
+				}
+			}
+		}
+		d_verezzo_191 = {
+			color = { 211 125 137 }
+			capital = c_verezzo_37
+			c_verezzo_37 = {
+				color = { 93 39 101 }
+				b_verezzo_37 = {
+					province = 36
+				}
+			}
+		}
+		d_luccini_192 = {
+			color = { 78 56 168 }
+			capital = c_luccini_38
+			c_luccini_38 = {
+				color = { 166 176 132 }
+				b_luccini_38 = {
+					province = 37
+				}
+				b_moni_911 = {
+					province = 606
+				}
+			}
+		}
+		d_tobaro_193 = {
+			color = { 151 193 199 }
+			capital = c_tobaro_39
+			c_tobaro_39 = {
+				color = { 33 107 163 }
+				b_tobaro_44 = {
+					province = 43
+				}
+				b_collebuone_397 = {
+					province = 290
+				}
+				b_sgurmia_994 = {
+					province = 667
+				}
+			}
+		}
+		d_skavenbligth_297 = {
+			color = { 121 227 127 }
+			capital = c_zoxaarux_255
+			c_zoxaarux_255 = {
+				color = { 145 35 61 }
+				b_zoxaarux_456 = {
+					province = 328
+				}
+				b_tuchos_392 = {
+					province = 286
+				}
+			}
+			c_skavenblight_256 = {
+				color = { 218 172 92 }
+				b_skavenblight_33 = {
+					province = 32
+				}
+				b_ekkzokhaz_394 = {
+					province = 287
+				}
+				b_karak_gnol_984 = {
+					province = 661
+				}
+			}
+		}
+	}
+	k_estalia_2 = {
+		color = { 216 188 46 }
+		capital = c_aguilas_28
+		d_obregon_182 = {
+			color = { 172 128 64 }
+			capital = c_sequegopera_21
+			c_sequegopera_21 = {
+				color = { 161 113 223 }
+				b_sequegopera_386 = {
+					province = 282
+				}
+				b_tembleras_453 = {
+					province = 327
+				}
+			}
+			c_astorias_19 = {
+				color = { 221 45 161 }
+				b_astorias_258 = {
+					province = 201
+				}
+				b_san_luis_40 = {
+					province = 39
+				}
+			}
+			c_madroreda_20 = {
+				color = { 88 182 192 }
+				b_madroreda_387 = {
+					province = 283
+				}
+				b_herzorinala_701 = {
+					province = 491
+				}
+			}
+		}
+		d_bilbali_183 = {
+			color = { 39 59 95 }
+			capital = c_barboza_22
+			c_barboza_22 = {
+				color = { 234 44 48 }
+				b_barboza_39 = {
+					province = 38
+				}
+			}
+		}
+		d_avila_184 = {
+			color = { 112 196 126 }
+			capital = c_alquzaro_24
+			c_alquzaro_24 = {
+				color = { 174 112 110 }
+				b_alquzaro_220 = {
+					province = 178
+				}
+				b_cebreros_525 = {
+					province = 370
+				}
+			}
+			c_barsellon_23 = {
+				color = { 101 181 79 }
+				b_barsellon_465 = {
+					province = 335
+				}
+				b_almagora_162 = {
+					province = 140
+				}
+			}
+			c_guaniar_25 = {
+				color = { 41 43 141 }
+				b_guaniar_648 = {
+					province = 456
+				}
+				b_barboza_310 = {
+					province = 231
+				}
+				b_chelvn_527 = {
+					province = 372
+				}
+				b_dojas_989 = {
+					province = 664
+				}
+			}
+			c_diamanterra_26 = {
+				color = { 114 180 172 }
+				b_diamanterra_395 = {
+					province = 288
+				}
+				b_almyria_168 = {
+					province = 142
+				}
+			}
+			c_miruero_27 = {
+				color = { 187 111 203 }
+				b_miruero_709 = {
+					province = 494
+				}
+				b_muros_41 = {
+					province = 40
+				}
+			}
+		}
+		d_magrita_185 = {
+			color = { 185 127 157 }
+			capital = c_aguilas_28
+			c_aguilas_28 = {
+				color = { 54 42 234 }
+				b_aguilas_1 = {
+					province = 1
+				}
+				b_magritta_43 = {
+					province = 42
+				}
+				b_belmoz_466 = {
+					province = 336
+				}
+			}
+		}
+		d_cantonia_186 = {
+			color = { 52 58 188 }
+			capital = c_vello_29
+			c_vello_29 = {
+				color = { 127 179 59 }
+				b_vello_391 = {
+					province = 285
+				}
+				b_solsona_45 = {
+					province = 44
+				}
+			}
+			c_azuara_30 = {
+				color = { 200 110 90 }
+				b_azuara_262 = {
+					province = 204
+				}
+				b_tor_koruali_983 = {
+					province = 660
+				}
+			}
+		}
+		d_novareno_187 = {
+			color = { 125 195 219 }
+			capital = c_durango_31
+			c_durango_31 = {
+				color = { 67 41 121 }
+				b_durango_342 = {
+					province = 252
+				}
+				b_geulata_343 = {
+					province = 253
+				}
+			}
+			c_bairal_32 = {
+				color = { 140 178 152 }
+				b_bairal_756 = {
+					province = 521
+				}
+				b_vizeaya_42 = {
+					province = 41
+				}
+				b_gualcazar_642 = {
+					province = 452
+				}
+			}
+		}
+	}
+	k_bretonnia_5 = {
+		color = { 229 187 139 }
+		capital = c_montfort_49
+		d_lyonesse_179 = {
+			color = { 159 129 177 }
+			capital = c_chantillon_13
+			c_chantillon_13 = {
+				color = { 195 47 181 }
+				b_chantillon_872 = {
+					province = 582
+				}
+				b_orvoy_273 = {
+					province = 212
+				}
+			}
+			c_larret_12 = {
+				color = { 122 116 150 }
+				b_larret_878 = {
+					province = 588
+				}
+				b_carcassonne_564 = {
+					province = 400
+				}
+			}
+			c_lyonesse_14 = {
+				color = { 62 184 212 }
+				b_lyonesse_183 = {
+					province = 150
+				}
+				b_lyonesse_66 = {
+					province = 65
+				}
+				b_couronne_376 = {
+					province = 276
+				}
+			}
+		}
+		d_languille_180 = {
+			color = { 232 60 208 }
+			capital = c_serrac_15
+			c_serrac_15 = {
+				color = { 135 115 37 }
+				b_serrac_947 = {
+					province = 630
+				}
+				b_oisillon_875 = {
+					province = 585
+				}
+			}
+			c_castle_sangasse_16 = {
+				color = { 208 46 68 }
+				b_castle_sangasse_801 = {
+					province = 541
+				}
+				b_languille_67 = {
+					province = 66
+				}
+			}
+		}
+		d_artoria_181 = {
+			color = { 99 197 33 }
+			capital = c_castle_artois_18
+			c_castle_artois_18 = {
+				color = { 148 114 130 }
+				b_castle_artois_70 = {
+					province = 69
+				}
+				b_vignellevil_331 = {
+					province = 244
+				}
+			}
+			c_castle_garamont_17 = {
+				color = { 75 183 99 }
+				b_castle_garamont_743 = {
+					province = 512
+				}
+				b_chateau_hane_876 = {
+					province = 586
+				}
+			}
+		}
+		d_couronne_194 = {
+			color = { 224 124 230 }
+			capital = c_mousillon_40
+			c_mousillon_40 = {
+				color = { 106 38 194 }
+				b_mousillon_296 = {
+					province = 225
+				}
+				b_couronne_68 = {
+					province = 67
+				}
+				b_hendaye_870 = {
+					province = 580
+				}
+			}
+		}
+		d_mousillon_195 = {
+			color = { 91 55 55 }
+			capital = c_quenelles_41
+			c_quenelles_41 = {
+				color = { 179 175 225 }
+				b_quenelles_565 = {
+					province = 401
+				}
+				b_mousillon_71 = {
+					province = 70
+				}
+				b_mousillon_335 = {
+					province = 247
+				}
+			}
+		}
+		d_bordeleaux_196 = {
+			color = { 164 192 86 }
+			capital = c_castle_desfleuve_42
+			c_castle_desfleuve_42 = {
+				color = { 46 106 50 }
+				b_castle_desfleuve_807 = {
+					province = 546
+				}
+				b_darrois_207 = {
+					province = 170
+				}
+				b_bordeleaux_338 = {
+					province = 249
+				}
+			}
+			c_castle_bordeleaux_43 = {
+				color = { 119 37 81 }
+				b_castle_bordeleaux_72 = {
+					province = 71
+				}
+			}
+		}
+		d_aquitaine_197 = {
+			color = { 31 123 117 }
+			capital = c_cervoy_44
+			c_cervoy_44 = {
+				color = { 192 174 112 }
+				b_cervoy_442 = {
+					province = 321
+				}
+				b_aquitaine_73 = {
+					province = 72
+				}
+			}
+		}
+		d_brionne_198 = {
+			color = { 104 54 148 }
+			capital = c_brionne_45
+			c_brionne_45 = {
+				color = { 59 105 143 }
+				b_brionne_637 = {
+					province = 448
+				}
+				b_brionne_75 = {
+					province = 74
+				}
+			}
+		}
+		d_carcassonne_199 = {
+			color = { 177 191 179 }
+			capital = c_castle_carcassonne_46
+			c_castle_carcassonne_46 = {
+				color = { 132 36 174 }
+				b_castle_carcassonne_76 = {
+					province = 75
+				}
+			}
+		}
+		d_quenelles_200 = {
+			color = { 44 122 210 }
+			capital = c_ordontargeaux_47
+			c_ordontargeaux_47 = {
+				color = { 205 173 205 }
+				b_ordontargeaux_636 = {
+					province = 447
+				}
+				b_quenelles_96 = {
+					province = 95
+				}
+				b_bastonne_176 = {
+					province = 147
+				}
+			}
+		}
+		d_parravon_201 = {
+			color = { 117 53 35 }
+			capital = c_parravon_48
+			c_parravon_48 = {
+				color = { 72 104 30 }
+				b_parravon_74 = {
+					province = 73
+				}
+				b_march_632 = {
+					province = 443
+				}
+			}
+		}
+		d_montfort_202 = {
+			color = { 190 190 66 }
+			capital = c_montfort_49
+			c_montfort_49 = {
+				color = { 145 35 61 }
+				b_montfort_561 = {
+					province = 397
+				}
+				b_antoch_4 = {
+					province = 4
+				}
+			}
+		}
+		d_gisoreux_203 = {
+			color = { 57 121 97 }
+			capital = c_pitesses_50
+			c_pitesses_50 = {
+				color = { 218 172 92 }
+				b_pitesses_621 = {
+					province = 434
+				}
+				b_gisoreux_69 = {
+					province = 68
+				}
+			}
+		}
+	}
+	k_border_princes_4 = {
+		color = { 156 50 108 }
+		capital = c_khypris_91
+		d_ardesia_232 = {
+			color = { 114 180 172 }
+			capital = c_ardes_86
+			c_ardes_86 = {
+				color = { 168 160 178 }
+				b_ardes_1034 = {
+					province = 688
+				}
+			}
+		}
+		d_ostsa_233 = {
+			color = { 187 111 203 }
+			capital = c_ostiare_87
+			c_ostiare_87 = {
+				color = { 35 91 209 }
+				b_ostiare_1035 = {
+					province = 689
+				}
+			}
+		}
+		d_rauguallsese_234 = {
+			color = { 54 42 234 }
+			capital = c_lostshield_88
+			c_lostshield_88 = {
+				color = { 108 228 34 }
+				b_lostshield_833 = {
+					province = 562
+				}
+				b_heartglen_400 = {
+					province = 292
+				}
+				b_hillrock_711 = {
+					province = 495
+				}
+			}
+		}
+		d_tolzit_235 = {
+			color = { 127 179 59 }
+			capital = c_quickwardge_89
+			c_quickwardge_89 = {
+				color = { 181 159 65 }
+				b_quickwardge_1036 = {
+					province = 690
+				}
+			}
+		}
+		d_manoegitia_236 = {
+			color = { 200 110 90 }
+			capital = c_condanelto_90
+			c_condanelto_90 = {
+				color = { 48 90 96 }
+				b_condanelto_1037 = {
+					province = 691
+				}
+			}
+		}
+		d_fangfistscaria_237 = {
+			color = { 67 41 121 }
+			capital = c_khypris_91
+			c_khypris_91 = {
+				color = { 121 227 127 }
+				b_khypris_3 = {
+					province = 3
+				}
+				b_bellder_263 = {
+					province = 205
+				}
+			}
+		}
+		d_nikkola_238 = {
+			color = { 140 178 152 }
+			capital = c_scorchstal_92
+			c_scorchstal_92 = {
+				color = { 194 158 158 }
+				b_scorchstal_705 = {
+					province = 493
+				}
+			}
+		}
+		d_hungia_239 = {
+			color = { 213 109 183 }
+			capital = c_mosshield_93
+			c_mosshield_93 = {
+				color = { 61 89 189 }
+				b_mosshield_461 = {
+					province = 333
+				}
+				b_dawnkeep_462 = {
+					province = 334
+				}
+			}
+		}
+		d_yeltunbe_240 = {
+			color = { 80 40 214 }
+			capital = c_dawnkeepmaw_94
+			c_dawnkeepmaw_94 = {
+				color = { 134 226 220 }
+				b_dawnkeepmaw_211 = {
+					province = 174
+				}
+			}
+		}
+	}
+	k_grand_cathay_12 = {
+		color = { 122 116 150 }
+		capital = c_shang_yang_109
+		d_imperial_241 = {
+			color = { 153 177 39 }
+			capital = c_siping_95
+			c_siping_95 = {
+				color = { 207 157 45 }
+				b_siping_627 = {
+					province = 439
+				}
+				b_baoqing_568 = {
+					province = 403
+				}
+			}
+			c_shungyuan_96 = {
+				color = { 74 88 76 }
+				b_shungyuan_811 = {
+					province = 549
+				}
+				b_po_mei_810 = {
+					province = 548
+				}
+			}
+			c_yangzhou_97 = {
+				color = { 147 225 107 }
+				b_yangzhou_640 = {
+					province = 450
+				}
+				b_nanchang_972 = {
+					province = 652
+				}
+			}
+			c_ningtian_98 = {
+				color = { 220 156 138 }
+				b_ningtian_886 = {
+					province = 591
+				}
+				b_beichai_809 = {
+					province = 547
+				}
+				b_denyundian_883 = {
+					province = 589
+				}
+			}
+		}
+		d_northern_242 = {
+			color = { 226 108 70 }
+			capital = c_donlu_100
+			c_donlu_100 = {
+				color = { 160 224 200 }
+				b_donlu_499 = {
+					province = 357
+				}
+				b_guangxing_559 = {
+					province = 395
+				}
+				b_chang_683 = {
+					province = 480
+				}
+			}
+			c_ganzhou_99 = {
+				color = { 87 87 169 }
+				b_ganzhou_967 = {
+					province = 649
+				}
+				b_tingzhou_439 = {
+					province = 319
+				}
+			}
+			c_jiangning_101 = {
+				color = { 233 155 231 }
+				b_jiangning_953 = {
+					province = 636
+				}
+				b_tongzhou_638 = {
+					province = 449
+				}
+				b_sichejian_959 = {
+					province = 641
+				}
+			}
+			c_caozhou_102 = {
+				color = { 100 86 56 }
+				b_caozhou_956 = {
+					province = 639
+				}
+				b_tatong_184 = {
+					province = 151
+				}
+				b_shuowulin_686 = {
+					province = 483
+				}
+				b_chang_958 = {
+					province = 640
+				}
+			}
+			c_xianchun_103 = {
+				color = { 173 223 87 }
+				b_xianchun_961 = {
+					province = 643
+				}
+				b_yingzhou_300 = {
+					province = 226
+				}
+			}
+		}
+		d_eastern_243 = {
+			color = { 93 39 101 }
+			capital = c_huangxin_105
+			c_huangxin_105 = {
+				color = { 113 85 149 }
+				b_huangxin_800 = {
+					province = 540
+				}
+				b_fengli_742 = {
+					province = 511
+				}
+			}
+			c_sizhou_104 = {
+				color = { 40 154 118 }
+				b_sizhou_966 = {
+					province = 648
+				}
+				b_shang_wu_816 = {
+					province = 552
+				}
+				b_tingzhou_962 = {
+					province = 644
+				}
+				b_danan_964 = {
+					province = 646
+				}
+			}
+			c_weng_chang_106 = {
+				color = { 186 222 180 }
+				b_weng_chang_825 = {
+					province = 556
+				}
+				b_heihui_239 = {
+					province = 189
+				}
+				b_nading_344 = {
+					province = 254
+				}
+				b_guang_445 = {
+					province = 324
+				}
+				b_caozhou_570 = {
+					province = 404
+				}
+				b_xijiang_573 = {
+					province = 406
+				}
+				b_huding_581 = {
+					province = 412
+				}
+				b_shuoyang_622 = {
+					province = 435
+				}
+				b_chong_692 = {
+					province = 486
+				}
+				b_nengan_697 = {
+					province = 489
+				}
+				b_luangyuan_754 = {
+					province = 520
+				}
+				b_nan_gau_803 = {
+					province = 543
+				}
+				b_zheng_823 = {
+					province = 555
+				}
+				b_ruizhou_891 = {
+					province = 594
+				}
+				b_yinglong_896 = {
+					province = 597
+				}
+				b_xidunyang_973 = {
+					province = 653
+				}
+				b_guang_985 = {
+					province = 662
+				}
+			}
+			c_lilanan_107 = {
+				color = { 53 153 211 }
+				b_lilanan_352 = {
+					province = 262
+				}
+				b_shaoyuan_188 = {
+					province = 153
+				}
+				b_zhang_396 = {
+					province = 289
+				}
+				b_jilingan_529 = {
+					province = 374
+				}
+				b_yibeihua_587 = {
+					province = 416
+				}
+				b_qinhuading_653 = {
+					province = 460
+				}
+				b_nankang_703 = {
+					province = 492
+				}
+				b_zhejian_902 = {
+					province = 600
+				}
+				b_shaozhou_986 = {
+					province = 663
+				}
+			}
+			c_gongchong_108 = {
+				color = { 126 84 36 }
+				b_gongchong_138 = {
+					province = 125
+				}
+				b_mishan_154 = {
+					province = 136
+				}
+				b_hanzhou_212 = {
+					province = 175
+				}
+				b_xingzhou_652 = {
+					province = 459
+				}
+				b_luzhou_829 = {
+					province = 559
+				}
+				b_changuo_900 = {
+					province = 598
+				}
+				b_zezhou_904 = {
+					province = 601
+				}
+				b_jinping_906 = {
+					province = 603
+				}
+				b_yichading_980 = {
+					province = 658
+				}
+				b_shaoyang_991 = {
+					province = 666
+				}
+			}
+			c_shang_yang_109 = {
+				color = { 199 221 67 }
+				b_shang_yang_10 = {
+					province = 10
+				}
+				b_dinan_504 = {
+					province = 361
+				}
+			}
+			c_changzhou_110 = {
+				color = { 66 152 98 }
+				b_changzhou_458 = {
+					province = 330
+				}
+				b_xiliang_151 = {
+					province = 135
+				}
+			}
+			c_yiqingtian_111 = {
+				color = { 139 83 129 }
+				b_yiqingtian_384 = {
+					province = 281
+				}
+				b_taidujing_196 = {
+					province = 160
+				}
+			}
+			c_fu_chow_112 = {
+				color = { 212 220 160 }
+				b_fu_chow_240 = {
+					province = 190
+				}
+			}
+			c_gaozhou_113 = {
+				color = { 79 151 191 }
+				b_gaozhou_305 = {
+					province = 229
+				}
+				b_shuan_280 = {
+					province = 216
+				}
+			}
+			c_guanglong_114 = {
+				color = { 152 82 222 }
+				b_guanglong_901 = {
+					province = 599
+				}
+			}
+		}
+		d_central_244 = {
+			color = { 166 176 132 }
+			capital = c_angyao_118
+			c_angyao_118 = {
+				color = { 32 218 140 }
+				b_angyao_889 = {
+					province = 593
+				}
+				b_gaozhou_975 = {
+					province = 655
+				}
+			}
+			c_huang_115 = {
+				color = { 225 219 47 }
+				b_huang_978 = {
+					province = 656
+				}
+				b_jianchun_451 = {
+					province = 325
+				}
+			}
+			c_lianzhou_116 = {
+				color = { 92 150 78 }
+				b_lianzhou_523 = {
+					province = 369
+				}
+				b_luzhoubin_521 = {
+					province = 368
+				}
+				b_caozhou_828 = {
+					province = 558
+				}
+				b_yunlu_982 = {
+					province = 659
+				}
+			}
+			c_heibeihua_117 = {
+				color = { 165 81 109 }
+				b_heibeihua_351 = {
+					province = 261
+				}
+				b_hangzhong_349 = {
+					province = 259
+				}
+				b_yazhou_651 = {
+					province = 458
+				}
+				b_fu_hung_831 = {
+					province = 561
+				}
+			}
+			c_fenzhou_119 = {
+				color = { 105 149 171 }
+				b_fenzhou_582 = {
+					province = 413
+				}
+				b_luzhou_647 = {
+					province = 455
+				}
+				b_fuzhounyiy_822 = {
+					province = 554
+				}
+				b_chong_979 = {
+					province = 657
+				}
+			}
+		}
+		d_western_245 = {
+			color = { 33 107 163 }
+			capital = c_nan_li_120
+			c_nan_li_120 = {
+				color = { 178 80 202 }
+				b_nan_li_804 = {
+					province = 544
+				}
+				b_jinzhou_626 = {
+					province = 438
+				}
+				b_jining_629 = {
+					province = 441
+				}
+			}
+			c_yangyuanz_121 = {
+				color = { 45 217 233 }
+				b_yangyuanz_520 = {
+					province = 367
+				}
+				b_zhenkang_827 = {
+					province = 557
+				}
+			}
+			c_chang_122 = {
+				color = { 118 148 58 }
+				b_chang_444 = {
+					province = 323
+				}
+				b_yanzhou_960 = {
+					province = 642
+				}
+			}
+		}
+		d_southern_246 = {
+			color = { 106 38 194 }
+			capital = c_yankang_123
+			c_yankang_123 = {
+				color = { 191 79 89 }
+				b_yankang_990 = {
+					province = 665
+				}
+				b_siche_767 = {
+					province = 527
+				}
+			}
+			c_henanjiang_124 = {
+				color = { 58 216 120 }
+				b_henanjiang_282 = {
+					province = 218
+				}
+				b_chuzhou_353 = {
+					province = 263
+				}
+			}
+			c_tongzhong_125 = {
+				color = { 131 147 151 }
+				b_tongzhong_469 = {
+					province = 338
+				}
+				b_wenzhou_470 = {
+					province = 339
+				}
+				b_xiheng_765 = {
+					province = 526
+				}
+				b_lihuaxing_775 = {
+					province = 530
+				}
+				b_ganzhou_912 = {
+					province = 607
+				}
+			}
+			c_dading_126 = {
+				color = { 204 78 182 }
+				b_dading_399 = {
+					province = 291
+				}
+				b_chongtian_222 = {
+					province = 179
+				}
+				b_hezhou_655 = {
+					province = 461
+				}
+				b_yuande_656 = {
+					province = 462
+				}
+			}
+			c_baihuaian_127 = {
+				color = { 71 215 213 }
+				b_baihuaian_281 = {
+					province = 217
+				}
+				b_lianzhou_713 = {
+					province = 496
+				}
+				b_lianzhou_836 = {
+					province = 563
+				}
+				b_shuangyang_837 = {
+					province = 564
+				}
+				b_mangrove_port_838 = {
+					province = 565
+				}
+				b_xianchong_907 = {
+					province = 604
+				}
+				b_xingzhou_1003 = {
+					province = 672
+				}
+			}
+			c_xuzhoulan_128 = {
+				color = { 144 146 38 }
+				b_xuzhoulan_119 = {
+					province = 115
+				}
+			}
+		}
+		d_great_khosun_279 = {
+			color = { 43 233 187 }
+			capital = c_dongchuan_228
+			c_dongchuan_228 = {
+				color = { 234 44 48 }
+				b_dongchuan_231 = {
+					province = 185
+				}
+				b_shaozhou_501 = {
+					province = 359
+				}
+				b_xingzhoua_868 = {
+					province = 578
+				}
+			}
+			c_tongzhou_227 = {
+				color = { 161 113 223 }
+				b_tongzhou_425 = {
+					province = 309
+				}
+				b_shinan_173 = {
+					province = 146
+				}
+				b_danyang_251 = {
+					province = 196
+				}
+				b_changning_427 = {
+					province = 311
+				}
+				b_xinchang_684 = {
+					province = 481
+				}
+			}
+			c_dengzhou_229 = {
+				color = { 101 181 79 }
+				b_dengzhou_381 = {
+					province = 280
+				}
+				b_xuzhou_379 = {
+					province = 278
+				}
+				b_qinan_688 = {
+					province = 484
+				}
+			}
+			c_changning_230 = {
+				color = { 174 112 110 }
+				b_changning_567 = {
+					province = 402
+				}
+				b_wei_jin_748 = {
+					province = 516
+				}
+			}
+			c_tailiang_231 = {
+				color = { 41 43 141 }
+				b_tailiang_122 = {
+					province = 118
+				}
+				b_xincheng_436 = {
+					province = 317
+				}
+			}
+		}
+	}
+	k_hobgoblia_13 = {
+		color = { 195 47 181 }
+		capital = c_thult_307
+		d_chiaf_322 = {
+			color = { 92 150 78 }
+			capital = c_goblin_299
+			c_goblin_299 = {
+				color = { 61 89 189 }
+				b_goblin_424 = {
+					province = 308
+				}
+				b_paashas_554 = {
+					province = 393
+				}
+			}
+			c_swagaald_300 = {
+				color = { 134 226 220 }
+				b_swagaald_553 = {
+					province = 392
+				}
+				b_suirx_372 = {
+					province = 274
+				}
+			}
+		}
+		d_sluyagh_323 = {
+			color = { 165 81 109 }
+			capital = c_sluyagh_301
+			c_sluyagh_301 = {
+				color = { 207 157 45 }
+				b_sluyagh_548 = {
+					province = 388
+				}
+				b_moft_546 = {
+					province = 386
+				}
+			}
+		}
+		d_hoboklig_324 = {
+			color = { 32 218 140 }
+			capital = c_hoboklig_302
+			c_hoboklig_302 = {
+				color = { 74 88 76 }
+				b_hoboklig_679 = {
+					province = 477
+				}
+				b_phig_682 = {
+					province = 479
+				}
+			}
+		}
+		d_bryb_325 = {
+			color = { 105 149 171 }
+			capital = c_bryb_303
+			c_bryb_303 = {
+				color = { 147 225 107 }
+				b_bryb_802 = {
+					province = 542
+				}
+				b_kuilaxi_433 = {
+					province = 314
+				}
+			}
+		}
+		d_prean_326 = {
+			color = { 178 80 202 }
+			capital = c_prean_304
+			c_prean_304 = {
+				color = { 220 156 138 }
+				b_prean_560 = {
+					province = 396
+				}
+				b_thres_429 = {
+					province = 312
+				}
+				b_bhiaxi_871 = {
+					province = 581
+				}
+			}
+		}
+		d_felx_327 = {
+			color = { 45 217 233 }
+			capital = c_felx_305
+			c_felx_305 = {
+				color = { 87 87 169 }
+				b_felx_620 = {
+					province = 433
+				}
+			}
+		}
+		d_givziedak_328 = {
+			color = { 118 148 58 }
+			capital = c_givziedak_306
+			c_givziedak_306 = {
+				color = { 160 224 200 }
+				b_givziedak_500 = {
+					province = 358
+				}
+				b_glamzofs_432 = {
+					province = 313
+				}
+				b_xurx_556 = {
+					province = 394
+				}
+			}
+		}
+		d_dier_329 = {
+			color = { 191 79 89 }
+			capital = c_thult_307
+			c_thult_307 = {
+				color = { 233 155 231 }
+				b_thult_11 = {
+					province = 11
+				}
+			}
+		}
+	}
+	k_naggaroth_20 = {
+		color = { 88 182 192 }
+		capital = c_naggarond_70
+		d_naggarond_221 = {
+			color = { 135 115 37 }
+			capital = c_naggarond_70
+			c_naggarond_70 = {
+				color = { 30 234 94 }
+				b_naggarond_100 = {
+					province = 99
+				}
+			}
+		}
+		d_hag_graef_222 = {
+			color = { 208 46 68 }
+			capital = c_hag_graef_71
+			c_hag_graef_71 = {
+				color = { 103 165 125 }
+				b_hag_graef_101 = {
+					province = 100
+				}
+			}
+		}
+		d_forgebound_223 = {
+			color = { 75 183 99 }
+			capital = c_clar_karond_72
+			c_clar_karond_72 = {
+				color = { 176 96 156 }
+				b_clar_karond_102 = {
+					province = 101
+				}
+				b_tor_gard_937 = {
+					province = 623
+				}
+			}
+			c_aidurthalk_73 = {
+				color = { 43 233 187 }
+				b_aidurthalk_799 = {
+					province = 539
+				}
+				b_dogith_371 = {
+					province = 273
+				}
+			}
+		}
+		d_karond_kar_224 = {
+			color = { 148 114 130 }
+			capital = c_karond_kar_74
+			c_karond_kar_74 = {
+				color = { 116 164 218 }
+				b_karond_kar_103 = {
+					province = 102
+				}
+			}
+		}
+		d_ssildra_tor_225 = {
+			color = { 221 45 161 }
+			capital = c_sirdra_78
+			c_sirdra_78 = {
+				color = { 202 94 136 }
+				b_sirdra_866 = {
+					province = 576
+				}
+				b_trineramath_497 = {
+					province = 355
+				}
+				b_drelnar_616 = {
+					province = 431
+				}
+				b_haggref_873 = {
+					province = 583
+				}
+			}
+			c_dusklynghlo_75 = {
+				color = { 189 95 43 }
+				b_dusklynghlo_745 = {
+					province = 514
+				}
+				b_fanennipal_378 = {
+					province = 277
+				}
+			}
+			c_shanas_76 = {
+				color = { 56 232 74 }
+				b_shanas_681 = {
+					province = 478
+				}
+				b_arnheim_104 = {
+					province = 103
+				}
+			}
+			c_kardorden_77 = {
+				color = { 129 163 105 }
+				b_kardorden_143 = {
+					province = 130
+				}
+				b_nagheregwen_869 = {
+					province = 579
+				}
+				b_saphethion_949 = {
+					province = 632
+				}
+			}
+			c_rauialmahassad_79 = {
+				color = { 69 231 167 }
+				b_rauialmahassad_685 = {
+					province = 482
+				}
+				b_tol_ista_948 = {
+					province = 631
+				}
+			}
+		}
+		d_pleassureia_226 = {
+			color = { 88 182 192 }
+			capital = c_cairn_auriel_80
+			c_cairn_auriel_80 = {
+				color = { 142 162 198 }
+				b_cairn_auriel_945 = {
+					province = 628
+				}
+				b_haggwendralad_550 = {
+					province = 389
+				}
+			}
+			c_venathdrenrau_81 = {
+				color = { 215 93 229 }
+				b_venathdrenrau_146 = {
+					province = 132
+				}
+				b_rauluibenhethu_136 = {
+					province = 124
+				}
+				b_ithethaladrith_252 = {
+					province = 197
+				}
+				b_ithagrothryn_301 = {
+					province = 227
+				}
+				b_undhemmachalad_333 = {
+					province = 245
+				}
+			}
+			c_undrith_82 = {
+				color = { 82 230 54 }
+				b_undrith_206 = {
+					province = 169
+				}
+				b_uthagheire_337 = {
+					province = 248
+				}
+				b_glaharithrrhin_513 = {
+					province = 364
+				}
+				b_dreggausthasha_806 = {
+					province = 545
+				}
+				b_raugausthiyl_885 = {
+					province = 590
+				}
+			}
+			c_bleak_hold_83 = {
+				color = { 155 161 85 }
+				b_bleak_hold_105 = {
+					province = 104
+				}
+				b_moriath_274 = {
+					province = 213
+				}
+				b_barathome_946 = {
+					province = 629
+				}
+				b_undrauth_954 = {
+					province = 637
+				}
+			}
+			c_ghrond_84 = {
+				color = { 228 92 116 }
+				b_ghrond_813 = {
+					province = 550
+				}
+				b_shanatheiril_186 = {
+					province = 152
+				}
+				b_tyuetheassad_276 = {
+					province = 215
+				}
+				b_tlind_631 = {
+					province = 442
+				}
+			}
+			c_shaulryn_85 = {
+				color = { 95 229 147 }
+				b_shaulryn_509 = {
+					province = 363
+				}
+			}
+		}
+	}
+	k_zharr_naggrund_15 = {
+		color = { 135 115 37 }
+		capital = c_zamunz_246
+		d_zizin_290 = {
+			color = { 228 92 116 }
+			capital = c_zamunz_246
+			c_zamunz_246 = {
+				color = { 106 38 194 }
+				b_zamunz_678 = {
+					province = 476
+				}
+				b_uzkulak_13 = {
+					province = 13
+				}
+				b_naragz_552 = {
+					province = 391
+				}
+			}
+		}
+	}
+}
+
+e_hre = { landless = yes color = { 80 80 80 } }
+e_byzantium = { landless = yes color = { 80 80 80 } }
+e_roman_empire = { landless = yes color = { 80 80 80 } }

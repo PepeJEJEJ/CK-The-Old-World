@@ -1,0 +1,6 @@
+﻿# Norscan — generated start era + innovations
+1066.1.1 = {
+	discover_innovation = innovation_catapult
+	discover_innovation = innovation_city_planning
+	discover_innovation = innovation_mustering_grounds
+}
