@@ -1,65 +1,204 @@
 # Contributing to CK-The-Old-World
- 
-First of all, thank you for your interest in contributing!
- 
-This project is currently a Work In Progress (WIP), so bugs, unfinished features and balance issues are expected. Any help is appreciated.
- 
-## Ways to Contribute
- 
-### Reporting Bugs
- 
-Before opening an issue:
- 
-1. Check if the bug has already been reported.
-2. Make sure you are using the latest version.
-3. Include as much information as possible:
+
+Thank you for your interest in contributing to CK-The-Old-World.
+
+This project is currently a Work In Progress (WIP). Contributions of any kind, including bug reports, code improvements, balance changes, artwork, localisation and documentation, are welcome.
+
+---
+
+## Before You Start
+
+Please:
+
+- Check existing Issues and Pull Requests before creating a new one.
+- Keep discussions constructive and respectful.
+- Test your changes whenever possible.
+- Follow the existing project structure.
+
+---
+
+## Reporting Bugs
+
+When reporting a bug, include:
+
+### Summary
+
+A short description of the problem.
+
+### Steps to Reproduce
+
+1. Go to ...
+2. Perform ...
+3. Observe ...
+
+### Expected Result
+
+Describe what should happen.
+
+### Actual Result
+
+Describe what actually happens.
+
+### Additional Information
+
+Include if available:
+
+- Game version
+- Mod version
 - Error logs
 - Screenshots
-- Steps to reproduce
-- Game version
- 
-### Suggesting Features
- 
-Feature suggestions are welcome.
- 
-When creating a suggestion, please explain:
- 
-- What problem it solves
-- How it improves gameplay
-- Any potential drawbacks
- 
-### Code Contributions
- 
+- Save files
+
+---
+
+## Suggesting Features
+
+Feature suggestions are always appreciated.
+
+Please explain:
+
+- What the feature does
+- Why it would improve the mod
+- Any known drawbacks
+- Possible implementation ideas
+
+---
+
+## Setting Up Your Development Environment
+
 1. Fork the repository.
-2. Create a new branch:
- 
+2. Clone your fork.
+
+```bash
+git clone https://github.com/your-username/CK-The-Old-World.git
+```
+
+3. Create a working branch.
+
 ```bash
 git checkout -b feature/my-feature
-Make your changes.
-Test them thoroughly.
-Commit your changes:
-Shell
+```
+
+4. Make your changes.
+5. Test your changes.
+6. Commit and push them.
+
+```bash
+git add .
 git commit -m "Add: short description"
-Push your branch:
-Shell
 git push origin feature/my-feature
-Open a Pull Request.
-Modding Guidelines
-Keep files organized.
-Use clear and descriptive names.
-Comment complex scripts when necessary.
-Avoid changing unrelated files.
-Try to keep commits focused on a single feature or fix.
-Pull Request Checklist
- The mod loads correctly.
- No obvious errors appear in logs.
- Changes were tested.
- Documentation was updated if necessary.
- The PR has a clear description.
-Community
+```
 
-Be respectful and constructive when discussing ideas and reviewing contributions.
+7. Open a Pull Request.
 
-License
+---
 
-By contributing, you agree that your contributions will be distributed under the same license as this project.
+## Coding Guidelines
+
+### General
+
+- Keep code readable.
+- Use descriptive names.
+- Avoid unnecessary duplication.
+- Keep commits focused on a single change.
+
+### Scripts
+
+- Comment complex sections.
+- Follow existing scripting conventions.
+- Do not commit temporary files.
+
+### File Structure
+
+Place content in the appropriate directories and keep the repository organised.
+
+---
+
+## Commit Message Guidelines
+
+Please use clear commit messages.
+
+Examples:
+
+```text
+Fix: character history loading issue
+
+Add: new kingdom succession laws
+
+Balance: reduce levy growth scaling
+
+Refactor: event trigger optimisation
+
+Docs: update installation guide
+```
+
+---
+
+## Pull Request Guidelines
+
+Before submitting a Pull Request, verify that:
+
+- [ ] The mod loads correctly.
+- [ ] No new errors appear in logs.
+- [ ] Changes have been tested.
+- [ ] Documentation has been updated when required.
+- [ ] The PR has a clear title and description.
+- [ ] Unrelated files were not modified.
+
+---
+
+## Review Process
+
+Pull Requests may receive review comments before being merged.
+
+Please:
+
+- Be open to feedback.
+- Explain design decisions when necessary.
+- Keep discussions respectful.
+- Update your branch if requested.
+
+---
+
+## Areas Where Help Is Needed
+
+Contributors can help with:
+
+- Gameplay mechanics
+- Historical research
+- Events
+- Decisions
+- Traits
+- Cultures
+- Religions
+- Map work
+- Balancing
+- Localisation
+- Documentation
+- Bug fixing
+- Performance improvements
+
+---
+
+## Community Standards
+
+All contributors are expected to:
+
+- Treat others respectfully.
+- Avoid personal attacks.
+- Focus on improving the project.
+- Encourage collaboration.
+
+---
+
+## Ownership of Contributions
+
+By submitting a contribution, you agree that your work may be modified, redistributed and included in the project under the repository license.
+
+---
+
+## Thank You
+
+Every contribution, no matter how small, helps improve CK-The-Old-World.
+
+Thank you for helping build the project.
